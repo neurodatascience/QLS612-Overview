@@ -4,42 +4,45 @@ title: Windows Setup
 description: Instructions for setting up on Windows
 ---
 
-### Windows Subsystem for Linux (WSL)
+### WSL2 (Windows Subsystem for Linux version 2) 
+WSL (Windows Subsystem for Linux) allows you to use Linux on top of Windows 10 natively, WSL2 is the most recent version of WSL and it is more stable. If you already have WSL(1), it is easy to convert to WSL2 (see [Instructions to convert WSL(1) to WSL2](https://ericsysmin.com/2019/07/13/converting-wsl-1-operating-systems-to-wsl-2-on-windows/)), if your Windows 10 is patched with 1909 or older, see [Install WSL2 on Windows 10 1909 or older](https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/).
 
-1. Search for `Windows Powershell` in your applications; right click and select `Run as administrator`.
-   Select `Yes` on the prompt that appears asking if you want to allow the app to make changes to your device.
-2. Type the following into the Powershell and then press `Enter`:
+#### Install WSL2 on Windows 10
+
+1. Open **Start (Win key)** and search for **Command Prompt** (type directly) in your applications, right click and select `Run as administrator`. Select `Yes` on the prompt that appears asking if you want to allow the app to make changes to your device.
+2. Type the following into the **Command Prompt** and then press `Enter`:
 
    ```bash
-   Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+   wsl --install
    ```
 
-3. Press `Enter` again when prompted to reboot your computer.
-4. Once your computer has rebooted, open the Microsoft Store and search for "Ubuntu."
-   Install the program labelled "Ubuntu 18.04" (not "Ubuntu 16.04" or "Ubuntu") by clicking the tile, pressing `Get`, and then `Install`.
-5. Search for and open Ubuntu from your applications.
-   There will be a slight delay (of a few minutes) while it finishes installing.
-6. You will be prompted to `Enter new UNIX username`.
-   You can use any combination of alphanumeric characters here for your username, but a good choice is `<first_initial><last_name>` (e.g., `jsmith` for John Smith).
-   You will then be prompted to enter a new password.
-   (Choose something easy to remember as you will find yourself using it frequently.)
-7. Right click on the top bar of the Ubuntu application and select "Properties".
-   Under the "Options" tab, under the "Edit Options" heading, make sure the box reading "Use Ctrl+Shift+C/V as Copy/Paste" is checked.
-   Under the "Terminal" tab, under the "Cursor Shape" heading, make sure the box reading "Vertical Bar" is checked.
-   Press "Okay" to save these settings and then exit the application.
+3. Restart your computer to finish the WSL installation and continue with the Linux distro setup.
+4. Open **Start (Win key)** and search for **Command Prompt** (type directly) in your applications, right click and select `Run as administrator`.
+   Select `Yes` on the prompt that appears asking if you want to allow the app to make changes to your device.
+5. Type the following command to view a list of available WSL distros you can install on Windows 10 and press Enter:
 
-(The above step-by-step WSL instructions are distilled from [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and [here](https://docs.microsoft.com/en-us/windows/wsl/initialize-distro).
-If you have questions during the installation procedure those resources may have answers!)
+   ```bash
+   wsl --list --online
+   ```
 
-From this point on whenever the instructions specify to "open a terminal" please assume you are supposed to open the Ubuntu application.
+6. Type the following command to install the WSL with a specific distro (Ubuntu-18.04 recommended) and press Enter (it will start the distro if it has already been installed):
 
-### Bash shell (in the WSL Ubuntu)
+   ```bash
+   wsl --install -d <DISTRO-NAME>
+   ```
+   
+7. Restart your computer, open **Start (Win key)** and search for **Ubuntu**, right click on **Ubuntu \<DISTRO-NAME\> (18.04.5) on Windows (App)** and you are supposed to have the **WSL2 Ubuntu 18.04** terminal open. Now, you are ready to rock!
+8. You will be prompted to `Enter new UNIX username`(This will create a local user account and you will be automatically logged in to \<DISTRO-NAME\> as this user), you can use any combination of alphanumeric characters here for your username, but a good choice is `<first_initial><last_name>` (e.g., `jsmith` for John Smith), You will then be prompted to enter a new password(Choose something easy to remember as you will find yourself using it frequently.).
 
-You already have it, now that you’ve installed the WSL!
+From this point on whenever the instructions specify to **"open/type a command in a terminal"** please assume you are supposed to open/type the command in the Ubuntu application (Open **Start (Win key)** and search for **Ubuntu**, right click on **Ubuntu \<DISTRO-NAME\> (18.04.5) on Windows (App)**).
 
-### Git (in the WSL Ubuntu)
+### Bash shell (in the WSL2 Ubuntu)
 
-You already have it, now that you’ve installed the WSL!
+You already have it, now that you’ve installed the WSL2!
+
+### Git (in the WSL2 Ubuntu)
+
+You already have it, now that you’ve installed the WSL2!
 
 ### VSCode (on your windows)
 
@@ -47,24 +50,23 @@ You already have it, now that you’ve installed the WSL!
 1. Leave all the defaults during the installation with the following exception:
       - Please make sure the box labelled "Register Code as an editor for supported file types" is selected
 
-#### VSCode extensions (allows you to access the WSL Ubuntu)
+#### VSCode extensions (allows you to access the WSL2 Ubuntu)
 
-1. Open the VSCode application, go to Extentions tab (on the left) and search for ```Remote - WSL``` or ```VSCode Terminal For Ubuntu```, install them; (Usually, VSCode can detect your WSL Ubuntu installation and remind you to install these related extentions).
-1. Type `code .` into the terminal and press `Enter`.
-   You should see a message reading "Installing VS Code Server" and then a new windows will open up.
-1. Press `Ctrl+Shift+P` in the new window that opens and type "Extensions: Install extensions" into the search bar that appears at the top of the screen.
-   Select the appropriate entry from the dropdown menu that appears (there should be four entries; simply select the one that reads "Extensions: Install extensions").
-1. A new panel should appear on the left-hand side of the screen with a search bar.
-   Search for each of the following extensions and press `Install` for the first entry that appears. (The author listed for all of these extensions should be "Microsoft".)
-      - Python (n.b., you will need to reload VSCode after installing this)
+1. Open the VSCode application, go to **Extentions tab** (on the left) and search for ```Remote - WSL``` or ```VSCode Terminal For Ubuntu```, install them; (Usually, VSCode can detect your WSL Ubuntu installation and remind you to install these related extentions).
+1. Type `code .` into **the terminal (Ubuntu \<DISTRO-NAME\> (18.04.5) on Windows (App))** and press `Enter`.
+   You should see a message reading "Installing VS Code Server" and then a new VSCode window (entitled: Get Started - \<USER NAME\> [WSL: Ubuntu \<DISTRO-NAME\>] - Visual Studio Code) will open up.
+1. Press `Ctrl+Shift+P` in the new VSCode window and type "Extensions: Install extensions" into the search bar that appears at the top of the screen, select the one that reads "Extensions: Install extensions".
+2. A new panel should appear on the left-hand side of the screen with a search bar.
+   Search for each of the following extensions and press `Install in WSL: Ubuntu-\<DISTRO-NAME\>` for the first entry that appears. (The author listed for all of these extensions should be "Microsoft".)
+      - Python Extension Pack (n.b., you will need to reload VSCode after installing this)
       - Live Share (n.b., you may need to press "Ctrl/Cmd+Shift+P" and type "install extensions" again after installing this)
       - Live Share Extension Pack
       - Docker
       - Remote - WSL
 
-### Python (in the WSL Ubuntu)
+### Python (VSCode terminal or in the WSL Ubuntu terminal, all the following steps are the same as the [setup in Linux](https://neurodatascience.github.io/QLS612-Overview/linux-setup.html))
 
-1. Open a new terminal (from VSCode menu on top, the terminal will open at the bottom of the VSCode main window, working with this terminal is equavalent to ssh to the WSL Ubuntu) and type the following lines (separately) into the terminal, pressing `Enter` after each one:
+1. Type the following lines (separately) into the terminal (at the bottom of the VSCode main window, working with this terminal is equavalent to ssh to the WSL2 Ubuntu) and press `Enter` after each one:
 
    ``` bash
    wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
@@ -97,7 +99,10 @@ conda config --append channels conda-forge
 conda config --set channel_priority strict
 conda install -y flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn
 ```
-**This installation step will take some time.**
+This installation step will take some time. After the installation is finished, you are ready to use VSCode to edit your python script or jupyter notebook in your WSL2 Ubuntu distribution. 
+
+Warning: You may be asked to specify the python envirenment/kernel if you want to run jupyter notebook, VSCode will give you several options and choose the one you would like to use. You can always choose the result obtained from `which python` (e.g., `/home/$USER/miniconda3/bin/python` in your WSL2 Ubuntu distribution), this is the default python envirenmet managed by `miniconda`.
+
 ### Docker
 
 Unfortunately, Docker for Windows is a bit of a mess.
