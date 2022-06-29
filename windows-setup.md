@@ -50,7 +50,9 @@ You already have it, now that you’ve installed the WSL2!
 1. Leave all the defaults during the installation with the following exception:
       - Please make sure the box labelled "Register Code as an editor for supported file types" is selected
 
-#### VSCode extensions (allows you to access the WSL2 Ubuntu)
+#### VSCode extensions
+
+These extentions will allow you to work with the WSL2 Ubuntu with GUI.
 
 1. Open the VSCode application, go to **Extentions tab** (on the left) and search for ```Remote - WSL``` or ```VSCode Terminal For Ubuntu```, install them; (Usually, VSCode can detect your WSL Ubuntu installation and remind you to install these related extentions).
 1. Type `code .` into **the terminal (Ubuntu \<DISTRO-NAME\> (18.04.5) on Windows (App))** and press `Enter`.
@@ -64,9 +66,11 @@ You already have it, now that you’ve installed the WSL2!
       - Docker
       - Remote - WSL
 
-### Python (VSCode terminal or in the WSL Ubuntu terminal, all the following steps are the same as the [setup in Linux](https://neurodatascience.github.io/QLS612-Overview/linux-setup.html))
+### Python (in the WSL2 Ubuntu)
 
-1. Type the following lines (separately) into the terminal (at the bottom of the VSCode main window, working with this terminal is equavalent to ssh to the WSL2 Ubuntu) and press `Enter` after each one:
+We are going to install miniconda to manage the python envirenment in our WSL2 Ubuntu using the **VSCode terminal** (at the bottom of the VSCode main window, working with this terminal is equavalent to ssh to the WSL2 Ubuntu) or the WSL Ubuntu terminal (Open **Start (Win key)** and search for **Ubuntu**, right click on **Ubuntu \<DISTRO-NAME\> (18.04.5) on Windows (App)**).
+
+1. Type the following lines (separately) into the terminal and press `Enter` after each one:
 
    ``` bash
    wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
@@ -90,7 +94,7 @@ You already have it, now that you’ve installed the WSL2!
    rm ./Miniconda3-latest-Linux-x86_64.sh
    ```
 
-#### Python packages (in the WSL2 Ubuntu)
+#### Python packages
 
 Open a terminal and type the following commands:
 
