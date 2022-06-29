@@ -21,7 +21,7 @@ If you are prompted to install it follow the instructions on-screen to do so.
 
 ### VSCode
 
-1. Go to https://code.visualstudio.com/ and click the download button for either the .deb (Ubuntu, Debian) or the .rpm (Fedora, CentOS) file.
+1. Go to [this page](https://code.visualstudio.com/) and click the download button for either the .deb (Ubuntu, Debian) or the .rpm (Fedora, CentOS) file.
 1. Double-click the downloaded file to install VSCode.
    (You may be prompted to type your administrator password during the install).
 
