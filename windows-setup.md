@@ -46,7 +46,7 @@ You already have it, now that you’ve installed the WSL2!
 
 ### VSCode (on your Windows)
 
-1. Go to https://code.visualstudio.com/ and click the download button, then run the `.exe` file.
+1. Go to [this page](https://code.visualstudio.com/) and click the download button, then run the `.exe` file.
 1. Leave all the defaults during the installation with the following exception:
       - Please make sure the box labelled "Register Code as an editor for supported file types" is selected
 
