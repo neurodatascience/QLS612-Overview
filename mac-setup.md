@@ -28,7 +28,7 @@ If you do not see something like “git version X.XX.X” printed out, then foll
 
 ### VSCode
 
-1. Go to https://code.visualstudio.com/ and click the download button.
+1. Go to [this page](https://code.visualstudio.com/) and click the download button.
 1. Unzip the downloaded file (e.g., `VSCode-darwin-stable.zip`) and moving the resulting `Visual Studio Code` file to your Applications directory.
 
 #### VSCode extensions
