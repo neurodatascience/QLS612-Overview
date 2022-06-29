@@ -84,7 +84,7 @@ conda install -y flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn nu
 
 ### Docker
 
-1. Go to https://hub.docker.com/editions/community/docker-ce-desktop-mac/ and press “Get Docker”.
+1. Go to [this page](https://hub.docker.com/editions/community/docker-ce-desktop-mac/) and press “Get Docker”.
 1. Open the “Docker.dmg” file that is downloaded and drag and drop the icon to the Applications folder
 1. Open the Docker application and enter your password.
    An icon will appear in the status bar in the top-left of the screen.
