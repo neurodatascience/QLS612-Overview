@@ -68,7 +68,7 @@ These extentions will allow you to work with the WSL2 Ubuntu with GUI.
 
 ### Python (in the WSL2 Ubuntu)
 
-We are going to install miniconda to manage the python envirenment in our WSL2 Ubuntu using the **VSCode terminal** (at the bottom of the VSCode main window, working with this terminal is equavalent to ssh to the WSL2 Ubuntu) or the WSL Ubuntu terminal (Open **Start (Win key)** and search for **Ubuntu**, right click on **Ubuntu \<DISTRO-NAME\> (18.04.5) on Windows (App)**).
+We are going to install miniconda to manage the python environment in our WSL2 Ubuntu using the **VSCode terminal** (at the bottom of the VSCode main window, working with this terminal is equavalent to ssh to the WSL2 Ubuntu) or the WSL Ubuntu terminal (Open **Start (Win key)** and search for **Ubuntu**, right click on **Ubuntu \<DISTRO-NAME\> (18.04.5) on Windows (App)**).
 
 1. Type the following lines (separately) into the terminal and press `Enter` after each one:
 
@@ -101,11 +101,15 @@ Open a terminal and type the following commands:
 ``` bash
 conda config --append channels conda-forge
 conda config --set channel_priority strict
-conda install -y flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn
+conda create -n qlsc612 -y python=3.9 flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn bokeh
+conda activate qlsc612
 ```
-This installation step will take some time. After the installation is finished, you are ready to use VSCode to edit your python script or jupyter notebook in your WSL2 Ubuntu distribution. 
+This installation step will take some time. These commands simply create a new conda python 3.9 environment named **qlsc612** with all the nessesary packages installed for this course, `conda activate qlsc612` will active this python environment (defaut env is base). Now you are ready to use VSCode to edit your python script or jupyter notebook in your WSL2 Ubuntu distribution. 
 
-Warning: You may be asked to specify the python envirenment/kernel if you want to run jupyter notebook, VSCode will give you several options and choose the one you would like to use. You can always choose the result obtained from `which python` (e.g., `/home/$USER/miniconda3/bin/python` in your WSL2 Ubuntu distribution), this is the default python envirenmet managed by `miniconda`.
+Reminders: 
+
+1) You may need to activate qlsc612 each time you start the WSL2 (VSCode) with `conda activate qlsc612`, if you want to keep qlsc612 the defaut choice for python environment, add this line to the end of `${HOME}/.bashrc` and run `source ${HOME}/.bashrc`; 
+2) You still need to specify the python environment/kernel when you run jupyter notebook in VSCode (remote access to your WSL2 Ubuntu), click the button on top right of the jupyter notebook (there might be some texts on it like: base (Python 3.9.x)), VSCode will give you several options (usually 4) and choose *qlsc612 (Python 3.9.x) miniconda3/envs/qlsc612/bin/python*, it will then appear on the button (qlsc612 (Python 3.9.x)). This is the python environment we have just created for this course, make sure it is the one you are using for latter experiments.
 
 ### Docker Desktop for Windows 
 
