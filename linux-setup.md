@@ -70,7 +70,8 @@ Open a terminal and type the following commands:
 ``` bash
 conda config --append channels conda-forge
 conda config --set channel_priority strict
-conda install -y flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn
+conda create -n qlsc612 -y python=3.9 flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn bokeh
+conda activate qlsc612
 ```
 
 ### Docker
