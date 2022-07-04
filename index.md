@@ -7,7 +7,7 @@ layout: default
 
 <img src="logo_horizontal__for_light_background.png" alt="drawing" width="250" class="center">
 
-* [Link to the **pre-recorded lectures and class material**.](./lectures-materials.html)
+* [Link to the **lectures materials**.](./lectures-materials.html)
 * [Link to the **live tutorial schedule**.](./tut-schedule.html)
 * [Link to **setup instructions**](./setup.html).
 * [Link to the **code of conduct**.](./coc.html)
@@ -40,11 +40,11 @@ In terms of requirements, students will be expected to have basic programming sk
 10. Containers
 11. High Performance Computing
 
-[Link to the pre-recorded lectures and class material.](./lectures-materials.html)
+[Link to the lectures materials.](./lectures-materials.html)
 
 ## Approach to teaching
 
-This year, we will be returning to in-person learning! Students taking the course for credit will have to attend lectures in room 189 (QLS Conference Room) of 550 Sherbrooke Street E. Students will be required to attend in-person lectures for all of the modules and will have access to [pre-recorded lectures and online content](https://neurodatascience.github.io/QLS612-Overview/lectures-materials.html) to better consolidate the material. Course grading will be based on the results of 2 in-person quizzes (see [schedule](https://neurodatascience.github.io/QLS612-Overview/tut-schedule.html)). The course requires that you have a laptop and instructions for installation are [here](https://neurodatascience.github.io/QLS612-Overview/setup.html). 
+This year, we will be returning to in-person learning! Students taking the course for credit will have to attend lectures in room 189 (QLS Conference Room) of 550 Sherbrooke Street E. Students will be required to attend in-person lectures for all of the modules and will have access to [lectures materials and online content](https://neurodatascience.github.io/QLS612-Overview/lectures-materials.html) to better consolidate the material. Course grading will be based on the results of 2 in-person quizzes (see [schedule](https://neurodatascience.github.io/QLS612-Overview/tut-schedule.html)). The course requires that you have a laptop and instructions for installation are [here](https://neurodatascience.github.io/QLS612-Overview/setup.html). 
 
 ## Acknowledgements and funders
 We are grateful for support from HBHL NeuroHub and the NIH funded ReproNim centre.  
