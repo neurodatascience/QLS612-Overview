@@ -241,22 +241,23 @@ ___
 
 **Outline**
 
-* Understand basic concepts in supervised machine-learning
-* Implement a typical model validation pipeline with Scikit-learn
-* Learn about various model performance scores and their use-cases
+* Define machine-learning nomenclature 
+* Describe basics of the “learning” process
+* Explain model design choices and performance trade-offs
+* Introduce model selection and validation frameworks
+* Explain model performance metrics
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/07-Machine_Learning_1)
 
-**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=vsp7c-f3cvg)
+**Pre-recorded lecture video:** [YouTube Link](https://drive.google.com/file/d/1DwjA9u5VBguwKINQD0iWzJSXLBRhv4H_/view)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/07-Machine_Learning_1)
+**Slides:** [Slides](https://docs.google.com/presentation/d/1rxR237_F95cfQsA7ZPicQa2w-r-LVOdGwm1xpgosE8o/edit?usp=sharing)
 
 **Questions you will be able to answer after taking this module:**
 
-1. What is linear regression?
-2. Can you do multiclass prediction using logistic regression? 
-3. What is cross-validation? 
-4. Can you tell if the classifier performance is acceptable solely based on its prediction accuracy?
+1. Model training - what is under/over-fitting? 
+3. Model selection - what is (nested) cross-validation? 
+4. Model evaluatation - what are type-1 and type-2 errors? 
 
 ___
 
