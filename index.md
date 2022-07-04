@@ -40,7 +40,7 @@ In terms of requirements, students will be expected to have basic programming sk
 10. Containers
 11. High Performance Computing
 
-[Link to the lectures materials.](./lectures-materials.html)
+[Link to lectures materials.](./lectures-materials.html)
 
 ## Approach to teaching
 
