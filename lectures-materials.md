@@ -223,7 +223,7 @@ This module is designed to introduce students to data preprocessing (ie preparat
 
 **Materials**: [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/06-Data_Preprocessing_in_Python)
 
-**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/channel/UCnz2USVFlvPIi_IKQ9XOJ8g/featured)
+**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=Zt3cHaI-__w)
 
 **Questions you will be able to answer after taking this module:** 
 
