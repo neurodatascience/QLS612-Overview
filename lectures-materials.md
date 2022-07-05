@@ -229,7 +229,7 @@ This module is designed to introduce students to data preprocessing (ie preparat
 
 1. What is a problem that can arise when you one-hot encode a feature with a lot of categories?
 2. What Python library can you use to generate histograms?
-3. If you are using a Gaussian filter to blur an image, which of the following $\sigma$ values will blur your image the most: 0.1, 2, 4, 5, 6 ?
+3. If you are using a Gaussian filter to blur an image, which of the following sigma values will blur your image the most: 0.1, 2, 4, 5, 6 ?
 4. What Python package is faster for matrix computations: Pandas or Numpy?
 
 ___
