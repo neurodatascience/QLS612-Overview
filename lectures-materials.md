@@ -83,8 +83,6 @@ ___
 
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=ml6VkmtLXpA)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/03-Intro_to_Python)
-
 **Questions you will be able to answer after taking this module:**
 
 (1) How does the use of a ‘break’ statement alter the flow of a loop in Python?
@@ -139,11 +137,7 @@ At the end of the lecture, participants will be able to:
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/04-Python_Toolbox_for_Data_Analysis)
 
-**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/channel/UCnz2USVFlvPIi_IKQ9XOJ8g/featured)
-
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/04-Python_Toolbox_for_Data_Analysis)
-
-**Assigned readings** 
+**Lecture Resources** 
 
 * [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy) by Jay Alammar, **up to "Transposing and Reshaping**.
 * [Pandas DataFrame introduction](https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html)
