@@ -44,7 +44,7 @@ In terms of requirements, students will be expected to have basic programming sk
 
 ## Approach to teaching
 
-This year, we will be returning to in-person learning! Students taking the course for credit will have to attend lectures in room 189 (QLS Conference Room) of 550 Sherbrooke Street E. Students will be required to attend in-person lectures for all of the modules and will have access to [lectures materials and online content](https://neurodatascience.github.io/QLS612-Overview/lectures-materials.html) to better consolidate the material. Course grading will be based on the results of 2 in-person quizzes (see [schedule](https://neurodatascience.github.io/QLS612-Overview/tut-schedule.html)). The course requires that you have a laptop and instructions for installation are [here](https://neurodatascience.github.io/QLS612-Overview/setup.html). 
+This year, we will be returning to in-person learning! Students taking the course for credit will have to attend lectures in room 189 (QLS Conference Room) of 550 Sherbrooke Street W. Students will be required to attend in-person lectures for all of the modules and will have access to [lectures materials and online content](https://neurodatascience.github.io/QLS612-Overview/lectures-materials.html) to better consolidate the material. Course grading will be based on the results of 2 in-person quizzes (see [schedule](https://neurodatascience.github.io/QLS612-Overview/tut-schedule.html)). The course requires that you have a laptop and instructions for installation are [here](https://neurodatascience.github.io/QLS612-Overview/setup.html). 
 
 ## Acknowledgements and funders
 We are grateful for support from HBHL NeuroHub and the NIH funded ReproNim centre.  
