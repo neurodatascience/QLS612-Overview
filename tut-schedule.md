@@ -6,7 +6,7 @@ description: The schedule and Zoom link for the live tutorial sessions
 
 # Live Tutorial Schedule
 
-**Classroom:** room 189 (QLS Conference Room) of 550 Sherbrooke Street E
+**Classroom:** room 189 (QLS Conference Room) of 550 Sherbrooke Street West
 
 | Date     | Time | Event     |
 | :----:        |    :----:   |          :----: |
