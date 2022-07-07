@@ -179,7 +179,7 @@ Git and GitHub are key tools for doing version control in both academia and indu
 
 **Pre-recorded lecture video:** [YouTube Link](https://youtu.be/b0ETTTKfu2Y)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/05-Git_GitHub/lecture-content/05-Git_GitHub.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/05-Git_GitHub/05-Git_GitHub.pdf)
 
 **Questions you will be able to answer after taking this module:** 
 
