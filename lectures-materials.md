@@ -325,9 +325,9 @@ ___
 
 **Outline**
 
-* Learn about different virtualization technologies, what they entail and how they work.
-* Get first experience with basic utilization.
-* Evaluate if, when and how to integrate virtualization into the lifecycle of a project.
+* Learn why containerization and virtualization are important for research projects.
+* Have an overview of different solutions to create isolated environments.
+* Get some basic hands on experience with Python virtual environments and Docker.
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/10-Containers)
 
@@ -337,26 +337,22 @@ ___
 
 **Questions you will be able to answer after taking this module:** 
 (to check your understanding of the pre-recorded materials)
-1.  What is virtualization?
-  - a) isolating, encapsulating and sharing computing environments
-  - b) sharing analysis code
-  - c) testing analysis code across different operating systems
-  - d) describing a computing environment within a publication
-2. What is the “hierarchy” of the 4 levels of virtualization discussed, from lowest (i.e., least like a full operating system) to highest (i.e., most like a full operating system)?
-  - a) pip virtualenv, conda, docker, virtual machine
-  - b) virtual machine, docker, conda, pip virtual env
-  - c) pip virtualenv, docker, conda, virtual machine
-  - d) virtual machine, conda, docker, pip virtualenv
-3. How can one evaluate the optimal virtualization technique given the project at hand?
-  - a) testing different options until it works
-  - b) outline required computing environment upon starting the project
-  - c) it doesn’t matter, just use the same every time
-  - d) start with the highest level and descend until things stop working
-4. How can one create computing environments dedicated to specific projects?
-  - a) it depends on the operating system 
-  - b) exclusively through cloud computing instances
-  - c) using the BIOS
-  - d) it depends on the virtualization technique
+- When working with the file system inside a Docker container, which statements are true?
+	- I cannot see files on the host system from inside the container
+	- files written into the container file system are lost with the container
+	- I can mount paths on the host system into the container to expose their contents to it
+- What is an advantage of Docker over a Virtual Machine?
+	- a Docker container can run any operating system, independently of the host operating system
+	- Docker is a good choice for shared systems because of its high level of security
+	- Docker containers are easier to specify, build, and manage and have better sharing infrastructure
+- What is the difference between a Docker container and a Docker image?
+	- A Docker container is a registry service to store and share Docker images
+	- A Docker image is a read-only snapshot and a Docker container is a running instance of it
+	- A Docker container is a read-only snapshot that can be easily shared (e.g. on Dockerhub) and from it, many live Docker images can be spawned
+- What is an advantage conda has over pip for Python environments?
+	- conda is usually  prepackaged with Python, so you don't have to install anything
+	- conda has more Python packages than pip because of the Anaconda distribution
+	- conda can resolve non-Python dependencies and can also create virtual environments
 
 ___
 
