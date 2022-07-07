@@ -58,7 +58,7 @@ You will learn how to:
 
 **Pre-recorded lecture video:** [YouTube Link](https://youtu.be/Sd10Wo5LQls)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/02-Terminal_and_Bash/lecture-content/02-Terminal_and_Bash.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/02-Terminal_and_Bash/introduction-to-shell.pdf)
 
 **Questions you will be able to answer after taking this module:**
 
