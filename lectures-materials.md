@@ -331,9 +331,9 @@ ___
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/10-Containers)
 
-**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/channel/UCnz2USVFlvPIi_IKQ9XOJ8g/featured)
+**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=Kzyev8m-Vcg&list=PLvBnRHmuiqY_6hfRmfF3468eBGnRqgW1r&index=8&t=3813s)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/10-Containers)
+**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/10-Containers/qls%20612%20containerization%20slides.pdf)
 
 **Questions you will be able to answer after taking this module:** 
 (to check your understanding of the pre-recorded materials)
