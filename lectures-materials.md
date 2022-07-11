@@ -285,9 +285,9 @@ ___
 
 **Outline**
 
-* This module will teach students the basics of data visualization in Python, with the goal of using it as a tool to understand data, and create publication-quality graphics.
-* It will guide students through the process of familiarizing themselves with the data, and choosing plots that display the information accurately and clearly.
-* It will provide the students with instructions and examples on how to use multiple widely-used plotting libraries in Python (Matplotlib, Seaborn, Plot.ly, Bokeh).
+* This module will teach students fundamental concepts of data visualization and familiarize them with several graphing libraries in Python (Matplotlib, Seaborn, Plot.ly, Bokeh) with the goals of using visualizations as a tool to understand data and creating graphics for multiple science contexts.
+* It will guide students through the process of familiarizing themselves with graphing libraries, and choosing plots that display the information accurately and clearly.
+* It will provide students with a perspective on best practices for visualization design.
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/09-Intro_to_Data_Visualization)
 
@@ -297,26 +297,11 @@ ___
 
 **Questions you will be able to answer after taking this module:**
 
-(1) If you wanted to create a figure that groups and categorizes the data based on relationships among the variables, which of the following plots would you use? 
-
-* a) Heatmap
-* b) Jointplot
-* c) Clustermap
-* d) Raincloud plot
-
-(2) What is a plausible reason to avoid using a hexplot?
-
-* a) You have a large sample size, so a scatter plot will give the viewer a better idea of the distribution.
-* b) They often require being paired with other graphs in jontplots to convey information about the data.
-* c) You have a small sample size, so the differences in datapoint density per hexagon are not well represented.
-* d) You have a small sample size, so a density plot will work better for the vast majority of bivariate data.
-
-(3) What is an advantage of Perceptually Uniform Colormaps over other colormaps? 
-
-* a) They hide points of high perceptual contrast, making for a better reading experience.
-* b) False features are not introduced into the data.
-* c) They give each colour equal representation in the colormap, making it more accurate.
-* d) They are accessible for people with colorblindness.
+- Which plot types are best to visualize scalar, categorical, or distributional data? How does the answer to that question change if the data relationship being plotted is univariate vs multivariate?
+- What are a few best practics for visualization design that balances clarity and consideration for audience?
+- Why would I choose to generate static visualizations vs interactive ones?
+- Which Python graphing libraries are most efficient to do so? And what are some of the capabilities of each?
+- Is a data visualization an objective research output?
 
 ___
 
