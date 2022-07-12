@@ -279,7 +279,7 @@ ___
 
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=t8D9qwTqEbc)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/08-Machine_Learning_2/slides/slides.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/08-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf)
 
 **Questions you will be able to answer after taking this module:**
 
