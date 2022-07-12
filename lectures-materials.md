@@ -31,6 +31,9 @@ With this lecture, you will get a general introduction to reproducible - or irre
 
 **Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/01-Intro_to_Reproducibility/lecture-content/01-Intro_to_Reproducibility.pdf)
 
+**Lecture Resources**
+* Canonical paper: [Ten common statistical mistakes to watch out for when writing or reviewing a manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785265/)
+
 **Questions you will be able to answer after taking this module:**
 
 - Is the term “replicability” generally applied to obtaining the same results with another (new) dataset ?
@@ -219,6 +222,13 @@ This module is designed to introduce students to data preprocessing (ie preparat
 
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=Zt3cHaI-__w)
 
+**Lecture resourecs**
+* [One-hot encoding](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
+* [10 Python image manipulation tools](https://opensource.com/article/19/3/python-image-manipulation-tools)
+* [6 Different Ways to Compensate for Missing Values In a Dataset](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779)
+* [Imputation of mixed data with multilevel singular value decomposition](https://arxiv.org/abs/1804.11087)
+* [Understanding the Difference Between Normalization vs. Standardization](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/)
+
 **Questions you will be able to answer after taking this module:** 
 
 1. What is a problem that can arise when you one-hot encode a feature with a lot of categories?
@@ -244,6 +254,9 @@ ___
 **Pre-recorded lecture video:** [YouTube Link](https://drive.google.com/file/d/1DwjA9u5VBguwKINQD0iWzJSXLBRhv4H_/view)
 
 **Slides:** [Slides](https://docs.google.com/presentation/d/1rxR237_F95cfQsA7ZPicQa2w-r-LVOdGwm1xpgosE8o/edit?usp=sharing)
+
+**Lecture Resources**
+* [Linear algebra review and references](https://www.cs.mcgill.ca/~dprecup/courses/ML/Materials/linalg-review.pdf)
 
 **Questions you will be able to answer after taking this module:**
 
