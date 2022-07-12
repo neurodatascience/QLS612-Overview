@@ -256,7 +256,8 @@ ___
 **Slides:** [Slides](https://docs.google.com/presentation/d/1rxR237_F95cfQsA7ZPicQa2w-r-LVOdGwm1xpgosE8o/edit?usp=sharing)
 
 **Lecture Resources**
-* [Linear algebra review and references](https://www.cs.mcgill.ca/~dprecup/courses/ML/Materials/linalg-review.pdf)
+* [Linear Algebra Review and Reference](https://www.cs.mcgill.ca/~dprecup/courses/ML/Materials/linalg-review.pdf)
+* [Review of Probability Theory](https://www.cs.mcgill.ca/~dprecup/courses/ML/Materials/prob-review.pdf)
 
 **Questions you will be able to answer after taking this module:**
 
