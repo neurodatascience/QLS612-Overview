@@ -334,6 +334,11 @@ ___
 
 **Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/10-Containers/qls%20612%20containerization%20slides.pdf)
 
+**Lecture Resources**
+* [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward R. Tufte
+* [Gapminder](https://www.gapminder.org)
+* [Lev Manovich](http://manovich.net)
+
 **Questions you will be able to answer after taking this module:** 
 (to check your understanding of the pre-recorded materials)
 - When working with the file system inside a Docker container, which statements are true?
