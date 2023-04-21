@@ -6,15 +6,15 @@ description: Links to the pre-recorded lectures and material
 
 #  Lectures and Class Material
 
-**Lecture material:** [Link to the parent GitHub Repository](https://github.com/neurodatascience/course-materials-2022).
+[Link to the GitHub Repository containing the lecture materials](https://github.com/neurodatascience/QLS-course-materials)
 
-**Back to home** [QLS612 website](https://neurodatascience.github.io/QLS612-Overview/)
+[QLS612 Slack workspace](https://qls612-bhs.slack.com)
 
-**Slack workspace** [QLS612 slack](https://qls612-bhs.slack.com)
+[Back to home](./)
 
 ___
 
-## 1. Reproducibility in Life Science
+## 1. Reproducibility in Life Sciences
 **Instructor:** [JB Poline](mailto:jean-baptiste.poline@mcgill.ca)
 
 **Outline**
@@ -25,11 +25,11 @@ With this lecture, you will get a general introduction to reproducible - or irre
 * undertand the main causes for irreproducible results
 * learn the possible collective and individual actions for curbing irreproducibility
 
-**Material:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/01-Intro_to_Reproducibility)
+**Material:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/01-Intro_to_Reproducibility)
 
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=US80s7W4s6o)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/01-Intro_to_Reproducibility/lecture-content/01-Intro_to_Reproducibility.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/01-Intro_to_Reproducibility/lecture-content/01-Intro_to_Reproducibility.pdf)
 
 **Lecture Resources**
 * Canonical paper: [Ten common statistical mistakes to watch out for when writing or reviewing a manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785265/)
@@ -43,38 +43,38 @@ With this lecture, you will get a general introduction to reproducible - or irre
 ___
 
 ## 2. Introduction to the Terminal and Bash
-**Instructor:** Jacob Sanz-Robinson
+**Instructors:** Brent McPherson, Alyssa Dai
 
 **Outline** 
 
-To follow most of the other modules you will have to have some basic understanding of the command line.
+To follow most of the other modules, you will have to have some basic understanding of the command line.
 In this module we'll take a look at the the BourneAgainSHell (BASH), 
 the default command line in most Linux systems. 
 You will learn how to:
 
 * move around on your computer with the command line, create and open directories and files
 * find things with the command line (files and programs, PATH variables)
-* run useful command line programs and find help (find, grep, ls, and man / documentation)
+* run useful command line programs and find help (`find`, `grep`, `ls`, and `man` / documentation)
 
 **Materials**: 
-- [Github Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/02-Terminal_and_Bash)
+- [Github Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/02-Terminal_and_Bash)
 
-**Pre-recorded lecture video:** [YouTube Link](https://youtu.be/Sd10Wo5LQls)
+**Pre-recorded lecture video (by Sebastian Urchs):** [YouTube Link](https://youtu.be/Sd10Wo5LQls)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/02-Terminal_and_Bash/introduction-to-shell.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/02-Terminal_and_Bash/introduction-to-shell.pdf)
 
 **Questions you will be able to answer after taking this module:**
 
-- What is a command line shell
+- What is a command line shell?
 - How would you copy thousands of files with file names starting with `"my_good_file..."` to a different directory on your computer?
 - Among thousands of files and directories you know there is one where you wrote down `"location of my thesis backup"`. 
   How do you find this file?
-- What is an environment variable and how can you change it?
+- What is an environment variable, and how can you change it?
 
 ___
 
 ## 3. Introduction to Python
-**Instructor:** Jacob Sanz-Robinson and Michelle Wang
+**Instructor:** Michelle Wang, Jacob Sanz-Robinson
 
 **Outline**
 
@@ -82,13 +82,13 @@ ___
 * It will guide students through the fundamental syntax, concepts, and data structures required to code in Python 3.
 * Topics include: Running your code, commenting, variables, arithmetic, logic, strings, lists, tuples, dictionaries, functions, libraries, if statements, loops, exceptions, and classes.
 
-**Material:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/03-Intro_to_Python)
+**Material:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/03-Intro_to_Python)
 
-**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=ml6VkmtLXpA)
+**Pre-recorded lecture video (by Jacob Sanz-Robinson):** [YouTube Link](https://www.youtube.com/watch?v=ml6VkmtLXpA)
 
 **Questions you will be able to answer after taking this module:**
 
-(1) How does the use of a ‘break’ statement alter the flow of a loop in Python?
+(1) How does the use of a `break` statement alter the flow of a loop in Python?
 
 (2) What happens if you attempt to append new elements to a Tuple?
 
@@ -127,43 +127,29 @@ my_function("111", "abc", "0100")
 ___
 
 ## 4. Numpy, Scipy, and Pandas: The Python Toolbox for Data Analyses
-**Instructor:** [Tristan Glatard](mailto:tristan.glatard@concordia.ca)
+**Instructor:** TBD
 
 **Outline**
 
-This lecture will introduce NumPy, Pandas, and SciPy, three of the main libraries in the scientific Python ecosystem.
+This lecture will introduce NumPy, and SciPy, two of the main libraries in the scientific Python ecosystem.
 At the end of the lecture, participants will be able to:
 
 * Manipulate arrays of numbers with NumPy
-* Manipulate data frames with Pandas
 * Apply numerical methods from the scientific Python ecosystem
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/04-Python_Toolbox_for_Data_Analysis)
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/04-Python_Toolbox_for_Data_Analysis) <!-- TODO update link -->
 
 **Lecture Resources** 
 
-* [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy) by Jay Alammar, **up to "Transposing and Reshaping**.
-* [Pandas DataFrame introduction](https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html)
-* [Pandas read-write tutorial](https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html)
+* [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy) by Jay Alammar, **up to "Transposing and Reshaping"**.
 * [Scipy introduction](https://docs.scipy.org/doc/scipy/tutorial/general.html)
 * [Scipy IO tutorial](https://docs.scipy.org/doc/scipy/tutorial/io.html)
 
 **Questions you will be able to answer after taking this module:**
 
-(1) NumPy's main data structure is a Python list
+(1) NumPy's main data structure is a Python list: True or False?
 
-- [ ] True
-- [ ] False
-
-(2) Pandas's main data structure is a 2D table
-
-- [ ] True
-- [ ] False
-
-(3) A Pandas Series is a one-dimensional array
-
-- [ ] True
-- [ ] False
+<!-- TODO add questions -->
 
 ___
 
@@ -178,11 +164,11 @@ Git and GitHub are key tools for doing version control in both academia and indu
 * How to track and share their own work using Git and GitHub; and
 * How to collaborate and contribute to open projects using Git and GitHub.
 
-**Materials**: [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/05-Git_GitHub)
+**Materials**: [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/05-Git_GitHub)
 
 **Pre-recorded lecture video:** [YouTube Link](https://youtu.be/b0ETTTKfu2Y)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/05-Git_GitHub/05-Git_GitHub.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/05-Git_GitHub/05-Git_GitHub.pdf)
 
 **Questions you will be able to answer after taking this module:** 
 
@@ -205,10 +191,11 @@ Git and GitHub are key tools for doing version control in both academia and indu
 
 ___
 
-## 6. Data Preprocessing in Python
-**Instructor:** Nadia Blostein
+## 6. Data Wrangling with Pandas
+**Instructor:** Jacob Sanz-Robinson
 
-This module is designed to introduce students to data preprocessing (ie preparation) in Python. Data preprocessing is a critical prerequisite to any data analysis or machine learning application. Students will be preprocessing .csv and .png data from the [following repository](https://github.com/NadiaBlostein/Open-Access-HCP-Data) and the session will cover the topics below:
+<!-- TODO ask Jacob to update -->
+This module is designed to introduce students to data preprocessing (i.e. preparation) in Python. Data preprocessing is a critical prerequisite to any data analysis or machine learning application. The session will cover the topics below:
 
 **Outline** 
 1. Load and examine your data
@@ -218,27 +205,48 @@ This module is designed to introduce students to data preprocessing (ie preparat
 5. Data visualization
 6. Examining and manipulating 2D images with scikit image and scipy
 
-**Materials**: [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/06-Data_Preprocessing_in_Python)
+**Materials**: [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/06-Data_Preprocessing_in_Python) <!-- TODO update -->
 
-**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=Zt3cHaI-__w)
+**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=Zt3cHaI-__w) <!-- TODO update -->
 
 **Lecture resourecs**
-* [One-hot encoding](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
-* [10 Python image manipulation tools](https://opensource.com/article/19/3/python-image-manipulation-tools)
-* [6 Different Ways to Compensate for Missing Values In a Dataset](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779)
-* [Imputation of mixed data with multilevel singular value decomposition](https://arxiv.org/abs/1804.11087)
-* [Understanding the Difference Between Normalization vs. Standardization](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/)
+Coming soon! <!-- TODO ask Jacob -->
 
 **Questions you will be able to answer after taking this module:** 
 
-1. What is a problem that can arise when you one-hot encode a feature with a lot of categories?
-2. What Python library can you use to generate histograms?
-3. If you are using a Gaussian filter to blur an image, which of the following sigma values will blur your image the most: 0.1, 2, 4, 5, 6 ?
-4. What Python package is faster for matrix computations: Pandas or Numpy?
+<!-- TODO ask Jacob -->
+Coming soon!
 
 ___
 
-## 7. Introduction to Machine Learning part 1: supervised learning
+## 7. Classical statistics pitfalls and remedies
+
+**Instructor:** [JB Poline](mailto:jean-baptiste.poline@mcgill.ca)
+
+**Outline**
+
+Most of published results still rely on some statistical inference. With this lecture, you will
+
+* get a reminder of the classical statistical framework and learn about the issues brought by the use of statistical inference
+* learn (or be reminded of) the notion of effect size, power, positive predictive values and the consequences of low powered studies
+* understand the file drawer effect, p-hacking, and know about some solutions.
+
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/07-Statistics)
+
+**Pre-recorded lecture video:** [YouTube Link](https://youtu.be/lRLtWjkBOzQ)
+
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/07-Statistics/10-classical-statistics-issues.pdf)
+
+**Lecture Resources**
+* [Think Stats](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
+
+**Questions you will be able to answer after taking this module:**
+
+Coming soon! <!-- TODO --> 
+
+___
+
+## 8. Introduction to Machine Learning part 1: supervised learning
 **Instructor:** Nikhil Bhagwat
 
 **Outline**
@@ -249,7 +257,7 @@ ___
 * Introduce model selection and validation frameworks
 * Explain model performance metrics
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/07-Machine_Learning_1)
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/07-Machine_Learning_1)
 
 **Pre-recorded lecture video:** [YouTube Link](https://drive.google.com/file/d/1DwjA9u5VBguwKINQD0iWzJSXLBRhv4H_/view)
 
@@ -259,15 +267,32 @@ ___
 * [Linear Algebra Review and Reference](https://www.cs.mcgill.ca/~dprecup/courses/ML/Materials/linalg-review.pdf)
 * [Review of Probability Theory](https://www.cs.mcgill.ca/~dprecup/courses/ML/Materials/prob-review.pdf)
 
+***IMPORTANT!*** To fully understand the material taught in this module, you should make sure that you are already familiar with the following concepts (please take some time to review them if needed):
+* Basics of linear algebra (check out [these videos](https://youtu.be/fNk_zzaMoSs) if you need a refresher)
+  * Do you know how to use vectors? 
+  * Do you know how to multiply two matrices? 
+* Basics of linear regression
+  * Do you know what a mean-square error is?
+  * How to fit linear regression or GLMs? 
+
 **Questions you will be able to answer after taking this module:**
 
-1. Model training - what is under/over-fitting? 
-3. Model selection - what is (nested) cross-validation? 
-4. Model evaluatation - what are type-1 and type-2 errors? 
+* When is ML a useful approach? 
+* Supervised learning
+  * Model training - what is under/over-fitting?
+  * Model selection - what is (nested) cross-validation?
+  * Model evaluation - what are type-1 and type-2 errors?
+* What NOT to do when using ML models in your research
+
+**Things you will NOT learn in this module (if you are an advanced ML student)**
+
+* In-depth review of unsupervised learning approaches (e.g. clustering) 
+* How train deep-learning models 
+* How to use and/or defeat chatGPT
 
 ___
 
-## 8. Introduction to Machine Learning part 2: Model selection & validation; dimensionality reduction
+## 9. Introduction to Machine Learning part 2: Model selection & validation; dimensionality reduction
 **Instructor:** Jérôme Dockès
 
 **Outline**
@@ -275,11 +300,18 @@ ___
 * Learn how to properly select a machine-learning model, set hyperparameters, and evaluate prediction performance.
 * Understand the challenges of learning from high-dimensional data and learn about tools to mitigate the issue.
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/08-Machine_Learning_2)
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/08-Machine_Learning_2)
 
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=t8D9qwTqEbc)
 
-**Slides:** [Link](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/08-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf), [PDF](https://github.com/neurodatascience/course-materials-2022/raw/main/Lectures/08-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf)
+**Slides:** [Link](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/08-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf), [PDF](https://github.com/neurodatascience/QLS-course-materials/raw/main/Lectures/08-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf)
+
+***IMPORTANT!*** This lecture assumes that you know basic linear algebra and computer programming. You should be able to answer the following questions **before the lecture**:
+- in mathematics, what are a probability space, a random variable, the expectation and variance of a random variable?
+- in mathematics, what are an inner product space, the linear span of a set of vectors, a linearly independent set of vectors?
+- in computer programming, what are a variable, a function, a class, a method, an object?
+
+If you are not familar with any of these concepts, please take some time to review before coming to the lecture.
 
 **Questions you will be able to answer after taking this module:**
 
@@ -294,20 +326,22 @@ ___
   components and 6 options for the ridge hyperparameter. How many times (at
   least) will I need to fit a PCA?
 
-## 9. Introduction to Data Visualization in Python
-**Instructor:** Jonathan Armoza
+## 10. Introduction to Data Visualization in Python
+**Instructor:** Kendra Oudyk
 
 **Outline**
+
+<!-- TODO ask Kendra to update text/links (if needed) -->
 
 * This module will teach students fundamental concepts of data visualization and familiarize them with several graphing libraries in Python (Matplotlib, Seaborn, Plot.ly, Bokeh) with the goals of using visualizations as a tool to understand data and creating graphics for multiple science contexts.
 * It will guide students through the process of familiarizing themselves with graphing libraries, and choosing plots that display the information accurately and clearly.
 * It will provide students with a perspective on best practices for visualization design.
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/09-Intro_to_Data_Visualization)
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/09-Intro_to_Data_Visualization) 
 
-**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/channel/UCnz2USVFlvPIi_IKQ9XOJ8g/featured)
+**Pre-recorded lecture video (by Jacob Sanz-Robinson):** [YouTube Link](https://youtu.be/1kmTpm9W22I) 
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/09-Intro_to_Data_Visualization)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/09-Intro_to_Data_Visualization/lecture-content/QLSC612%20-%20Intro%20to%20Data%20Visualization%20-%20Lecture%20Slides.pptx)
 
 **Questions you will be able to answer after taking this module:**
 
@@ -319,7 +353,7 @@ ___
 
 ___
 
-## 10. Virtualization of computing environments
+## 11. Virtualization of computing environments
 **Instructor:** Sebastian Urchs
 
 **Outline**
@@ -328,19 +362,16 @@ ___
 * Have an overview of different solutions to create isolated environments.
 * Get some basic hands on experience with Python virtual environments and Docker.
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/10-Containers)
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/10-Containers)
 
-**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=Kzyev8m-Vcg&list=PLvBnRHmuiqY_6hfRmfF3468eBGnRqgW1r&index=8&t=3813s)
+**Pre-recorded lecture video (by Peer Herholz):** [YouTube Link](https://www.youtube.com/watch?v=Kzyev8m-Vcg&list=PLvBnRHmuiqY_6hfRmfF3468eBGnRqgW1r&index=8&t=3813s)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/blob/main/Lectures/10-Containers/qls%20612%20containerization%20slides.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Containers/qls%20612%20containerization%20slides.pdf)
 
 **Lecture Resources**
-* [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward R. Tufte
-* [Gapminder](https://www.gapminder.org)
-* [Lev Manovich](http://manovich.net)
+Coming soon! <!-- TODO ask Seb -->
 
 **Questions you will be able to answer after taking this module:** 
-(to check your understanding of the pre-recorded materials)
 - When working with the file system inside a Docker container, which statements are true?
 	- I cannot see files on the host system from inside the container
 	- files written into the container file system are lost with the container
@@ -360,7 +391,7 @@ ___
 
 ___
 
-## 11. High Performance Computing (HPC)
+## 12. High Performance Computing (HPC)
 **Instructor:** Brent McPherson
 
 **Outline**
@@ -369,11 +400,11 @@ ___
 * Understand the advantages and the constraints of HPC
 * Learn the key concepts and practical bash commands to get started on the Compute Canada HPC
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/11-High_Performance_Computing)
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/11-High_Performance_Computing)
 
-**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/channel/UCnz2USVFlvPIi_IKQ9XOJ8g/featured)
+**Pre-recorded lecture video (by Darcy Quesnel):** [YouTube Link](https://youtu.be/5iTgIt_ZSyk)
 
-**Slides:** [Slides](https://github.com/neurodatascience/course-materials-2022/tree/main/Lectures/11-High_Performance_Computing)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/11-High_Performance_Computing/Lecture-11-High-Performance-Computing.pdf)
 
 **Questions you will be able to answer after taking this module:** 
 
