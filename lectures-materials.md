@@ -126,7 +126,7 @@ my_function("111", "abc", "0100")
 
 ___
 
-## 4. Numpy, Scipy, and Pandas: The Python Toolbox for Data Analyses
+## 4. Scientific Python: Numpy and Scipy
 **Instructor:** TBD
 
 **Outline**
@@ -137,7 +137,7 @@ At the end of the lecture, participants will be able to:
 * Manipulate arrays of numbers with NumPy
 * Apply numerical methods from the scientific Python ecosystem
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/04-Python_Toolbox_for_Data_Analysis) <!-- TODO update link -->
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/04-NumPy_SciPy)
 
 **Lecture Resources** 
 
@@ -205,7 +205,7 @@ This module is designed to introduce students to data preprocessing (i.e. prepar
 5. Data visualization
 6. Examining and manipulating 2D images with scikit image and scipy
 
-**Materials**: [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/06-Data_Preprocessing_in_Python) <!-- TODO update -->
+**Materials**: [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/06-Data_Wrangling_with_Pandas)
 
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=Zt3cHaI-__w) <!-- TODO update -->
 
@@ -257,7 +257,7 @@ ___
 * Introduce model selection and validation frameworks
 * Explain model performance metrics
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/07-Machine_Learning_1)
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/08-Machine_Learning_1)
 
 **Pre-recorded lecture video:** [YouTube Link](https://drive.google.com/file/d/1DwjA9u5VBguwKINQD0iWzJSXLBRhv4H_/view)
 
@@ -300,11 +300,11 @@ ___
 * Learn how to properly select a machine-learning model, set hyperparameters, and evaluate prediction performance.
 * Understand the challenges of learning from high-dimensional data and learn about tools to mitigate the issue.
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/08-Machine_Learning_2)
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/09-Machine_Learning_2)
 
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=t8D9qwTqEbc)
 
-**Slides:** [Link](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/08-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf), [PDF](https://github.com/neurodatascience/QLS-course-materials/raw/main/Lectures/08-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf)
+**Slides:** [Link](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/09-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf), [PDF](https://github.com/neurodatascience/QLS-course-materials/raw/main/Lectures/09-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf)
 
 ***IMPORTANT!*** This lecture assumes that you know basic linear algebra and computer programming. You should be able to answer the following questions **before the lecture**:
 - in mathematics, what are a probability space, a random variable, the expectation and variance of a random variable?
@@ -337,11 +337,11 @@ If you are not familar with any of these concepts, please take some time to revi
 * It will guide students through the process of familiarizing themselves with graphing libraries, and choosing plots that display the information accurately and clearly.
 * It will provide students with a perspective on best practices for visualization design.
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/09-Intro_to_Data_Visualization) 
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/10-Intro_to_Data_Visualization) 
 
 **Pre-recorded lecture video (by Jacob Sanz-Robinson):** [YouTube Link](https://youtu.be/1kmTpm9W22I) 
 
-**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/09-Intro_to_Data_Visualization/lecture-content/QLSC612%20-%20Intro%20to%20Data%20Visualization%20-%20Lecture%20Slides.pptx)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture-content/QLSC612%20-%20Intro%20to%20Data%20Visualization%20-%20Lecture%20Slides.pptx)
 
 **Questions you will be able to answer after taking this module:**
 
@@ -362,11 +362,11 @@ ___
 * Have an overview of different solutions to create isolated environments.
 * Get some basic hands on experience with Python virtual environments and Docker.
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/10-Containers)
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/11-Containers)
 
 **Pre-recorded lecture video (by Peer Herholz):** [YouTube Link](https://www.youtube.com/watch?v=Kzyev8m-Vcg&list=PLvBnRHmuiqY_6hfRmfF3468eBGnRqgW1r&index=8&t=3813s)
 
-**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Containers/qls%20612%20containerization%20slides.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/11-Containers/qls%20612%20containerization%20slides.pdf)
 
 **Lecture Resources**
 Coming soon! <!-- TODO ask Seb -->
@@ -400,11 +400,11 @@ ___
 * Understand the advantages and the constraints of HPC
 * Learn the key concepts and practical bash commands to get started on the Compute Canada HPC
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/11-High_Performance_Computing)
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/12-High_Performance_Computing)
 
 **Pre-recorded lecture video (by Darcy Quesnel):** [YouTube Link](https://youtu.be/5iTgIt_ZSyk)
 
-**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/11-High_Performance_Computing/Lecture-11-High-Performance-Computing.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/12-High_Performance_Computing/Lecture-11-High-Performance-Computing.pdf)
 
 **Questions you will be able to answer after taking this module:** 
 
