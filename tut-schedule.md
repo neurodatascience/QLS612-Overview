@@ -8,8 +8,6 @@ description: The schedule for the course
 
 **Classroom:** room 189 (QLS Conference Room) of 550 Sherbrooke Street West
 
-**Back to home** [QLS612 website](./)
-
 | Date              | Time          | Event                                 |
 |-----------------|-------------|-------------------------------------|
 | Monday May 1st    | 09:00-10:30   | 1. Introduction to Reproducibility    |
