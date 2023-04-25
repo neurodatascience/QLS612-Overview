@@ -17,7 +17,7 @@ WSL (Windows Subsystem for Linux) allows you to use Linux on top of Windows 10 n
    ```
 3. Restart your computer to finish the WSL installation and continue with the Linux distro setup.
 4. Open **Start (Win key)** and search for **Command Prompt** in your applications, right click and select `Run as administrator`. Select `Yes` on the prompt that appears asking if you want to allow the app to make changes to your device. 
-5. At this point, if you are on a newer version of Windows 10 or Windows 11, the command from Step 2 should have installed, in addition to WSL, the latest LTS version of Ubuntu (22.04 LTS at time of writing) as the default distribution. If this is the case, an Ubuntu terminal will open to resume automatic setup, and afterwards will ask you set up a username and password. If this applies to you, skip to Step 9. Otherwise, continue with Step 5.
+5. At this point, if you are on a newer version of Windows 10 or Windows 11, the command from Step 2 should have installed, in addition to WSL, the latest LTS version of Ubuntu (22.04 LTS at time of writing) as the default distribution. If this is the case, an Ubuntu terminal will open to resume automatic setup, and afterwards will ask you set up a username and password. If this applies to you, skip to Step 9. Otherwise, continue with Step 6.
 6. In the **Command Prompt**, type the following command to view a list of available WSL distros you can install and press Enter:
 
    ```powershell
