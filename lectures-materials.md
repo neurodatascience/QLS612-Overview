@@ -10,8 +10,6 @@ description: Links to the pre-recorded lectures and material
 
 [QLS612 Slack workspace](https://qls612-bhs.slack.com)
 
-[Back to home](./)
-
 ___
 
 ## 1. Reproducibility in Life Sciences
