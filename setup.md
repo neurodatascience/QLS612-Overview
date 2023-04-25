@@ -11,13 +11,13 @@ There are a few computing requirements for the course that are absolutely necess
 
 1. You must have administrator access to your computer (i.e., you must be able to install things yourself without requesting IT approval).
 1. You must have at least 40 GB of free disk space on your computer (but we would recommend more, to be safe).
-1. If you are using Windows you must be using Windows 10; Windows 7 and 8 will not be sufficient for this course.
+1. If you are using Windows you must be using Windows 10 or 11; Windows 7 and 8 will not be sufficient for this course.
 
-If you foresee any of these being a problem please reach out to one of the instructors for what steps you can take to ensure you are ready for the course start on July 26th.
+If you foresee any of these being a problem, please reach out to one of the instructors (or use the `#help-installation` channel in the QLS612 Slack) for what steps you can take to ensure you are ready for the course start.
 
 ## Required software
 
-To get the most out of our course, we ask that you arrive with the following software already installed:
+To get the most out of our course, we ask that you arrive with the following software **already installed** (or to the best of your ability):
 
 - A command-line shell: Bash
 - A version control system: Git
@@ -29,7 +29,7 @@ To get the most out of our course, we ask that you arrive with the following sof
 - Zoom
 - A modern browser
 
-The rest of this page provides more detail on installation procedures for each of the above elements, with separate instructions for each of the three major operating systems (Windows, Mac OS, and Linux).
+The rest of this page provides more detail on installation procedures for each of the above programs, with separate instructions for each of the three major operating systems (Windows, Mac OS, and Linux).
 
 ### Some quick general notes on instructions
 
@@ -41,7 +41,7 @@ The rest of this page provides more detail on installation procedures for each o
 
 ### OS-specific installation instructions
 
-Select the link that corresponds to your operating system and follow the instructions therein.
+Select the link that corresponds to your operating system and follow the instructions therein. Please direct any questions to the `#help-installation` channel in the QLS612 Slack.
 
 * [Linux](./linux-setup.html)
 * [Mac](./mac-setup.html)
