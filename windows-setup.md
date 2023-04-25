@@ -82,9 +82,9 @@ We are going to install miniconda to manage the Python environment in our WSL2 U
    bash Miniconda3-latest-Linux-x86_64.sh
    ```
 
-2. A license agreement will be displayed and the bottom of the terminal will read `--More--`. Press `Enter` or the space bar until you are prompted with "Do you accept the license terms? [yes|no]." Type `yes` and then press `Enter`.
+2. A license agreement will be displayed and the bottom of the terminal will read `--More--`. Press `Enter` or the space bar until you are prompted with "Do you accept the license terms? [yes\|no]." Type `yes` and then press `Enter`.
 3. The installation script will inform you that it is going to install into a default directory (e.g., `/home/$USER/miniconda3`). Leave this default and press `Enter`.
-4. When you are asked "Do you wish the installer to initialize Miniconda3 by running conda init? [yes|no]," type `yes` and press `Enter`. Close the terminal once the installation has finished.
+4. When you are asked "Do you wish the installer to initialize Miniconda3 by running conda init? [yes\|no]," type `yes` and press `Enter`. Close the terminal once the installation has finished.
 5. Re-open the Ubuntu terminal. Type `which python` into the terminal and it should return a path (e.g., `/home/$USER/miniconda3/bin/python`).
    - If you do not see a path like this then please try ```cd miniconda3/bin/``` then `./conda init`, close (or re-open) your terminal, and repeat this step. If your issue is still not resolved skip the following step and contact an instructor on the #help-installation channel on the BHS Slack.
 6. Type the following to remove the installation script that was downloaded:
