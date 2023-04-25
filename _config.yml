@@ -3,3 +3,6 @@ description: An introduction to the foundations of neuro data science
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+github:
+  respository_url: https://neurodatascience.github.io/QLS612-Overview/
