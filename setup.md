@@ -49,16 +49,16 @@ Select the link that corresponds to your operating system and follow the instruc
 
 ### GitHub account
 
-Go to https://github.com/join/ and follow the on-screen instructions to create an account.
+Go to [https://github.com/join/](https://github.com/join/) and follow the on-screen instructions to create an account.
 It is a good idea to associate this with your university e-mail (if you have one) as this will entitle you to sign up for the [GitHub Student Developer Pack](https://education.github.com/pack) which comes with some nice free bonuses.
 
 ### Slack
 
-Go to https://slack.com/downloads/ and download and install Slack.
+Go to [https://slack.com/downloads/](https://slack.com/downloads/) and download and install Slack.
 
 ### Zoom
 
-Go to https://zoom.us/download and download and install the Zoom client.
+Go to [https://zoom.us/download](https://zoom.us/download) and download and install the Zoom client.
 
 ### Modern web browser
 
