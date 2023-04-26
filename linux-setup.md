@@ -16,7 +16,7 @@ To check whether this is necessary, follow these steps:
 
 ### Git
 
-You may already have it; try typing `sudo apt-get install git` (Ubuntu, Debian) or `sudo yum install git` (Fedora) inside the terminal.
+You may already have it; try typing `sudo apt-get install git` (Ubuntu, Debian) or `sudo dnf install git` (Fedora) inside the terminal.
 If you are prompted to install it follow the instructions on-screen to do so.
 
 ### VSCode
@@ -34,7 +34,6 @@ If you are prompted to install it follow the instructions on-screen to do so.
    Search for each of the following extensions and press `Install` for the first entry that appears. (The author listed for all of these extensions should be "Microsoft".)
       - Python (n.b., you will need to reload VSCode after installing this)
       - Live Share (n.b., you may need to press "Ctrl/Cmd+Shift+P" and type "install extensions" again after installing this)
-      - Live Share Extension Pack
       - Docker
 
 ### Python
