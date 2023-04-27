@@ -87,7 +87,7 @@ ___
 **Pre-recorded lecture video (by Jacob Sanz-Robinson):** [YouTube Link](https://www.youtube.com/watch?v=ml6VkmtLXpA)
 
 **Lecture Resources**
-* [Think Python 2e textbook](https://greenteapress.com/wp/think-python/)
+* [Think Python 2e textbook](https://greenteapress.com/wp/think-python-2e/)
 
 **Questions you will be able to answer after taking this module:**
 
