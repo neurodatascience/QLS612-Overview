@@ -125,7 +125,7 @@ my_function("111", "abc", "0100")
 ___
 
 ## 4. Scientific Python: Numpy and Scipy
-**Instructor:** TBD
+**Instructor:** Jérôme Dockès
 
 **Outline**
 
@@ -212,9 +212,16 @@ Coming soon! <!-- TODO ask Jacob -->
 
 **Questions you will be able to answer after taking this module:** 
 
-<!-- TODO ask Jacob -->
-Coming soon!
-
+1. Which of the following is an immutable Pandas Object?
+  * a) Index
+  * b) DataFrame
+  * c) Series
+  * d) Array
+2. What function would you use to combine two Pandas DataFrames if you wanted to align their rows based on common column values?
+  * a) Append
+  * b) Concat
+  * c) Merge
+  * d) Map
 ___
 
 ## 7. Classical statistics pitfalls and remedies
