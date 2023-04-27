@@ -309,7 +309,7 @@ ___
 
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=t8D9qwTqEbc)
 
-**Slides:** [Link](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/09-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf), [PDF](https://github.com/neurodatascience/QLS-course-materials/raw/main/Lectures/09-Machine_Learning_2/lecture-content/08-Machine_Learning_2.pdf)
+**Slides:** [Link](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/09-Machine_Learning_2/lecture-content/09-Machine_Learning_2.pdf), [PDF](https://github.com/neurodatascience/QLS-course-materials/raw/main/Lectures/09-Machine_Learning_2/lecture-content/09-Machine_Learning_2.pdf)
 
 ***IMPORTANT!*** This lecture assumes that you know basic linear algebra and computer programming. You should be able to answer the following questions **before the lecture**:
 - in mathematics, what are a probability space, a random variable, the expectation and variance of a random variable?
