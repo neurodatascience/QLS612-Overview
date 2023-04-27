@@ -200,24 +200,37 @@ ___
 ## 6. Data Wrangling with Pandas
 **Instructor:** Jacob Sanz-Robinson
 
-<!-- TODO ask Jacob to update -->
-This module is designed to introduce students to data preprocessing (i.e. preparation) in Python. Data preprocessing is a critical prerequisite to any data analysis or machine learning application. The session will cover the topics below:
+This module is designed to introduce students to the Pandas Python library for manipulating data in tables and time series (not to be confused with the [bear of the same name](https://mcdn.wallpapersafari.com/medium/8/55/Wv7BhD.jpg)). It aims to build a basic understanding of what happens underneath the hood in Pandas, and arm you with the essential practical knowledge to fearlessly tackle the next CSV file you encounter in the wild.
 
 **Outline** 
-1. Load and examine your data
-2. Data reformatting
-3. Data filtering
-4. Data transforms
-5. Data visualization
-6. Examining and manipulating 2D images with scikit image and scipy
+1. Introduction
+  * a) What is Pandas?
+  * b) (Very) Brief History
+  * c) Why should I care about Pandas?
+  * d) Features & Docs
+
+
+2. Pandas Objects
+  * a) The Series Object
+  * b) The DataFrame Object
+  * c) The Index Object
+
+
+3. Pandas Wrangler Essentials
+  * a) Data I/O
+  * b) Selection and Indexer
+  * c) Filtering
+  * d) Combining DataFrames
+  * e) Inbuilt Aggregations
+
 
 **Materials**: [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/06-Data_Wrangling_with_Pandas)
 
-**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=Zt3cHaI-__w) <!-- TODO update -->
+**Pre-recorded lecture video:** COMING SOON
 
 **Lecture resources**
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-* [Neurohackademy lecture on `pandas`](https://neurohackademy.org/course/complex-data-structures/)
+* [Neurohackademy lecture on Pandas](https://neurohackademy.org/course/complex-data-structures/)
 
 **Questions you will be able to answer after taking this module:** 
 
@@ -231,6 +244,7 @@ This module is designed to introduce students to data preprocessing (i.e. prepar
   * b) Concat
   * c) Merge
   * d) Map
+
 ___
 
 ## 7. Classical statistics pitfalls and remedies
