@@ -61,6 +61,8 @@ You will learn how to:
 
 **Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/02-Terminal_and_Bash/introduction-to-shell.pdf)
 
+<!-- **Lecture Resources** TODO --> 
+
 **Questions you will be able to answer after taking this module:**
 
 - What is a command line shell?
@@ -83,6 +85,9 @@ ___
 **Material:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/03-Intro_to_Python)
 
 **Pre-recorded lecture video (by Jacob Sanz-Robinson):** [YouTube Link](https://www.youtube.com/watch?v=ml6VkmtLXpA)
+
+**Lecture Resources**
+* [Think Python 2e textbook](https://greenteapress.com/wp/think-python/)
 
 **Questions you will be able to answer after taking this module:**
 
@@ -138,7 +143,6 @@ At the end of the lecture, participants will be able to:
 **Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/04-NumPy_SciPy)
 
 **Lecture Resources** 
-
 * [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy) by Jay Alammar, **up to "Transposing and Reshaping"**.
 * [Scipy introduction](https://docs.scipy.org/doc/scipy/tutorial/general.html)
 * [Scipy IO tutorial](https://docs.scipy.org/doc/scipy/tutorial/io.html)
@@ -167,6 +171,10 @@ Git and GitHub are key tools for doing version control in both academia and indu
 **Pre-recorded lecture video:** [YouTube Link](https://youtu.be/b0ETTTKfu2Y)
 
 **Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/05-Git_GitHub/05-Git_GitHub.pdf)
+
+**Lecture Resources**
+* [Pro Git book by S. Chacon and B. Straub](https://git-scm.com/book/en/v2)
+* [The Carpentries course "Version Control with Git"](https://swcarpentry.github.io/git-novice/)
 
 **Questions you will be able to answer after taking this module:** 
 
@@ -207,8 +215,9 @@ This module is designed to introduce students to data preprocessing (i.e. prepar
 
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=Zt3cHaI-__w) <!-- TODO update -->
 
-**Lecture resourecs**
-Coming soon! <!-- TODO ask Jacob -->
+**Lecture resources**
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+* [Neurohackademy lecture on `pandas`](https://neurohackademy.org/course/complex-data-structures/)
 
 **Questions you will be able to answer after taking this module:** 
 
@@ -302,6 +311,7 @@ ___
 
 **Outline**
 
+In this module, you will:
 * Learn how to properly select a machine-learning model, set hyperparameters, and evaluate prediction performance.
 * Understand the challenges of learning from high-dimensional data and learn about tools to mitigate the issue.
 
@@ -310,6 +320,11 @@ ___
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=t8D9qwTqEbc)
 
 **Slides:** [Link](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/09-Machine_Learning_2/lecture-content/09-Machine_Learning_2.pdf), [PDF](https://github.com/neurodatascience/QLS-course-materials/raw/main/Lectures/09-Machine_Learning_2/lecture-content/09-Machine_Learning_2.pdf)
+
+**Lecture Resources**
+* [Scikit-learn guide on feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
+* [Scikit-learn guide on cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html)
+* [Scikit-learn guide on model evalutation](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
 ***IMPORTANT!*** This lecture assumes that you know basic linear algebra and computer programming. You should be able to answer the following questions **before the lecture**:
 - in mathematics, what are a probability space, a random variable, the expectation and variance of a random variable?
@@ -348,6 +363,11 @@ If you are not familar with any of these concepts, please take some time to revi
 
 **Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture-content/QLSC612%20-%20Intro%20to%20Data%20Visualization%20-%20Lecture%20Slides.pptx)
 
+**Lecture Resources**
+* [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward R. Tufte
+* [Gapminder](https://www.gapminder.org)
+* [Lev Manovich](http://manovich.net)
+
 **Questions you will be able to answer after taking this module:**
 
 - Which plot types are best to visualize scalar, categorical, or distributional data? How does the answer to that question change if the data relationship being plotted is univariate vs multivariate?
@@ -373,8 +393,7 @@ ___
 
 **Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/11-Containers/qls%20612%20containerization%20slides.pdf)
 
-**Lecture Resources**
-Coming soon! <!-- TODO ask Seb -->
+<!-- **Lecture Resources** TODO -->
 
 **Questions you will be able to answer after taking this module:** 
 - When working with the file system inside a Docker container, which statements are true?
@@ -410,6 +429,9 @@ ___
 **Pre-recorded lecture video (by Darcy Quesnel):** [YouTube Link](https://youtu.be/5iTgIt_ZSyk)
 
 **Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/12-High_Performance_Computing/Lecture-11-High-Performance-Computing.pdf)
+
+**Lecture Resources**
+* [Compute Canada wiki](https://docs.alliancecan.ca/wiki/Getting_started)
 
 **Questions you will be able to answer after taking this module:** 
 
