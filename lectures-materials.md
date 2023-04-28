@@ -226,7 +226,7 @@ This module is designed to introduce students to the Pandas Python library for m
 
 **Materials**: [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/06-Data_Wrangling_with_Pandas)
 
-**Pre-recorded lecture video:** COMING SOON
+**Pre-recorded lecture video:** [YouTube link](https://youtu.be/S8bYQ7YmrOQ)
 
 **Lecture resources**
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
