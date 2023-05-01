@@ -129,31 +129,22 @@ my_function("111", "abc", "0100")
 
 ___
 
-## 4. Scientific Python: Numpy and Scipy
+## 4. Scientific Python: NumPy and Scipy
 **Instructor:** Jérôme Dockès
 
 **Outline**
 
-This lecture will introduce NumPy, and SciPy, two of the main libraries in the scientific Python ecosystem.
+This lecture will introduce NumPy and its ndarray data structure, which are at the core of most scientific Python packages.
 At the end of the lecture, participants will be able to:
 
+* Understand why NumPy enables efficient computation and what are NumPy arrays.
 * Manipulate arrays of numbers with NumPy
-* Apply numerical methods from the scientific Python ecosystem
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/04-NumPy_SciPy)
 
 **Lecture Resources** 
-* [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy) by Jay Alammar, **up to "Transposing and Reshaping"**.
-* [Scipy introduction](https://docs.scipy.org/doc/scipy/tutorial/general.html)
-* [Scipy IO tutorial](https://docs.scipy.org/doc/scipy/tutorial/io.html)
 
-**Questions you will be able to answer after taking this module:**
-
-(1) NumPy's main data structure is a Python list: True or False?
-
-<!-- TODO add questions -->
-
-___
+- [NumPy User Guide](https://numpy.org/doc/stable/user/basics.html)
 
 ## 5. Introduction to Git and GitHub
 **Instructor:** Kendra Oudyk
@@ -333,19 +324,12 @@ In this module, you will:
 
 **Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=t8D9qwTqEbc)
 
-**Slides:** [Link](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/09-Machine_Learning_2/lecture-content/09-Machine_Learning_2.pdf), [PDF](https://github.com/neurodatascience/QLS-course-materials/raw/main/Lectures/09-Machine_Learning_2/lecture-content/09-Machine_Learning_2.pdf)
+**Slides:** [Link](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/09-Machine_Learning_2/lecture-content/09-Machine_Learning_2.pdf)
 
 **Lecture Resources**
 * [Scikit-learn guide on feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
 * [Scikit-learn guide on cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html)
 * [Scikit-learn guide on model evalutation](https://scikit-learn.org/stable/modules/model_evaluation.html)
-
-***IMPORTANT!*** This lecture assumes that you know basic linear algebra and computer programming. You should be able to answer the following questions **before the lecture**:
-- in mathematics, what are a probability space, a random variable, the expectation and variance of a random variable?
-- in mathematics, what are an inner product space, the linear span of a set of vectors, a linearly independent set of vectors?
-- in computer programming, what are a variable, a function, a class, a method, an object?
-
-If you are not familar with any of these concepts, please take some time to review before coming to the lecture.
 
 **Questions you will be able to answer after taking this module:**
 
