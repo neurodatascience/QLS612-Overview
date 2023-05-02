@@ -383,13 +383,13 @@ ___
 
 * Learn why containerization and virtualization are important for research projects.
 * Have an overview of different solutions to create isolated environments.
-* Get some basic hands on experience with Python virtual environments and Docker.
+* Get some basic hands on experience with and Docker.
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/11-Containers)
 
-**Pre-recorded lecture video (by Peer Herholz):** [YouTube Link](https://www.youtube.com/watch?v=Kzyev8m-Vcg&list=PLvBnRHmuiqY_6hfRmfF3468eBGnRqgW1r&index=8&t=3813s)
+**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=KolUIDOynls)
 
-**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/11-Containers/qls%20612%20containerization%20slides.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/ab0eec6735376c0210a8958390bbc1d52aba80a1/Lectures/11-Containers/11_Containerization_Slides.pdf)
 
 <!-- **Lecture Resources** TODO -->
 
