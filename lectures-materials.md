@@ -358,10 +358,10 @@ In this module, you will:
 **Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/10-Intro_to_Data_Visualization) 
 
 
-**Pre-recorded lecture video, Part 1 Decoding:** [YouTube link](https://youtu.be/ClCWopZ-oJA)
+**Pre-recorded lecture video, Part 1 Decoding:** [YouTube link](https://youtu.be/ClCWopZ-oJA)\
 **Pre-recorded lecture video, Part 2 Encoding:** [YouTube link]() *coming soon*
 
-**Slides for Part 1 Decoding:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture-content/Data-Vis_part-1__lecture-slides.pdf)
+**Slides for Part 1 Decoding:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture-content/Data-Vis_part-1__lecture-slides.pdf)\
 **Slides for Part 2 Encoding:** [Slides]() *coming soon*
 
 **Lecture Resources**
