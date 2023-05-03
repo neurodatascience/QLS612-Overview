@@ -161,7 +161,7 @@ Git and GitHub are key tools for doing version control in both academia and indu
 
 **Pre-recorded lecture video:** [YouTube Link](https://youtu.be/b0ETTTKfu2Y)
 
-**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/05-Git_GitHub/05-Git_GitHub.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/05-Git_GitHub/Git-GitHub__lecture-slides.pdf)
 
 **Lecture Resources**
 * [Pro Git book by S. Chacon and B. Straub](https://git-scm.com/book/en/v2)
@@ -357,9 +357,12 @@ In this module, you will:
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/10-Intro_to_Data_Visualization) 
 
-**Pre-recorded lecture video (by Jacob Sanz-Robinson):** [YouTube Link](https://youtu.be/1kmTpm9W22I) 
 
-**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture-content/QLSC612%20-%20Intro%20to%20Data%20Visualization%20-%20Lecture%20Slides.pptx)
+**Pre-recorded lecture video, Part 1 Decoding:** [YouTube link](https://youtu.be/ClCWopZ-oJA)
+**Pre-recorded lecture video, Part 2 Encoding:** [YouTube link]() *coming soon*
+
+**Slides for Part 1 Decoding:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture-content/Data-Vis_part-1__lecture-slides.pdf)
+**Slides for Part 2 Encoding:** [Slides]() *coming soon*
 
 **Lecture Resources**
 * [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward R. Tufte
