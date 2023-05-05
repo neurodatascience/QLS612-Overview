@@ -351,31 +351,19 @@ In this module, you will:
 
 <!-- TODO ask Kendra to update text/links (if needed) -->
 
-* This module will teach students fundamental concepts of data visualization and familiarize them with several graphing libraries in Python (Matplotlib, Seaborn, Plot.ly, Bokeh) with the goals of using visualizations as a tool to understand data and creating graphics for multiple science contexts.
-* It will guide students through the process of familiarizing themselves with graphing libraries, and choosing plots that display the information accurately and clearly.
-* It will provide students with a perspective on best practices for visualization design.
+* Data visualization is an essential skill for scientists.
+* At the grad student level, you're probably already familiar with basic plots (e.g., bar plot vs pie chart), as well as types of data (e.g, ordered vs categorical).
+* With that in mind, I hope to take you a bit deeper into the technicalities of planning and executing and effictive Figure.
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/10-Intro_to_Data_Visualization) 
 
 
-**Pre-recorded lecture video, Part 1 Decoding:** [YouTube link](https://youtu.be/ClCWopZ-oJA)\
-**Pre-recorded lecture video, Part 2 Encoding:** [YouTube link]() *coming soon*
+**Pre-recorded lecture video, Part 1 Decoding:** [YouTube link](https://youtu.be/dqf5gmY7vE0)\
+**Pre-recorded lecture video, Part 2 Encoding:** [YouTube link](https://youtu.be/DrOICNoOfEA)
 
 **Slides for Part 1 Decoding:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture-content/Data-Vis_part-1__lecture-slides.pdf)\
-**Slides for Part 2 Encoding:** [Slides]() *coming soon*
+**Slides for Part 2 Encoding:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture_slides__data_vis_pt2_encoding__with_notes.pdf)
 
-**Lecture Resources**
-* [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) by Edward R. Tufte
-* [Gapminder](https://www.gapminder.org)
-* [Lev Manovich](http://manovich.net)
-
-**Questions you will be able to answer after taking this module:**
-
-- Which plot types are best to visualize scalar, categorical, or distributional data? How does the answer to that question change if the data relationship being plotted is univariate vs multivariate?
-- What are a few best practics for visualization design that balances clarity and consideration for audience?
-- Why would I choose to generate static visualizations vs interactive ones?
-- Which Python graphing libraries are most efficient to do so? And what are some of the capabilities of each?
-- Is a data visualization an objective research output?
 
 ___
 
