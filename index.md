@@ -6,9 +6,9 @@ layout: default
 
 <img src="logo_horizontal__for_light_background.png" alt="drawing" width="250" class="center">
 
-- [Link to the **lectures materials**.](./lectures-materials.html)
+- [Link to the **lectures materials**.](./lectures-materials/2024.html)
 - [Link to the **course schedule**.](./tut-schedule.html)
-- [Link to **setup instructions**](./setup.html).
+- [Link to **setup instructions**](./setup/setup.html).
 - [Link to the **code of conduct**.](./coc.html)
 
 ## Course overview:
@@ -47,13 +47,14 @@ and rapidly growing contender in the landscape of neuroscience data analysis).
 Amongst the topics, we will cover both the fundamentals of tools (bash, git,
 github, jupyter, docker, visualization) and analysis methods (hypothesis
 testing, machine learning) at the conceptual and practical levels. See
-objectives of each module [here](./lectures-materials.html).
+objectives of each module [here](./lectures-materials/2024.html).
 
 In terms of requirements, students will be expected to have basic programming
 skills (such as minimal experience in a scripting language).
 
 ## Course modules:
 
+<!--
 1. Introduction to Reproducibility
 2. Terminal and Bash
 3. Introduction to Python
@@ -66,8 +67,15 @@ skills (such as minimal experience in a scripting language).
 10. Introduction to Data Visualization
 11. Containers
 12. High Performance Computing
+-->
 
-[Link to lectures materials.](./lectures-materials.html)
+🔶 To be announced 🔶
+
+<!--
+[Link to lectures materials.](./lectures-materials/2024.html)
+-->
+
+[2023 lectures materials.](./lectures-materials/2023.html)
 
 ## Approach to teaching
 

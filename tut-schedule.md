@@ -4,10 +4,13 @@ title: Live Tutorial Schedule
 description: The schedule for the course
 ---
 
-# 2023 Course Schedule
+# 2024 Course Schedule
 
-**Classroom:** room 189 (QLS Conference Room) of 550 Sherbrooke Street West
+🔶 TO be announced 🔶
 
+<!-- **Classroom:** room 189 (QLS Conference Room) of 550 Sherbrooke Street West -->
+
+<!--
 | Date              | Time        | Event                                               |
 | ----------------- | ----------- | --------------------------------------------------- |
 | Monday May 1st    | 09:00-10:30 | 1. Introduction to Reproducibility                  |
@@ -34,7 +37,7 @@ description: The schedule for the course
 |                   | 13:30-15:00 | 12. High Performance Computing                      |
 |                   | 15:15-15:30 | Exercises                                           |
 |                   | 15:45-17:00 | Quiz 2                                              |
-|                   | 17:00-19:00 | Celebratory 5 à 7 at Jeanne-Mance Park              |
+|                   | 17:00-19:00 | Celebratory 5 à 7 at Jeanne-Mance Park              | -->
 
 ---
 
