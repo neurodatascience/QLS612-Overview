@@ -20,7 +20,7 @@ ___
 With this lecture, you will get a general introduction to reproducible - or irreproducible - life sciences. Specifically, you will
 
 * learn what is meant by reproducibility of research results in the life sciences
-* undertand the main causes for irreproducible results
+* understand the main causes for irreproducible results
 * learn the possible collective and individual actions for curbing irreproducibility
 
 **Material:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/01-Intro_to_Reproducibility)
@@ -43,31 +43,31 @@ ___
 ## 2. Introduction to the Terminal and Bash
 **Instructors:** Brent McPherson, Alyssa Dai
 
-**Outline** 
+**Outline**
 
 To follow most of the other modules, you will have to have some basic understanding of the command line.
-In this module we'll take a look at the the BourneAgainSHell (BASH), 
-the default command line in most Linux systems. 
+In this module we'll take a look at the the BourneAgainSHell (BASH),
+the default command line in most Linux systems.
 You will learn how to:
 
 * move around on your computer with the command line, create and open directories and files
 * find things with the command line (files and programs, PATH variables)
 * run useful command line programs and find help (`find`, `grep`, `ls`, and `man` / documentation)
 
-**Materials**: 
+**Materials**:
 - [Github Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/02-Terminal_and_Bash)
 
 **Pre-recorded lecture video (by Sebastian Urchs):** [YouTube Link](https://youtu.be/Sd10Wo5LQls)
 
 **Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/02-Terminal_and_Bash/introduction-to-shell.pdf)
 
-<!-- **Lecture Resources** TODO --> 
+<!-- **Lecture Resources** TODO -->
 
 **Questions you will be able to answer after taking this module:**
 
 - What is a command line shell?
 - How would you copy thousands of files with file names starting with `"my_good_file..."` to a different directory on your computer?
-- Among thousands of files and directories you know there is one where you wrote down `"location of my thesis backup"`. 
+- Among thousands of files and directories you know there is one where you wrote down `"location of my thesis backup"`.
   How do you find this file?
 - What is an environment variable, and how can you change it?
 
@@ -142,16 +142,16 @@ At the end of the lecture, participants will be able to:
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/04-NumPy_SciPy)
 
-**Lecture Resources** 
+**Lecture Resources**
 
 - [NumPy User Guide](https://numpy.org/doc/stable/user/basics.html)
 
 ## 5. Introduction to Git and GitHub
 **Instructor:** Kendra Oudyk
 
-**Outline** 
+**Outline**
 
-Git and GitHub are key tools for doing version control in both academia and industry. These tools can help students do more effient, open, and reproducible research. Further, knowing these tools can help prepare students for careers in academia and industry. In this lecture, students will learn
+Git and GitHub are key tools for doing version control in both academia and industry. These tools can help students do more efficient, open, and reproducible research. Further, knowing these tools can help prepare students for careers in academia and industry. In this lecture, students will learn
 
 * What is version control and why has it become so important in science and industry;
 * How to track and share their own work using Git and GitHub; and
@@ -167,7 +167,7 @@ Git and GitHub are key tools for doing version control in both academia and indu
 * [Pro Git book by S. Chacon and B. Straub](https://git-scm.com/book/en/v2)
 * [The Carpentries course "Version Control with Git"](https://swcarpentry.github.io/git-novice/)
 
-**Questions you will be able to answer after taking this module:** 
+**Questions you will be able to answer after taking this module:**
 
 1.  In a ________ version control system, individuals have the entire repository and its history in their local repository.
   - a) Centralized
@@ -193,7 +193,7 @@ ___
 
 This module is designed to introduce students to the Pandas Python library for manipulating data in tables and time series (not to be confused with the [bear of the same name](https://mcdn.wallpapersafari.com/medium/8/55/Wv7BhD.jpg)). It aims to build a basic understanding of what happens underneath the hood in Pandas, and arm you with the essential practical knowledge to fearlessly tackle the next CSV file you encounter in the wild.
 
-**Outline** 
+**Outline**
 1. Introduction
   * a) What is Pandas?
   * b) (Very) Brief History
@@ -223,7 +223,7 @@ This module is designed to introduce students to the Pandas Python library for m
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 * [Neurohackademy lecture on Pandas](https://neurohackademy.org/course/complex-data-structures/)
 
-**Questions you will be able to answer after taking this module:** 
+**Questions you will be able to answer after taking this module:**
 
 1. Which of the following is an immutable Pandas Object?
   * a) Index
@@ -261,7 +261,7 @@ Most of published results still rely on some statistical inference. With this le
 
 **Questions you will be able to answer after taking this module:**
 
-Coming soon! <!-- TODO --> 
+Coming soon! <!-- TODO -->
 
 ___
 
@@ -270,7 +270,7 @@ ___
 
 **Outline**
 
-* Define machine-learning nomenclature 
+* Define machine-learning nomenclature
 * Describe basics of the “learning” process
 * Explain model design choices and performance trade-offs
 * Introduce model selection and validation frameworks
@@ -288,15 +288,15 @@ ___
 
 ***IMPORTANT!*** To fully understand the material taught in this module, you should make sure that you are already familiar with the following concepts (please take some time to review them if needed):
 * Basics of linear algebra (check out [these videos](https://youtu.be/fNk_zzaMoSs) if you need a refresher)
-  * Do you know how to use vectors? 
-  * Do you know how to multiply two matrices? 
+  * Do you know how to use vectors?
+  * Do you know how to multiply two matrices?
 * Basics of linear regression
   * Do you know what a mean-square error is?
-  * How to fit linear regression or GLMs? 
+  * How to fit linear regression or GLMs?
 
 **Questions you will be able to answer after taking this module:**
 
-* When is ML a useful approach? 
+* When is ML a useful approach?
 * Supervised learning
   * Model training - what is under/over-fitting?
   * Model selection - what is (nested) cross-validation?
@@ -305,8 +305,8 @@ ___
 
 **Things you will NOT learn in this module (if you are an advanced ML student)**
 
-* In-depth review of unsupervised learning approaches (e.g. clustering) 
-* How train deep-learning models 
+* In-depth review of unsupervised learning approaches (e.g. clustering)
+* How train deep-learning models
 * How to use and/or defeat chatGPT
 
 ___
@@ -329,7 +329,7 @@ In this module, you will:
 **Lecture Resources**
 * [Scikit-learn guide on feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
 * [Scikit-learn guide on cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html)
-* [Scikit-learn guide on model evalutation](https://scikit-learn.org/stable/modules/model_evaluation.html)
+* [Scikit-learn guide on model evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
 **Questions you will be able to answer after taking this module:**
 
@@ -355,7 +355,7 @@ In this module, you will:
 * At the grad student level, you're probably already familiar with basic plots (e.g., bar plot vs pie chart), as well as types of data (e.g, ordered vs categorical).
 * With that in mind, I hope to take you a bit deeper into the technicalities of planning and executing and effictive Figure.
 
-**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/10-Intro_to_Data_Visualization) 
+**Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/10-Intro_to_Data_Visualization)
 
 
 **Pre-recorded lecture video, Part 1 Decoding:** [YouTube link](https://youtu.be/dqf5gmY7vE0)\
@@ -384,7 +384,7 @@ ___
 
 <!-- **Lecture Resources** TODO -->
 
-**Questions you will be able to answer after taking this module:** 
+**Questions you will be able to answer after taking this module:**
 - When working with the file system inside a Docker container, which statements are true?
 	- I cannot see files on the host system from inside the container
 	- files written into the container file system are lost with the container
@@ -422,11 +422,11 @@ ___
 **Lecture Resources**
 * [Compute Canada wiki](https://docs.alliancecan.ca/wiki/Getting_started)
 
-**Questions you will be able to answer after taking this module:** 
+**Questions you will be able to answer after taking this module:**
 
 1.  Choose the area that Advanced Research Computing traditionally does **not** include
   - a) HPC/Clusters
-  - b) Research Data Management	
+  - b) Research Data Management
   - c) Cloud Computing
   - d) Video Games
 2. Choose all components that are part of an HPC Compute Node
@@ -439,7 +439,7 @@ ___
   - a) Secure shell to a Login Node
   - b) Secure shell to a Compute Node
   - c) Secure transfer to a Data Transfer Node
-  
+
 ___
 
 [back](./)

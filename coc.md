@@ -18,7 +18,7 @@ Harassment includes, but is not limited to:
 * Harassing photography or recording
 * Sustained disruption of talks or other events
 * Inappropriate physical contact
-* Advocating for, or encouraging, any of the above behaviour
+* Advocating for, or encouraging, any of the above behavior
 * Unwelcome sexual attention
 
 ## Respecting Differences
@@ -29,14 +29,14 @@ While we do not assume Brainhack participants know the cultural practices of eve
 
 ## Microaggressions
 
-Incidents can take the form of “microaggressions,” which is a damaging form of harassment. Microaggressions are the everyday slights or insults which communicate negative messages to target individuals, often based upon their marginalized group membership. The following examples can all be labeled micro-aggressions: commenting on a woman’s appearance rather than her work; only directing questions at male colleagues when there are female experts in the room; telling someone of colour that they “speak such good English”; forcefully praising meat to an individual with a vegetarian diet; praising alcoholic drinks to an individual who do not consume them. Exclusion from a group can be a common nonverbal form of microaggression. Microaggressions can be couched in the form of a “compliment,” (e.g. “you’re too attractive to be a scientist”). Over time, microaggressions can take a great toll on mental and emotional health, and the target’s feeling of belonging in science and academia.
+Incidents can take the form of “microaggressions,” which is a damaging form of harassment. Microaggressions are the everyday slights or insults which communicate negative messages to target individuals, often based upon their marginalized group membership. The following examples can all be labeled micro-aggressions: commenting on a woman’s appearance rather than her work; only directing questions at male colleagues when there are female experts in the room; telling someone of color that they “speak such good English”; forcefully praising meat to an individual with a vegetarian diet; praising alcoholic drinks to an individual who do not consume them. Exclusion from a group can be a common nonverbal form of microaggression. Microaggressions can be couched in the form of a “compliment,” (e.g. “you’re too attractive to be a scientist”). Over time, microaggressions can take a great toll on mental and emotional health, and the target’s feeling of belonging in science and academia.
 
 ## Enforcement
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 Organizers and presenters are also subject to the anti-harassment policy. In particular, they should not use sexualized images, activities, or other material.
-Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
-If a participant engages in harassing behaviour, event organisers have the responsibility to remind the offender about Brainhack’s Code of Conduct, and warn them that repeated inappropriate, uncivil, threatening, offensive, or harmful behavior can lead to a temporary or permanent ban from the event with no refund. The offending person(s) may also see affected their participation in future Brainhack events.
+Event organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
+If a participant engages in harassing behavior, event organizers have the responsibility to remind the offender about Brainhack’s Code of Conduct, and warn them that repeated inappropriate, uncivil, threatening, offensive, or harmful behavior can lead to a temporary or permanent ban from the event with no refund. The offending person(s) may also see affected their participation in future Brainhack events.
 We expect participants to follow these rules at all event venues and event-related social activities. We think people should follow these rules outside event activities too!
 
 ## Reporting
