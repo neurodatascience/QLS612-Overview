@@ -278,7 +278,7 @@ ___
 
 **Materials:** [GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/08-Machine_Learning_1)
 
-**Pre-recorded lecture video:** [YouTube Link](https://drive.google.com/file/d/1DwjA9u5VBguwKINQD0iWzJSXLBRhv4H_/view)
+**Pre-recorded lecture video:** [YouTube Link](https://www.youtube.com/watch?v=vsp7c-f3cvg)
 
 **Slides:** [Slides](https://docs.google.com/presentation/d/1rxR237_F95cfQsA7ZPicQa2w-r-LVOdGwm1xpgosE8o/edit?usp=sharing)
 
@@ -361,8 +361,8 @@ In this module, you will:
 **Pre-recorded lecture video, Part 1 Decoding:** [YouTube link](https://youtu.be/dqf5gmY7vE0)\
 **Pre-recorded lecture video, Part 2 Encoding:** [YouTube link](https://youtu.be/DrOICNoOfEA)
 
-**Slides for Part 1 Decoding:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture-content/Data-Vis_part-1__lecture-slides.pdf)\
-**Slides for Part 2 Encoding:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture_slides__data_vis_pt2_encoding__with_notes.pdf)
+**Slides for Part 1 Decoding:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture_slides__data_vis_pt1_decoding.pdf)\
+**Slides for Part 2 Encoding:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/10-Intro_to_Data_Visualization/lecture_slides__data_vis_pt2_encoding.pdf)
 
 
 ___
@@ -417,7 +417,7 @@ ___
 
 **Pre-recorded lecture video (by Darcy Quesnel):** [YouTube Link](https://youtu.be/5iTgIt_ZSyk)
 
-**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/12-High_Performance_Computing/Lecture-11-High-Performance-Computing.pdf)
+**Slides:** [Slides](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/12-High_Performance_Computing/Lecture-12-High-Performance-Computing.pdf)
 
 **Lecture Resources**
 * [Compute Canada wiki](https://docs.alliancecan.ca/wiki/Getting_started)
