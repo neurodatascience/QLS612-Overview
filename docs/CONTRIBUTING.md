@@ -1,19 +1,6 @@
 # Contributing to the Cayman theme
 
-Hi there! We're thrilled that you'd like to contribute to the Cayman theme. Your help is essential for keeping it great.
-
-the Cayman theme is an open source project supported by the efforts of an entire community and built one contribution at a time by users like you. We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, helping other users by commenting on issues, or writing code which can be incorporated into the Cayman theme itself.
-
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
-
-
-## Looking for support?
-
-We'd love to help. Check out [the support guidelines](SUPPORT.md).
-
 ## How to report a bug
-
-Think you found a bug? Please check [the list of open issues](https://github.com/pages-themes/cayman/issues) to see if your bug has already been reported. If it hasn't please [submit a new issue](https://github.com/pages-themes/cayman/issues/new).
 
 Here are a few tips for writing *great* bug reports:
 
@@ -25,25 +12,6 @@ Here are a few tips for writing *great* bug reports:
 * Even if you don't know how to fix the bug, including a failing test may help others track it down
 
 **If you find a security vulnerability, do not open an issue. Please email security@github.com instead.**
-
-## How to suggest a feature or enhancement
-
-If you find yourself wishing for a feature that doesn't exist in the Cayman theme, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that the Cayman theme has today have been added because our users saw the need.
-
-Feature requests are welcome. But take a moment to find out whether your idea fits with the scope and goals of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible, including describing the problem you're trying to solve.
-
-[Open an issue](https://github.com/pages-themes/cayman/issues/new) which describes the feature you would like to see, why you want it, how it should work, etc.
-
-
-
-## Your first contribution
-
-We'd love for you to contribute to the project. Unsure where to begin contributing to the Cayman theme? You can start by looking through these "good first issue" and "help wanted" issues:
-
-* [Good first issues](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues which should only require a few lines of code and a test or two
-* [Help wanted issues](https://github.com/pages-themes/cayman/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues which may be a bit more involved, but are specifically seeking community contributions
-
-*p.s. Feel free to ask for help; everyone is a beginner at first* :smiley_cat:
 
 ## How to propose changes
 
@@ -79,7 +47,8 @@ At a high level, [the process for proposing changes](https://guides.github.com/i
 
 ## Code of conduct
 
-This project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project is governed by [the Contributor Covenant Code of Conduct](../coc.md).
+By participating, you are expected to uphold this code.
 
 ## Additional Resources
 
