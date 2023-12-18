@@ -4,11 +4,11 @@ layout: default
 
 # QLSC 612 - Fundamentals for Neuro Data Science
 
-<img src="logo_horizontal__for_light_background.png" alt="drawing" width="250" class="center">
+<img src="origami_logo.png" alt="drawing" width="250" class="center">
 
-- [Link to the **lectures materials**.](./lectures-materials.html)
+- [Link to the **lectures materials**.](./lectures-materials/latest.html)
 - [Link to the **course schedule**.](./tut-schedule.html)
-- [Link to **setup instructions**](./setup.html).
+- [Link to **setup instructions**](./setup/setup.html).
 - [Link to the **code of conduct**.](./coc.html)
 
 ## Course overview:
@@ -20,8 +20,10 @@ neuroscience data. Concurrently, there is a growing concern in the life sciences
 that many results produced are difficult or even impossible to reproduce,
 commonly referred to as the “reproducibility crisis.”
 
-This course — QLSC-612,
+This course — QLSC-612
+<!-- TODO
 [Fundamentals for Neuro Data Science](https://www.mcgill.ca/study/2022-2023/courses/qlsc-612)
+-->
 — brings together software and analytical tools and methods in order to teach
 students how to best use the fundamentals of data science in their daily work to
 produce reproducible results. We will take examples in neuroimaging and see how
@@ -47,13 +49,14 @@ and rapidly growing contender in the landscape of neuroscience data analysis).
 Amongst the topics, we will cover both the fundamentals of tools (bash, git,
 github, jupyter, docker, visualization) and analysis methods (hypothesis
 testing, machine learning) at the conceptual and practical levels. See
-objectives of each module [here](./lectures-materials.html).
+objectives of each module [here](./lectures-materials/latest.html).
 
 In terms of requirements, students will be expected to have basic programming
 skills (such as minimal experience in a scripting language).
 
 ## Course modules:
 
+<!--
 1. Introduction to Reproducibility
 2. Terminal and Bash
 3. Introduction to Python
@@ -66,8 +69,12 @@ skills (such as minimal experience in a scripting language).
 10. Introduction to Data Visualization
 11. Containers
 12. High Performance Computing
+-->
 
-[Link to lectures materials.](./lectures-materials.html)
+🔶 To be announced 🔶
+
+- [Link to lectures materials.](./lectures-materials/latest.html)
+- [2023 lectures materials.](./lectures-materials/2023.html)
 
 ## Approach to teaching
 
@@ -75,12 +82,12 @@ This year, we will be returning to in-person learning! Students taking the
 course for credit will have to attend lectures in room 189 (QLS Conference Room)
 of 550 Sherbrooke Street W. Students will be required to attend in-person
 lectures for all of the modules and will have access to
-[lectures materials and online content](https://neurodatascience.github.io/QLS612-Overview/lectures-materials.html)
+[lectures materials and online content](/lectures-materials/latest.html)
 to better consolidate the material. Course grading will be based on the results
 of 2 in-person quizzes (see
-[schedule](https://neurodatascience.github.io/QLS612-Overview/tut-schedule.html)).
+[schedule](./tut-schedule.html)).
 The course requires that you have a laptop and instructions for installation are
-[here](https://neurodatascience.github.io/QLS612-Overview/setup.html).
+[here](./setup/setup.html).
 
 ## Acknowledgments and funders
 

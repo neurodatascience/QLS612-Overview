@@ -61,9 +61,9 @@ Select the link that corresponds to your operating system and follow the
 instructions therein. Please direct any questions to the `#help-installation`
 channel in the QLS612 Slack.
 
-- [Linux](./linux-setup.html)
-- [Mac](./mac-setup.html)
-- [Windows](./windows-setup.html)
+- [Linux](./linux.html)
+- [Mac](./mac.html)
+- [Windows](./windows.html)
 
 ### GitHub account
 
@@ -89,4 +89,4 @@ Install Firefox, Chrome, or Safari.
 
 ---
 
-[back](./)
+[back](../)
