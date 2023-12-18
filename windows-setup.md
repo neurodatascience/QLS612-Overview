@@ -4,7 +4,7 @@ title: Windows Setup
 description: Instructions for setting up on Windows
 ---
 
-### WSL2 (Windows Subsystem for Linux version 2) 
+### WSL2 (Windows Subsystem for Linux version 2)
 WSL (Windows Subsystem for Linux) allows you to use Linux on top of Windows 10 natively, WSL2 is the most recent version of WSL and it is more stable. If you already have WSL(1), it is easy to convert to WSL2 (see [Instructions to convert WSL(1) to WSL2](https://ericsysmin.com/2019/07/13/converting-wsl-1-operating-systems-to-wsl-2-on-windows/)), if your Windows 10 is patched with 1909 or older, see [Install WSL2 on Windows 10 1909 or older](https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/).
 
 #### Install WSL2 on Windows 10 or 11
@@ -16,7 +16,7 @@ WSL (Windows Subsystem for Linux) allows you to use Linux on top of Windows 10 n
    wsl --install
    ```
 3. Restart your computer to finish the WSL installation and continue with the Linux distro setup.
-4. Open **Start (Win key)** and search for **Command Prompt** in your applications, right click and select `Run as administrator`. Select `Yes` on the prompt that appears asking if you want to allow the app to make changes to your device. 
+4. Open **Start (Win key)** and search for **Command Prompt** in your applications, right click and select `Run as administrator`. Select `Yes` on the prompt that appears asking if you want to allow the app to make changes to your device.
 5. At this point, if you are on a newer version of Windows 10 or Windows 11, the command from Step 2 should have installed, in addition to WSL, the latest LTS version of Ubuntu (22.04 LTS at time of writing) as the default distribution. If this is the case, an Ubuntu terminal will open to resume automatic setup, and afterwards will ask you set up a username and password. If this applies to you, skip to Step 9. Otherwise, continue with Step 6.
 6. In the **Command Prompt**, type the following command to view a list of available WSL distros you can install and press Enter:
 
@@ -29,7 +29,7 @@ WSL (Windows Subsystem for Linux) allows you to use Linux on top of Windows 10 n
    ```powershell
    wsl --install -d <DISTRO-NAME>
    ```
-   
+
 8. Restart your computer, open **Start (Win key)** and search for **Ubuntu**, and click on **Ubuntu \<VERSION-NUMBER\> on Windows (App)**. You should have the **WSL2 Ubuntu 18.04** terminal open. Now, you are ready to rock!
 9. You will be prompted to `Enter new UNIX username` (this will create a local user account for the **Ubuntu WSL instance** and you will be automatically logged in to Ubuntu \<VERSION-NUMBER\> as this user). You can use any combination of alphanumeric characters for your username, but a good choice is `<first_initial><last_name>` (e.g., `jsmith` for John Smith), You will then be prompted to enter a new password (choose something easy to remember as you will find yourself using it frequently).
 
@@ -51,13 +51,13 @@ You already have it, now that you’ve installed the WSL2!
 
 1. Go to [this page](https://code.visualstudio.com/) and click the download button, then run the `.exe` file.
 2. Leave all the defaults during the installation with the following exception:
-   - Please make sure the box labelled "Register Code as an editor for supported file types" is selected
+   - Please make sure the box labeled "Register Code as an editor for supported file types" is selected
 
 #### VSCode extensions
 
-These extentions will allow you to work with the WSL2 Ubuntu with GUI.
+These extensions will allow you to work with the WSL2 Ubuntu with GUI.
 
-1. Open Visual Studio Code, click on the **Extensions** icon in the left sidebar (or press `Ctrl+Shift+X`), and search for and install the `WSL` extension (usually, VSCode can automatically detect your WSL Ubuntu installation and remind you to install related extentions).
+1. Open Visual Studio Code, click on the **Extensions** icon in the left sidebar (or press `Ctrl+Shift+X`), and search for and install the `WSL` extension (usually, VSCode can automatically detect your WSL Ubuntu installation and remind you to install related extensions).
 2. In a **terminal** (Ubuntu), type `code .` and press `Enter`. You should see a message reading "Installing VS Code Server" and then a new VSCode window (entitled: Get Started - \<USERNAME\> [WSL: Ubuntu \<VERSION-NUMBER\>] - Visual Studio Code) will open up. An indicator reading "WSL" should be visible in the bottom left corner of the window.
 3. In the WSL VSCode window, open the Extensions panel (or `Ctrl+Shift+X`). In the search bar, search for each of the following extensions and click `Install` (or  `Install in WSL: Ubuntu`, depending on whether you have the extension installed locally) for the first entry that appears. If no `Install` button is available and the extension is not grayed out, it means it is already installed.
    - Python Extension Pack (n.b., you will need to reload VSCode after installing this)
@@ -65,7 +65,7 @@ These extentions will allow you to work with the WSL2 Ubuntu with GUI.
    - Docker
    - WSL
 
-4. To confirm the extensions have been installed correctly, clear the Extensions search bar. You should now see an extensions category called "WSL: UBUNTU - INSTALLED" (you may also see one for "LOCAL - INSTALLED"). Verify that the extensions you have just installed exist in the list under "WSL: UBUNTU - INSTALLED". 
+4. To confirm the extensions have been installed correctly, clear the Extensions search bar. You should now see an extensions category called "WSL: UBUNTU - INSTALLED" (you may also see one for "LOCAL - INSTALLED"). Verify that the extensions you have just installed exist in the list under "WSL: UBUNTU - INSTALLED".
 
 #### WSL2 Ubuntu terminal in VSCode
 You can open a terminal in your WSL VSCode window (if you do not already have one at the bottom of the window) by navigating to **Terminal > New Terminal** in the top menu bar (or, ``` Ctrl+Shift+` ```). This terminal in a WSL VSCode window is equivalent to the WSL2 Ubuntu terminal we get from opening the Ubuntu app itself (i.e., like we did from the **Start (Win key)** menu), but with the advantage of having all the graphical features of VSCode at your disposal.
@@ -103,14 +103,14 @@ conda config --set channel_priority strict
 conda create -n qlsc612 -y python=3.9 flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn bokeh
 conda activate qlsc612
 ```
-This installation step (`conda create`) will take a couple minutes. The above commands create a new conda Python 3.9 environment named **qlsc612** with all the necessary packages installed for this course. The last line, `conda activate qlsc612`, will activate this Python environment (default env is `base`). Now you are ready to use VSCode to edit your Python script or Jupyter Notebook in your WSL2 Ubuntu distribution. 
+This installation step (`conda create`) will take a couple minutes. The above commands create a new conda Python 3.9 environment named **qlsc612** with all the necessary packages installed for this course. The last line, `conda activate qlsc612`, will activate this Python environment (default env is `base`). Now you are ready to use VSCode to edit your Python script or Jupyter Notebook in your WSL2 Ubuntu distribution.
 
-#### Reminders: 
+#### Reminders:
 
 1. You may need to reactivate the `qlsc612` environment each time you start the WSL2 (e.g., in VSCode) with `conda activate qlsc612`.
 2. When running a Jupyter notebook in VSCode (remote access to your WSL2 Ubuntu), you will also need to specify the Python environment (kernel). There will be a `Select Kernel` button in the top right corner of the Jupyter notebook, click it and select the one reading something like *qlsc612 (Python 3.9.x) miniconda3/envs/qlsc612/bin/python*. The button should be updated to read *qlsc612 (Python 3.9.x)*. This is the python environment we have just created for this course, make sure it is the one you are using for later modules.
 
-### Docker Desktop for Windows 
+### Docker Desktop for Windows
 
 You are supposed to install Docker Desktop after you have successfully installed WSL2.
 
