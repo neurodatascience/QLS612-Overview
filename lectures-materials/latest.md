@@ -10,4 +10,4 @@ description: Links to the pre-recorded lectures and material
 
 ---
 
-[back](./)
+[back](../)

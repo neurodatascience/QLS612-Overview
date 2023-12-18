@@ -5,5 +5,11 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 
+url: https://neurodatascience.github.io/QLS612-Overview/
+
 github:
-    repository_url: https://neurodatascience.github.io/QLS612-Overview/
+    is_project_page: true
+    repository_name: QLS612-Overview
+    repository_url: https://github.com/neurodatascience/QLS612-Overview.git
+    owner_url: https://neurodatascience.github.io/
+    owner_name: origami lab
