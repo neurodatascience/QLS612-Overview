@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Intro to reproducibility
-description: Intro to reproducibility
+title: Introduction to reproducibility
+description: A quick intro to reproducibility issues in the life sciences
 ---
-
-# Intro to reproducibility
 
 **Instructor:** [JB Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd)
 
@@ -27,10 +25,31 @@ Specifically, you will:
 ## Material
 
 - [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/01_intro_to_reproducibility)
-- [pre-recorded lecture video](https://www.youtube.com/watch?v=US80s7W4s6o)
 - [slides](TODO)
 
 ## Resources
 
 - Canonical paper:
   [Ten common statistical mistakes to watch out for when writing or reviewing a manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785265)
+
+## Pre-recorded lecture video
+
+From the 2021 course.
+
+<div style="display: flex; justify-content: center; margin: 10px">
+
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/US80s7W4s6o?si=VMGZ6XKtPZYZRcqR"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+
+</div>
+
+---
+
+[back](../)

@@ -63,20 +63,35 @@ skills (such as minimal experience in a scripting language).
 - [Link to lectures materials.](./lectures-materials/latest.html)
 - [2023 lectures materials.](./lectures-materials/2023.html)
 
-- [pre-recorded videos](https://www.youtube.com/playlist?list=PLvBnRHmuiqY_6hfRmfF3468eBGnRqgW1r)
+### pre-recorded videos
+
+Video content of this course is available on Youtube
+[from the 2021 edition](https://www.youtube.com/playlist?list=PLvBnRHmuiqY_6hfRmfF3468eBGnRqgW1r).
 
 ## Approach to teaching
-
-Students taking the course for credit will have to attend lectures
-in room 189 (QLS Conference Room) of [550 Sherbrooke Street W](https://maps.app.goo.gl/hzp8f6LUXviT2W3PA).
 
 Students will be required to attend in-person lectures for all of the modules
 and will have access to [lectures materials and online content](/lectures-materials/latest.html)
 to better consolidate the material.
 
+The course requires that you have a laptop and instructions for installation are [here](./setup/setup.html).
+
 Course grading will be based on the results of 2 in-person quizzes (see [schedule](./tut-schedule.html)).
 
-The course requires that you have a laptop and instructions for installation are [here](./setup/setup.html).
+Students taking the course for credit will have to attend lectures
+in room 189 (QLS Conference Room) of 550 Sherbrooke Street W.
+
+<div style="display: flex; justify-content: center; margin: 10px">
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.2164766380392!2d-73.57253299999999!3d45.5057207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a463c616b9b%3A0x201e96955bbdbd84!2s550%20Sherbrooke%20St%20W%2C%20Montreal%2C%20QC%20H3A%201B9%2C%20Canada!5e0!3m2!1sen!2sbe!4v1713968806450!5m2!1sen!2sbe"
+        width="600"
+        height="450"
+        style="border:0;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 ## Acknowledgments and funders
 
