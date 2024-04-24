@@ -70,7 +70,7 @@ Topics include:
 ## Material
 
 - [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/04_intro_to_python)
-- [slides](TODO)
+- [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/04_intro_to_python/lecture)
 
 ## Resources
 

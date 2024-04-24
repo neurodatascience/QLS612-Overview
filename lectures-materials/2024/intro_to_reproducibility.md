@@ -25,7 +25,7 @@ Specifically, you will:
 ## Material
 
 - [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/01_intro_to_reproducibility)
-- [slides](TODO)
+- [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/01_intro_to_reproducibility/lecture)
 
 ## Resources
 

@@ -316,6 +316,7 @@ a {
 
     th {
       font-weight: bold;
+      text-align: center;
     }
 
     th,
@@ -323,6 +324,7 @@ a {
       padding: 0.5rem 1rem;
       border: 1px solid $table-border-color;
     }
+
   }
 
   dl {
