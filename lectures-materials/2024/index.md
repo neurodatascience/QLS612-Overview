@@ -4,35 +4,6 @@ title: 2023 Lectures and Class Material
 description: Links to the pre-recorded lectures and material
 ---
 
-## 7. Classical statistics pitfalls and remedies
-
-**Instructor:** [JB Poline](mailto:jean-baptiste.poline@mcgill.ca)
-
-**Outline**
-
-Most of published results still rely on some statistical inference. With this
-lecture, you will
-
-- get a reminder of the classical statistical framework and learn about the
-  issues brought by the use of statistical inference
-- learn (or be reminded of) the notion of effect size, power, positive
-  predictive values and the consequences of low powered studies
-- understand the file drawer effect, p-hacking, and know about some solutions.
-
-**Materials:**
-[GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2023/07-Statistics)
-
-**Pre-recorded lecture video:** [YouTube Link](https://youtu.be/lRLtWjkBOzQ)
-
-**Slides:**
-[Slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2023/07-Statistics/10-classical-statistics-issues.pdf)
-
-**Lecture Resources**
-
-- [Think Stats](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
-
----
-
 ## 8. Introduction to Machine Learning part 1: supervised learning
 
 **Instructor:** Nikhil Bhagwat

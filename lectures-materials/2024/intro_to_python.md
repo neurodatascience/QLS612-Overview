@@ -78,8 +78,6 @@ Topics include:
 
 ## Pre-recorded lecture video
 
-From the 2021 course.
-
 <div style="display: flex; justify-content: center; margin: 10px">
 
   <iframe

@@ -20,7 +20,7 @@ description: Links to the pre-recorded lectures and material
 1.  [🐍 Introduction to Python 🐍](./2024/intro_to_python.html)
 1.  [🐍 Python toolbox for data analysis 🐍](./2024/python_toolbox_for_data_analysis.html)
 1.  [🐼 Data wrangling with pandas 🐼](./2024/data_wrangling_with_pandas.html)
-1.  💥 Classical statistics pitfalls and remedies 💊
+1.  [💥 Classical statistics pitfalls and remedies 💊](./2024/classical_statistics_pitfalls_and_remedies.html)
 1.  Machine Learning 1: Supervised Learning
 1.  Machine Learning 2: Model Selection & Validation
 1.  [👀 Introduction to data visualization in Python 🐍](./2024/data_visualization_in_python.html)

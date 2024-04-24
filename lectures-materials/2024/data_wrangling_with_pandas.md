@@ -59,10 +59,6 @@ to fearlessly tackle the next CSV file you encounter in the wild.
 
 ## Pre-recorded lecture video
 
-From the 2021 course.
-
-**Pre-recorded lecture video:** [YouTube link](https://youtu.be/S8bYQ7YmrOQ)
-
 <div style="display: flex; justify-content: center; margin: 10px">
 
   <iframe

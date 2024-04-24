@@ -45,8 +45,6 @@ description: 🐋
 
 ## Pre-recorded lecture video
 
-From the 2021 course.
-
 [YouTube Link](https://www.youtube.com/watch?v=KolUIDOynls)
 
 <div style="display: flex; justify-content: center; margin: 10px">
@@ -54,7 +52,7 @@ From the 2021 course.
   <iframe
     width="560"
     height="315"
-    src="TODO"
+    src="https://www.youtube.com/embed/KolUIDOynls?si=Yf5eFi3OQo243fw-"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"

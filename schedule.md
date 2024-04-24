@@ -23,7 +23,7 @@ description:
 |                        | 10:15-10:45 | Exercises <br>                                                                                                                       |
 |                        | 11:00-12:30 | **Module 6** <br> [🐼 Data wrangling with Pandas 🐼](./lectures-materials/2024/data_wrangling_with_pandas.html) <br> Jacob                                                                        |
 |                        | 13:30-14:00 | Exercises, project <br>                                                                                                              |
-|                        | 14:00-15:00 | **Module 7** <br> 💥 Classical statistics pitfalls and remedies 💊 <br> JB                                                           |
+|                        | 14:00-15:00 | **Module 7** <br> [💥 Classical statistics pitfalls and remedies 💊](./lectures-materials/2024/classical_statistics_pitfalls_and_remedies.html) <br> JB                                                           |
 |                        | 15:15-17:00 | Exercises <br>                                                                                                                       |
 |                        |             |                                                                                                                                      |
 | **Thursday May 16th**  | 09:00-10:30 | **Module 8** <br> Machine Learning 1 <br> 🤖 Supervised Learning 📖 <br> Nikhil & Mohammad                                           |
@@ -33,7 +33,7 @@ description:
 |                        |             |                                                                                                                                      |
 | **Friday May 17th**    | 09:00-10:30 | **Module 10** <br> [👀 Introduction to data visualization in Python 🐍](./lectures-materials/2024/data_visualization_in_python.html) <br> Kendra                                                                              |
 |                        | 10:45-11:00 | Exercises, project <br>                                                                                                              |
-|                        | 11:00-12:30 | **Module 11** <br> 🐋 Containers 🐋 <br> Seb                                                                                         |
+|                        | 11:00-12:30 | **Module 11** <br> [🐋 Containers 🐋](./lectures-materials/2024/containers.html) <br> Seb                                                                                         |
 |                        | 13:30-15:00 | **Module 12** <br> ❓ Ask Me Anything or [Large language models](./lectures-materials/2024/llm.html) ❓ <br> Brent                                                                                       |
 |                        | 15:15-15:30 | Exercises, project <br>                                                                                                              |
 |                        | 15:45-17:00 | Quiz 2 <br>                                                                                                                          |

@@ -8,27 +8,45 @@ description: 👀🐍
 
 ## Outline
 
+-   Data visualization is an essential skill for scientists.
 
-## Questions you will be able to answer after taking this module
+-   At the grad student level, you're probably already familiar with basic plots
+    (for example, bar plot vs pie chart), as well as types of data (e.g, ordered vs categorical).
 
+-   With that in mind, I hope to take you a bit deeper
+    into the technicalities of planning and executing and effictive Figure.
 
 ## Material
 
-- [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/)
-- [slides](TODO)
-
-## Resources
+- [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/10_intro_to_data_visualization)
+- [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/10_intro_to_data_visualization/lectures)
 
 ## Pre-recorded lecture video
 
-From the 2021 course.
+### Part 1
 
 <div style="display: flex; justify-content: center; margin: 10px">
 
   <iframe
     width="560"
     height="315"
-    src="TODO"
+    src="https://www.youtube.com/embed/dqf5gmY7vE0?si=abtvx9YQdx1LA4Sd"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+
+</div>
+
+### Part 2
+
+<div style="display: flex; justify-content: center; margin: 10px">
+
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/DrOICNoOfEA?si=1csrjBNnE6Xl_hz7"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
@@ -40,30 +58,3 @@ From the 2021 course.
 ---
 
 <a href="../latest.html"><button>BACK</button></a>
-
-
-## 10.
-
-**Instructor:**
-
-**Outline**
-
-<!-- TODO ask Kendra to update text/links (if needed) -->
-
-- Data visualization is an essential skill for scientists.
-- At the grad student level, you're probably already familiar with basic plots
-  (e.g., bar plot vs pie chart), as well as types of data (e.g, ordered vs
-  categorical).
-- With that in mind, I hope to take you a bit deeper into the technicalities of
-  planning and executing and effictive Figure.
-
-**Materials:**
-[GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2023/10-Intro_to_Data_Visualization)
-
-**Pre-recorded lecture video, Part 1 Decoding:**
-[YouTube link](https://youtu.be/dqf5gmY7vE0)\
-**Pre-recorded lecture video, Part 2 Encoding:** [YouTube link](https://youtu.be/DrOICNoOfEA)
-
-**Slides for Part 1 Decoding:**
-[Slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2023/10-Intro_to_Data_Visualization/lecture_slides__data_vis_pt1_decoding.pdf)\
-**Slides for Part 2 Encoding:** [Slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2023/10-Intro_to_Data_Visualization/lecture_slides__data_vis_pt2_encoding.pdf)
