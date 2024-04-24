@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Python toolbox for data analysis
+title: 🐍 Python toolbox for data analysis 🐍
 description: "Scientific Python: NumPy and Scipy"
 ---
 
@@ -32,6 +32,7 @@ At the end of the lecture, participants will be able to:
 
 From the 2021 course.
 
+<!--
 <div style="display: flex; justify-content: center; margin: 10px">
 
   <iframe
@@ -45,6 +46,7 @@ From the 2021 course.
   </iframe>
 
 </div>
+-->
 
 ---
 

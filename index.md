@@ -60,13 +60,14 @@ skills (such as minimal experience in a scripting language).
 
 ## Course modules:
 
--   [Link to lectures materials.](./lectures-materials/latest.html)
--   [2023 lectures materials.](./lectures-materials/2023.html)
+-   [Link to lectures materials](./lectures-materials/latest.html)
+-   [2023 lectures materials](./lectures-materials/2023.html)
 
 ### pre-recorded videos
 
 Video content of this course is available on Youtube
-[from the 2021 edition](https://www.youtube.com/playlist?list=PLvBnRHmuiqY_6hfRmfF3468eBGnRqgW1r).
+[from previous editions](https://www.youtube.com/@qls612-bhs9/videos)
+of the course.
 
 ## Approach to teaching
 

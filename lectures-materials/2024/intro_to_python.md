@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Introduction to Python
-description: Introduction to Python
+title: 🐍 Introduction to Python 🐍
+description: 🐍
 ---
 
 **Instructor:** [Michelle Wang](https://github.com/michellewang)
@@ -62,10 +62,10 @@ Topics include:
     my_function("111", "abc", "0100")
     ```
 
-  1.  `1111110abc`
-  1.  `0abc111111`
-  1.  `111111bca0`
-  1.  `1111111110`
+    1.  `1111110abc`
+    1.  `0abc111111`
+    1.  `111111bca0`
+    1.  `1111111110`
 
 ## Material
 

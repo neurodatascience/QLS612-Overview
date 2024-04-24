@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Introduction to Git and GitHub
-description: Introduction to Git and GitHub
+title: 🌳 Introduction to Git and GitHub 🌳
+description: 🌳
 ---
 
-**Instructor:** [Kendra](https://koudyk.github.io/)
+**Instructor:** [Kendra Oudyk](https://koudyk.github.io/)
 
 ## Outline
 

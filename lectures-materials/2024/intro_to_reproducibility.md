@@ -4,7 +4,7 @@ title: Introduction to reproducibility
 description: A quick intro to reproducibility issues in the life sciences
 ---
 
-**Instructor:** [JB Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd)
+**Instructor:** [Jean-Baptiste Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd)
 
 ## Outline
 
