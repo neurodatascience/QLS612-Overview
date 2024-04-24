@@ -52,4 +52,4 @@ From the 2021 course.
 
 ---
 
-[back](../latest.html)
+<a href="../latest.html"><button>BACK</button></a>

@@ -18,7 +18,7 @@ description: Links to the pre-recorded lectures and material
 1.  [Terminal and bash](./2024/terminal_and_bash.html)
 1.  [Git and GitHub](./2024/git_github.html)
 1.  [Introduction to Python](./2024/intro_to_python.html)
-1.  Intro to NumPy and SciPy
+1.  [Python toolbox for data analysis](./2024/python_toolbox_for_data_analysis.html)
 1.  Data wrangling with pandas
 1.  Classical statistics pitfalls and remedies
 1.  Machine Learning 1: Supervised Learning
@@ -30,4 +30,4 @@ description: Links to the pre-recorded lectures and material
 
 ---
 
-[back](../)
+<a href="../"><button>BACK</button></a>

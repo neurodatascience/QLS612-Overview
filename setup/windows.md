@@ -226,4 +226,4 @@ The above step-by-step instructions are distilled from
 
 ---
 
-[back](./setup.html)
+<a href="./setup.html"><button>BACK</button></a>

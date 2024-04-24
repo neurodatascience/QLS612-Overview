@@ -97,4 +97,6 @@ in room 189 (QLS Conference Room) of 550 Sherbrooke Street W.
 
 We are grateful for support from HBHL NeuroHub and the NIH funded ReproNim center.
 
-[back](./)
+---
+
+<a href="../"><button>BACK</button></a>

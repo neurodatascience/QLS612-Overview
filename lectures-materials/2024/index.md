@@ -4,25 +4,7 @@ title: 2023 Lectures and Class Material
 description: Links to the pre-recorded lectures and material
 ---
 
-## 4. Scientific Python: NumPy and Scipy
 
-**Instructor:** Jérôme Dockès
-
-**Outline**
-
-This lecture will introduce NumPy and its ndarray data structure, which are at
-the core of most scientific Python packages. At the end of the lecture,
-participants will be able to:
-
-- Understand why NumPy enables efficient computation and what are NumPy arrays.
-- Manipulate arrays of numbers with NumPy
-
-**Materials:**
-[GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2023/04-NumPy_SciPy)
-
-**Lecture Resources**
-
-- [NumPy User Guide](https://numpy.org/doc/stable/user/basics.html)
 
 
 ## 6. Data Wrangling with Pandas
@@ -294,7 +276,3 @@ In this module, you will:
   - conda has more Python packages than pip because of the Anaconda distribution
   - conda can resolve non-Python dependencies and can also create virtual
     environments
-
----
-
-[back](../)

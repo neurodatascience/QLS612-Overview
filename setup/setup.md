@@ -89,4 +89,4 @@ Install Firefox, Chrome, or Safari.
 
 ---
 
-[back](../)
+<a href="../"><button>BACK</button></a>

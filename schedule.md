@@ -15,11 +15,11 @@ description:
 |                        |             |                                                                                                                                      |
 | **Tuesday May 14th**   | 09:00-10:30 | **Module 3** <br> [♻️ Introduction to Git and GitHub ♻️](./lectures-materials/2024/git_github.html) <br> Kendra                                                                   |
 |                        | 10:45-12:30 | Exercises <br>                                                                                                                       |
-|                        | 13:30-15:00 | **Module 4** <br> 🐍 Python and virtual environments 🐍 <br> Michelle                                                                |
+|                        | 13:30-15:00 | **Module 4** <br> [🐍 Python and virtual environments 🐍](./2024/intro_to_python.html) <br> Michelle                                                                |
 |                        | 15:15-16:45 | Exercises <br>                                                                                                                       |
 |                        | 17:00-18:00 | Quiz 1 + feedback <br>                                                                                                               |
 |                        |             |                                                                                                                                      |
-| **Wednesday May 15th** | 09:00-10:15 | **Module 5** <br> 🐍 Python toolbox for data analysis 🐍 <br> Tristan                                                                |
+| **Wednesday May 15th** | 09:00-10:15 | **Module 5** <br> [🐍 Python toolbox for data analysis 🐍](./lectures-materials/2024/python_toolbox_for_data_analysis.html) <br> Tristan                                                                |
 |                        | 10:15-10:45 | Exercises <br>                                                                                                                       |
 |                        | 11:00-12:30 | **Module 6** <br> 🐼 Data wrangling with Pandas 🐼 <br> Jacob                                                                        |
 |                        | 13:30-14:00 | Exercises, project <br>                                                                                                              |
@@ -41,4 +41,4 @@ description:
 
 ---
 
-[back](./)
+<a href="../"><button>BACK</button></a>
