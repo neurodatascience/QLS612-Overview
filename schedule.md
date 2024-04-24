@@ -8,7 +8,7 @@ description: The schedule for the course
 
 <!-- 🔶 TO be announced 🔶 -->
 
-<!-- **Classroom:** room 189 (QLS Conference Room) of 550 Sherbrooke Street West -->
+**Classroom:** room 189 (QLS Conference Room) of [550 Sherbrooke Street West](https://maps.app.goo.gl/hzp8f6LUXviT2W3PA).
 
 <!--
 | Date              | Time        | Event                                               |
@@ -45,11 +45,11 @@ description: The schedule for the course
 <tbody>
     <tr style="height: 20px">
         <td class="s0"></td>
-        <td class="s0" dir="ltr">Day 1<br />Mon. May 1</td>
-        <td class="s0" dir="ltr">Day 2<br />Tue. May 2</td>
-        <td class="s0" dir="ltr">Day 3<br />Wed. May 3</td>
-        <td class="s0" dir="ltr">Day 4<br />Thu. May 4</td>
-        <td class="s0" dir="ltr">Day 5<br />Fri. May 5</td>
+        <td class="s0" dir="ltr">Day 1<br />Mon. May 13th</td>
+        <td class="s0" dir="ltr">Day 2<br />Tue. May 14th</td>
+        <td class="s0" dir="ltr">Day 3<br />Wed. May 15th</td>
+        <td class="s0" dir="ltr">Day 4<br />Thu. May 16th</td>
+        <td class="s0" dir="ltr">Day 5<br />Fri. May 17th</td>
     </tr>
     <tr style="height: 20px">
         <td class="s1" dir="ltr">09:00</td>

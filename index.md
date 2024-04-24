@@ -9,7 +9,7 @@ layout: default
 </div>
 
 - [Link to the **lectures materials**.](./lectures-materials/latest.html)
-- [Link to the **course schedule**.](./tut-schedule.html)
+- [Link to the **course schedule**.](./schedule.html)
 - [Link to **setup instructions**](./setup/setup.html).
 - [Link to the **code of conduct**.](./coc.html)
 
@@ -60,25 +60,10 @@ skills (such as minimal experience in a scripting language).
 
 ## Course modules:
 
-<!--
-1. Introduction to Reproducibility
-2. Terminal and Bash
-3. Introduction to Python
-4. Intro to NumPy and SciPy
-5. Git and GitHub
-6. Data Wrangling with Pandas
-7. Classical statistics pitfalls and remedies
-8. Machine Learning 1: Supervised Learning
-9. Machine Learning 2: Model Selection & Validation
-10. Introduction to Data Visualization
-11. Containers
-12. High Performance Computing
--->
-
-🔶 To be announced 🔶
-
 - [Link to lectures materials.](./lectures-materials/latest.html)
 - [2023 lectures materials.](./lectures-materials/2023.html)
+
+- [pre-recorded videos](https://www.youtube.com/playlist?list=PLvBnRHmuiqY_6hfRmfF3468eBGnRqgW1r)
 
 ## Approach to teaching
 
@@ -95,7 +80,6 @@ The course requires that you have a laptop and instructions for installation are
 
 ## Acknowledgments and funders
 
-We are grateful for support from HBHL NeuroHub and the NIH funded ReproNim
-center.
+We are grateful for support from HBHL NeuroHub and the NIH funded ReproNim center.
 
 [back](./)
