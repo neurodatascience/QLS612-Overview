@@ -8,10 +8,10 @@ layout: default
 <img src="origami_logo.png" alt="drawing" width="250">
 </div>
 
-- [Link to the **lectures materials**.](./lectures-materials/latest.html)
-- [Link to the **course schedule**.](./schedule.html)
-- [Link to **setup instructions**](./setup/setup.html).
-- [Link to the **code of conduct**.](./coc.html)
+-   [Link to the **lectures materials**.](./lectures-materials/latest.html)
+-   [Link to the **course schedule**.](./schedule.html)
+-   [Link to **setup instructions**](./setup/setup.html).
+-   [Link to the **code of conduct**.](./coc.html)
 
 ## Course overview:
 
@@ -60,8 +60,8 @@ skills (such as minimal experience in a scripting language).
 
 ## Course modules:
 
-- [Link to lectures materials.](./lectures-materials/latest.html)
-- [2023 lectures materials.](./lectures-materials/2023.html)
+-   [Link to lectures materials.](./lectures-materials/latest.html)
+-   [2023 lectures materials.](./lectures-materials/2023.html)
 
 ### pre-recorded videos
 

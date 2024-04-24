@@ -14,23 +14,26 @@ the default command line in most Linux systems.
 
 You will learn how to:
 
-- move around on your computer with the command line, create and open directories and files
-- find things with the command line (files and programs, PATH variables)
-- run useful command line programs and find help (`find`, `grep`, `ls`, and `man` / documentation)
+-   move around on your computer with the command line, create and open directories and files
+-   find things with the command line (files and programs, PATH variables)
+-   run useful command line programs and find help (`find`, `grep`, `ls`, and `man` / documentation)
 
 ## Questions you will be able to answer after taking this module
 
-- What is a command line shell?
-- How would you copy thousands of files with file names starting with `"my_good_file..."`
-  to a different directory on your computer?
-- Among thousands of files and directories you know there is one
-  where you wrote down `"location of my thesis backup"`. How do you find this file?
-- What is an environment variable, and how can you change it?
+-   What is a command line shell?
+
+-   How would you copy thousands of files with file names starting with `"my_good_file..."`
+    to a different directory on your computer?
+
+-   Among thousands of files and directories you know there is one
+    where you wrote down `"location of my thesis backup"`. How do you find this file?
+
+-   What is an environment variable, and how can you change it?
 
 ## Material
 
-- [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/02_terminal_and_bash)
-- [slides](TODO)
+-   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/02_terminal_and_bash)
+-   [slides](TODO)
 
 <div style="display: flex; justify-content: center; margin: 10px">
 
@@ -48,4 +51,4 @@ You will learn how to:
 
 ---
 
-[back](../)
+[back](../latest.html)

@@ -23,16 +23,23 @@ that deviates from this code of conduct.
 
 Harassment includes, but is not limited to:
 
-- Verbal comments that reinforce social structures of domination related to
-  gender, gender identity and expression, sexual orientation, disability,
-  physical appearance, body size, race, age or religion.
-- Sexual images in public spaces
-- Deliberate intimidation, stalking, or following
-- Harassing photography or recording
-- Sustained disruption of talks or other events
-- Inappropriate physical contact
-- Advocating for, or encouraging, any of the above behavior
-- Unwelcome sexual attention
+-   Verbal comments that reinforce social structures of domination related to
+    gender, gender identity and expression, sexual orientation, disability,
+    physical appearance, body size, race, age or religion.
+
+-   Sexual images in public spaces
+
+-   Deliberate intimidation, stalking, or following
+
+-   Harassing photography or recording
+
+-   Sustained disruption of talks or other events
+
+-   Inappropriate physical contact
+
+-   Advocating for, or encouraging, any of the above behavior
+
+-   Unwelcome sexual attention
 
 ## Respecting Differences
 
