@@ -24,11 +24,11 @@ description:
 |                        | 11:00-12:30 | **Module 6** <br> [🐼 Data wrangling with Pandas 🐼](./lectures-materials/2024/data_wrangling_with_pandas.html) <br> Jacob                                                                        |
 |                        | 13:30-14:00 | Exercises, project <br>                                                                                                              |
 |                        | 14:00-15:00 | **Module 7** <br> [💥 Classical statistics pitfalls and remedies 💊](./lectures-materials/2024/classical_statistics_pitfalls_and_remedies.html) <br> JB                                                           |
-|                        | 15:15-17:00 | Exercises <br>                                                                                                                       |
+|                        | 15:15-17:00 | Exercises, project <br>                                                                                                                  |
 |                        |             |                                                                                                                                      |
 | **Thursday May 16th**  | 09:00-10:30 | **Module 8** <br> Machine Learning 1 <br> 🤖 Supervised Learning 📖 <br> Nikhil & Mohammad                                           |
 |                        | 10:45-12:30 | Exercises, project <br>                                                                                                              |
-|                        | 13:30-15:00 | **Module 9** <br> Machine Learning 2 <br> 🤖🤖 Model selection & validation 📖📖 <br> Nikhil & Mohammad                              |
+|                        | 13:30-15:00 | **Module 9** <br> [Machine Learning 2 <br> 🤖🤖 Model selection & validation 📖📖](./lectures-materials/2024/intro_ml_part_2.html) <br> Nikhil & Mohammad                              |
 |                        | 15:15-17:00 | Exercises, project <br>                                                                                                              |
 |                        |             |                                                                                                                                      |
 | **Friday May 17th**    | 09:00-10:30 | **Module 10** <br> [👀 Introduction to data visualization in Python 🐍](./lectures-materials/2024/data_visualization_in_python.html) <br> Kendra                                                                              |
