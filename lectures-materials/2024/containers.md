@@ -4,7 +4,7 @@ title: 🐋 Containers 🐋
 description: 🐋
 ---
 
-**Instructor:** [Sebastian Urchs](link)
+**Instructor:** [Sebastian Urchs](https://www.surchs.com/)
 
 ## Outline
 
