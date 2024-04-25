@@ -35,8 +35,6 @@ At a high level, [the process for proposing changes](https://guides.github.com/i
 6. Push to your fork and [submit a pull request](https://github.com/pages-themes/cayman/compare)
 7. Pat your self on the back and wait for your pull request to be reviewed and merged
 
-**Interesting in submitting your first Pull Request?** It's easy! You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
-
 ## Bootstrapping your local development environment
 
 `script/bootstrap`

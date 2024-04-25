@@ -134,7 +134,7 @@ should also look great, but that goes without saying.
 
 Interested in contributing to Cayman? We'd love your help. Cayman is an open
 source project, built one contribution at a time by users like you. See
-[the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to
+[the CONTRIBUTING file](./CONTRIBUTING.md) for instructions on how to
 contribute.
 
 ### Previewing the theme locally
@@ -147,7 +147,7 @@ proposing a change):
 2. `cd` into the theme's directory
 3. Run `script/bootstrap` to install the necessary dependencies
 4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview
+5. Visit `localhost:4000` in your browser to preview
    the theme
 
 ### Running tests

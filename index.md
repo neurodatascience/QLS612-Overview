@@ -67,7 +67,7 @@ of the course.
 ## Approach to teaching
 
 Students will be required to attend in-person lectures for all of the modules
-and will have access to [lectures materials and online content](/lectures-materials/latest.html)
+and will have access to [lectures materials and online content]({{ site.url }}/lectures-materials/latest.html)
 to better consolidate the material.
 
 The course requires that you have a laptop and instructions for installation are [here]({{ site.url }}/setup/setup.html).

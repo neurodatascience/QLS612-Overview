@@ -4,7 +4,7 @@ title: 👀 Introduction to data visualization in Python 🐍
 description: 👀🐍
 ---
 
-**Instructor:** [Kendra Oudyk](https://koudyk.github.io/)
+**Instructor:** [Kendra Oudyk](https://github.com/koudyk)
 
 ## Outline
 
