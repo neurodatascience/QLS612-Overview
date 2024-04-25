@@ -6,17 +6,19 @@ description: Read below for the code of conduct for QLSC 612
 
 # Code of Conduct
 
-Brainhack is dedicated to providing an environment where people are kind and
-respectful to each other, a harassment-free Brainhack experience for everyone,
+This course is dedicated to providing an environment where people are kind and
+respectful to each other, a harassment-free experience for everyone,
 regardless of gender, gender identity and expression, sexual orientation,
-disability, physical appearance, body size, race, age or religion. We do not
+disability, physical appearance, body size, race, age or religion.
+We do not
 tolerate harassment of event participants in any form. Sexual language and
-imagery is not appropriate for any event venue, including talks. Brainhack
-participants violating these rules may be sanctioned or expelled from the event
+imagery is not appropriate for any event venue, including talks.
+Participants violating these rules may be sanctioned or expelled from the event
 without a refund at the discretion of the event organizers.
 
 This could really be the end of that code of conduct, but some forms of
-harassment and negative behavior are fairly hard to identify at first. Please
+harassment and negative behavior are fairly hard to identify at first.
+Please
 read carefully through the rest of the document to make sure you avoid them.
 There is also a section to know what to do and expect if you experience behavior
 that deviates from this code of conduct.
@@ -43,12 +45,12 @@ Harassment includes, but is not limited to:
 
 ## Respecting Differences
 
-Brainhack participants come from many cultures and backgrounds. We therefore
+Participants come from many cultures and backgrounds. We therefore
 expect everyone to be very respectful of different cultural practices,
 attitudes, and beliefs. This includes being aware of preferred titles and
 pronouns, as well as using a respectful tone of voice.
 
-While we do not assume Brainhack participants know the cultural practices of
+While we do not assume participants know the cultural practices of
 every ethnic and cultural group, we expect members to recognize and respect
 differences within our community. This means being open to learning from and
 educating others, as well as educating yourself.
@@ -78,10 +80,10 @@ other material. Event organizers may take action to redress anything designed
 to, or with the clear impact of, disrupting the event or making the environment
 hostile for any participants. If a participant engages in harassing behavior,
 event organizers have the responsibility to remind the offender about
-Brainhack’s Code of Conduct, and warn them that repeated inappropriate, uncivil,
+the Code of Conduct, and warn them that repeated inappropriate, uncivil,
 threatening, offensive, or harmful behavior can lead to a temporary or permanent
 ban from the event with no refund. The offending person(s) may also see affected
-their participation in future Brainhack events. We expect participants to follow
+their participation in future classes. We expect participants to follow
 these rules at all event venues and event-related social activities. We think
 people should follow these rules outside event activities too!
 
