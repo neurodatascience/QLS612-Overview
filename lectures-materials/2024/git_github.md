@@ -70,6 +70,15 @@ In this lecture, students will learn:
 
 </div>
 
+## Extras
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
+  <a href="https://xkcd.com/1597/">
+    <img src="https://imgs.xkcd.com/comics/git.png" alt="xkcd-git">
+  </a>
+  <a href="https://www.explainxkcd.com/wiki/index.php/1597">explanation</a>
+</div>
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

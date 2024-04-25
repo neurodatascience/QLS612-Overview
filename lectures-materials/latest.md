@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2024 Lectures and Class Material
-description: Links to the pre-recorded lectures and material
+description:
 ---
 
 <div style="display: flex; justify-content: space-around; margin: 10px">

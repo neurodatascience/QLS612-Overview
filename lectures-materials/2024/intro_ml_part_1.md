@@ -67,6 +67,15 @@ you should make sure that you are already familiar with the following concepts
 
 </div>
 
+## Extras
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
+  <a href="https://xkcd.com/1838/">
+    <img src="https://imgs.xkcd.com/comics/machine_learning.png" alt="xkcd-machine_learning">
+  </a>
+  <a href="https://www.explainxkcd.com/wiki/index.php/1838">explanation</a>
+</div>
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

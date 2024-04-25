@@ -17,6 +17,10 @@ lecture, you will
   predictive values and the consequences of low powered studies
 - understand the file drawer effect, p-hacking, and know about some solutions.
 
+## Questions you will be able to answer after taking this module
+
+<!-- TODO -->
+
 ## Material
 
 - [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/07_statistics)
@@ -40,6 +44,15 @@ lecture, you will
     allowfullscreen>
   </iframe>
 
+</div>
+
+## Extras
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
+  <a href="https://xkcd.com/552/">
+    <img src="https://imgs.xkcd.com/comics/correlation.png" alt="xkcd-correlation">
+  </a>
+  <a href="https://www.explainxkcd.com/wiki/index.php/552">explanation</a>
 </div>
 
 ---

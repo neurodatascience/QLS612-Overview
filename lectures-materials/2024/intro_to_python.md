@@ -92,6 +92,15 @@ Topics include:
 
 </div>
 
+## Extras
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
+  <a href="https://xkcd.com/1987/">
+    <img src="https://imgs.xkcd.com/comics/python_environment.png" alt="xkcd-python_environment">
+  </a>
+  <a href="https://www.explainxkcd.com/wiki/index.php/1987">explanation</a>
+</div>
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

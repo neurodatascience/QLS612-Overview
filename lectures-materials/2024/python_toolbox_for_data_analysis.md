@@ -18,6 +18,7 @@ At the end of the lecture, participants will be able to:
 
 ## Questions you will be able to answer after taking this module
 
+<!-- TODO -->
 
 ## Material
 

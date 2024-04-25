@@ -48,6 +48,15 @@ Specifically, you will:
 
 </div>
 
+## Extras
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
+  <a href="https://xkcd.com/882/">
+    <img src="https://imgs.xkcd.com/comics/significant.png" alt="xkcd-significant">
+  </a>
+  <a href="https://www.explainxkcd.com/wiki/index.php/882">explanation</a>
+</div>
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

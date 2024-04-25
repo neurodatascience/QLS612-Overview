@@ -16,6 +16,10 @@ description: 👀🐍
 -   With that in mind, I hope to take you a bit deeper
     into the technicalities of planning and executing and effictive Figure.
 
+## Questions you will be able to answer after taking this module
+
+<!-- TODO -->
+
 ## Material
 
 - [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/10_intro_to_data_visualization)
@@ -53,6 +57,15 @@ description: 👀🐍
     allowfullscreen>
   </iframe>
 
+</div>
+
+## Extras
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
+  <a href="https://xkcd.com/688/">
+    <img src="https://imgs.xkcd.com/comics/self_description.png" alt="xkcd-self_description">
+  </a>
+    <a href="https://www.explainxkcd.com/wiki/index.php/688">explanation</a>
 </div>
 
 ---
