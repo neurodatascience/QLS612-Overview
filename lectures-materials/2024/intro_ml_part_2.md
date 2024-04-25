@@ -18,8 +18,10 @@ In this module, you will:
 -   I am predicting continuous cognitive scores of 1,000 participants using 20,000 brain imaging features.
     I use least-squares regression.
     What is regularization and why do I need it?
+
 -   I decide to use ridge regression (l2 regularization).
     How can I set the regularization hyperparameter?
+
 -   I also add a dimensionality reduction step to my model: PCA.
     I do 5-fold cross-validation, and I perform a full grid-search,
     using 3 folds for the inner validation loop.
@@ -29,8 +31,8 @@ In this module, you will:
 
 ## Material
 
-- [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/)
-- [slides](TODO)
+-   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/)
+-   [slides](TODO)
 
 ## Resources
 

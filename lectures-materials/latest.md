@@ -15,7 +15,7 @@ description:
 
 # Lectures and Class Material
 
-- Make sure you have followed the [setup instructions]({{ site.url }}/setup/setup.html) before coming to the class!
+-   Make sure you have followed the [setup instructions]({{ site.url }}/setup/setup.html) before coming to the class!
 
 ---
 

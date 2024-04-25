@@ -22,8 +22,8 @@ description: 👀🐍
 
 ## Material
 
-- [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/10_intro_to_data_visualization)
-- [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/10_intro_to_data_visualization/lectures)
+-   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/10_intro_to_data_visualization)
+-   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/10_intro_to_data_visualization/lectures)
 
 ## Pre-recorded lecture video
 

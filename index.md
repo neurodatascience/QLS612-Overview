@@ -8,7 +8,6 @@ layout: default
 
 # QLSC 612 - Fundamentals for Neuro Data Science
 
-
 ## Course overview
 
 Neuroscientists increasingly rely on openly-accessible data and on advanced

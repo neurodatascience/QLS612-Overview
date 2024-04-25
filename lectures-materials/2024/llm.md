@@ -8,14 +8,12 @@ description: Large language models
 
 ## Outline
 
-
 ## Questions you will be able to answer after taking this module
-
 
 ## Material
 
-- [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/12_LLM)
-- [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/12_LLM/lecture)
+-   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/12_LLM)
+-   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/12_LLM/lecture)
 
 ## Resources
 

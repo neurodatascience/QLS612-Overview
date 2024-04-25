@@ -17,10 +17,13 @@ description: 🤖 Supervised Learning 📖
 ## Questions you will be able to answer after taking this module
 
 -   When is ML a useful approach?
+
 -   Supervised learning
+
     -   Model training - what is under/over-fitting?
     -   Model selection - what is (nested) cross-validation?
     -   Model evaluation - what are type-1 and type-2 errors?
+
 -   What NOT to do when using ML models in your research
 
 ## Things you will NOT learn in this module (if you are an advanced ML student)
@@ -32,7 +35,7 @@ description: 🤖 Supervised Learning 📖
 ## Material
 
 -   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/)
--   [slides](TODO)
+-   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/lectures)
 
 ## Resources
 
@@ -47,6 +50,7 @@ you should make sure that you are already familiar with the following concepts
 -   Basics of linear algebra (check out [these videos](https://youtu.be/fNk_zzaMoSs) if you need a refresher)
     -   Do you know how to use vectors?
     -   Do you know how to multiply two matrices?
+
 -   Basics of linear regression
     -   Do you know what a mean-square error is?
     -   How to fit linear regression or GLMs?

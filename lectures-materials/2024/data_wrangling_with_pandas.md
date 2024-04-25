@@ -35,17 +35,17 @@ to fearlessly tackle the next CSV file you encounter in the wild.
 ## Questions you will be able to answer after taking this module
 
 -   Which of the following is an immutable Pandas Object?
-    1. Index
-    1. DataFrame
-    1. Series
-    1. Array
+    1.  Index
+    1.  DataFrame
+    1.  Series
+    1.  Array
 
 -   What function would you use to combine two Pandas DataFrames
     if you wanted to align their rows based on common column values?
-    1. Append
-    1. Concat
-    1. Merge
-    1. Map
+    1.  Append
+    1.  Concat
+    1.  Merge
+    1.  Map
 
 ## Material
 

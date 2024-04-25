@@ -33,7 +33,9 @@ Topics include:
 ## Questions you will be able to answer after taking this module
 
 -   How does the use of a `break` statement alter the flow of a loop in Python?
+
 -   What happens if you attempt to append new elements to a Tuple?
+
 -   Without running the code on your machine, what is the printed output when the following code is run?
 
     ```python
@@ -43,9 +45,9 @@ Topics include:
     ```
 
     1.  `[1, {'c': {'d': [4, 5, 6, 4]}}, [1, 2, 3]]`
-    2.  `[1, {'c': {'d': [4, 5, 6, 4, 1]}}, [1, 2, 3]]`
-    3.  `[1, [4,5,6,4,1], [1,2,3]]`
-    4.  `[1, [4,5,6,4], [1,2,3]]`
+    1.  `[1, {'c': {'d': [4, 5, 6, 4, 1]}}, [1, 2, 3]]`
+    1.  `[1, [4,5,6,4,1], [1,2,3]]`
+    1.  `[1, [4,5,6,4], [1,2,3]]`
 
 -   Without running the code on your machine, which string is returned by
     `my_function` when called with the specified parameters?
