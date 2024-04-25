@@ -34,8 +34,8 @@ description: 🤖 Supervised Learning 📖
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/lectures)
+-   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/08_machine_learning_1)
+-   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/08_machine_learning_1/lecture)
 
 ## Resources
 

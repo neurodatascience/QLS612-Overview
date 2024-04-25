@@ -31,8 +31,8 @@ In this module, you will:
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/)
--   [slides](TODO)
+-   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/09_machine_learning_2)
+-   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/09_machine_learning_2/lecture)
 
 ## Resources
 

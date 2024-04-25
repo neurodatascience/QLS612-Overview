@@ -33,7 +33,7 @@ You will learn how to:
 ## Material
 
 -   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/02_terminal_and_bash)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/02_terminal_and_bash/lectures)
+-   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/02_terminal_and_bash/lecture)
 
 ## Pre-recorded lecture video
 

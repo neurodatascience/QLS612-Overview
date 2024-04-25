@@ -44,10 +44,8 @@ In this lecture, students will learn:
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/lectures)
-
-[GitHub Link](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2023/05-Git_GitHub)
+-   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/03_git_github)
+-   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/03_git_github/lecture)
 
 ## Resources
 

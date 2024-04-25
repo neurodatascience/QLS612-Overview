@@ -26,7 +26,7 @@ lecture, you will
 ## Material
 
 -   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/07_statistics)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/07_statistics/lectures)
+-   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/07_statistics/lecture)
 
 ## Resources
 
