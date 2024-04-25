@@ -75,4 +75,4 @@ to fearlessly tackle the next CSV file you encounter in the wild.
 
 ---
 
-<a href="../latest.html"><button>BACK</button></a>
+<a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

@@ -121,4 +121,4 @@ during the installation procedure please check that link for potential answers!)
 
 ---
 
-<a href="./setup.html"><button>BACK</button></a>
+<a href="{{ site.url }}/setup/setup.html"><button>BACK</button></a>

@@ -69,4 +69,4 @@ you should make sure that you are already familiar with the following concepts
 
 ---
 
-<a href="../latest.html"><button>BACK</button></a>
+<a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

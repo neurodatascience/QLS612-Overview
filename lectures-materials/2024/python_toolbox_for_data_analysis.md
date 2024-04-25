@@ -48,4 +48,4 @@ At the end of the lecture, participants will be able to:
 
 ---
 
-<a href="../latest.html"><button>BACK</button></a>
+<a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

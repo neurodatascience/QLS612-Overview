@@ -97,4 +97,4 @@ using an anonymous email.
 
 ---
 
-<a href="../"><button>BACK</button></a>
+<a href="{{ site.url }}"><button>BACK</button></a>

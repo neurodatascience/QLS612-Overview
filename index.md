@@ -2,18 +2,14 @@
 layout: default
 ---
 
-# QLSC 612 - Fundamentals for Neuro Data Science
-
 <div style="display: flex; justify-content: center; margin: 10px">
 <img src="origami_logo.png" alt="drawing" width="250">
 </div>
 
--   [Link to the **lectures materials**.](./lectures-materials/latest.html)
--   [Link to the **course schedule**.](./schedule.html)
--   [Link to **setup instructions**](./setup/setup.html).
--   [Link to the **code of conduct**.](./coc.html)
+# QLSC 612 - Fundamentals for Neuro Data Science
 
-## Course overview:
+
+## Course overview
 
 Neuroscientists increasingly rely on openly-accessible data and on advanced
 methodological procedures for their investigations.
@@ -53,15 +49,15 @@ Amongst the topics, we will cover both the fundamentals of tools (bash, git,
 github, jupyter, docker, visualization) and analysis methods (hypothesis
 testing, machine learning) at the conceptual and practical levels.
 
-See objectives of each module [here](./lectures-materials/latest.html).
+See objectives of each module [here]({{ site.url }}/lectures-materials/latest.html).
 
 In terms of requirements, students will be expected to have basic programming
 skills (such as minimal experience in a scripting language).
 
-## Course modules:
+## Course modules
 
--   [Link to lectures materials](./lectures-materials/latest.html)
--   [2023 lectures materials](./lectures-materials/2023.html)
+-   [Link to lectures materials]({{ site.url }}/lectures-materials/latest.html)
+-   [2023 lectures materials]({{ site.url }}/lectures-materials/2023.html)
 
 ### pre-recorded videos
 
@@ -75,9 +71,9 @@ Students will be required to attend in-person lectures for all of the modules
 and will have access to [lectures materials and online content](/lectures-materials/latest.html)
 to better consolidate the material.
 
-The course requires that you have a laptop and instructions for installation are [here](./setup/setup.html).
+The course requires that you have a laptop and instructions for installation are [here]({{ site.url }}/setup/setup.html).
 
-Course grading will be based on the results of 2 in-person quizzes (see [schedule](./tut-schedule.html)).
+Course grading will be based on the results of 2 in-person quizzes (see [schedule]({{ site.url }}/tut-schedule.html)).
 
 Students taking the course for credit will have to attend lectures
 in room 189 (QLS Conference Room) of 550 Sherbrooke Street W.
@@ -97,7 +93,3 @@ in room 189 (QLS Conference Room) of 550 Sherbrooke Street W.
 ## Acknowledgments and funders
 
 We are grateful for support from HBHL NeuroHub and the NIH funded ReproNim center.
-
----
-
-<a href="../"><button>BACK</button></a>

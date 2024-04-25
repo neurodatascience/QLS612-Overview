@@ -226,4 +226,4 @@ The above step-by-step instructions are distilled from
 
 ---
 
-<a href="./setup.html"><button>BACK</button></a>
+<a href="{{ site.url }}/setup/setup.html"><button>BACK</button></a>

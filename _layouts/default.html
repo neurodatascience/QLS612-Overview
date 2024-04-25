@@ -20,6 +20,10 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.url }}" class="btn">Home</a>
+        <a href="{{ site.url }}/setup/setup.html" class="btn">Setup</a>
+        <a href="{{ site.url }}/schedule.html" class="btn">Schedule</a>
+        <a href="{{ site.url }}/lectures-materials/latest.html" class="btn">Lectures materials</a>
+        <a href="{{ site.url }}/coc.html" class="btn">Code of conduct</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>

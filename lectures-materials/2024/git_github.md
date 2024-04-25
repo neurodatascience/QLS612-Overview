@@ -72,4 +72,4 @@ In this lecture, students will learn:
 
 ---
 
-<a href="../latest.html"><button>BACK</button></a>
+<a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>
