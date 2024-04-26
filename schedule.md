@@ -26,7 +26,7 @@ description:
 |                        | 14:00-15:00 | **Module 7** <br> [💥 Classical statistics pitfalls and remedies 💊]({{ site.url }}/lectures-materials/2024/classical_statistics_pitfalls_and_remedies.html) <br> JB   |
 |                        | 15:15-17:00 | Exercises, project <br>                                                                                                                                                |
 |                        |             |                                                                                                                                                                        |
-| **Thursday May 16th**  | 09:00-10:30 | **Module 8** <br> [Machine Learning 1 <br> 🤖 Supervised Learning 📖](({{ site.url }}/lectures-materials/2024/intro_ml_part_1.md)) <br> Nikhil & Mohammad              |
+| **Thursday May 16th**  | 09:00-10:30 | **Module 8** <br> [Machine Learning 1 <br> 🤖 Supervised Learning 📖]({{ site.url }}/lectures-materials/2024/intro_ml_part_1.md) <br> Nikhil & Mohammad              |
 |                        | 10:45-12:30 | Exercises, project <br>                                                                                                                                                |
 |                        | 13:30-15:00 | **Module 9** <br> [Machine Learning 2 <br> 🤖🤖 Model selection & validation 📖📖]({{ site.url }}/lectures-materials/2024/intro_ml_part_2.html) <br> Nikhil & Mohammad |
 |                        | 15:15-17:00 | Exercises, project <br>                                                                                                                                                |
