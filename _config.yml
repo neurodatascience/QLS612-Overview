@@ -5,7 +5,7 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 
-url: https://neurodatascience.github.io/QLS612-Overview/
+url: https://neurodatascience.github.io/QLS612-Overview
 
 github:
     is_project_page: true
