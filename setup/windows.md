@@ -170,39 +170,27 @@ terminal directly: open **Start (Win key)** and search for the **Ubuntu** app).
 
 #### Python packages
 
-Open a terminal and type the following commands (press `Enter` after each):
+{% include setup_python_package.html %}
 
-```bash
-conda config --append channels conda-forge
-conda config --set channel_priority strict
-conda create -n qlsc612 -y python=3.9 flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn bokeh
-conda activate qlsc612
-```
-
-This installation step (`conda create`) will take a couple minutes. The above
-commands create a new conda Python 3.9 environment named **qlsc612** with all
-the necessary packages installed for this course. The last line,
-`conda activate qlsc612`, will activate this Python environment (default env is
-`base`). Now you are ready to use VSCode to edit your Python script or Jupyter
+Now you are ready to use VSCode to edit your Python script or Jupyter
 Notebook in your WSL2 Ubuntu distribution.
 
 #### Reminders:
 
 1. You may need to reactivate the `qlsc612` environment each time you start the
    WSL2 (e.g., in VSCode) with `conda activate qlsc612`.
-2. When running a Jupyter notebook in VSCode (remote access to your WSL2
-   Ubuntu), you will also need to specify the Python environment (kernel). There
-   will be a `Select Kernel` button in the top right corner of the Jupyter
-   notebook, click it and select the one reading something like _qlsc612 (Python
-   3.9.x) miniconda3/envs/qlsc612/bin/python_. The button should be updated to
-   read _qlsc612 (Python 3.9.x)_. This is the python environment we have just
-   created for this course, make sure it is the one you are using for later
-   modules.
+2. When running a Jupyter notebook in VSCode (remote access to your WSL2 Ubuntu)
+   you will also need to specify the Python environment (kernel).
+   There will be a `Select Kernel` button in the top right corner of the Jupyter notebook,
+   click it and select the one reading something like _qlsc612
+   (Python 3.x.y) miniconda3/envs/qlsc612/bin/python_.
+   The button should be updated to read _qlsc612 (Python 3.x.y)_.
+   This is the python environment we have just created for this course,
+   make sure it is the one you are using for later modules.
 
 ### Docker Desktop for Windows
 
-You are supposed to install Docker Desktop after you have successfully installed
-WSL2.
+You are supposed to install Docker Desktop after you have successfully installed WSL2.
 
 1. Go to [this page](https://docs.docker.com/desktop/install/windows-install/)
    and click "Docker Desktop for Windows", then run the downloaded installer.

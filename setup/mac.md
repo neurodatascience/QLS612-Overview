@@ -55,7 +55,7 @@ these steps:
    first entry that appears. (The author listed for all of these extensions
    should be "Microsoft".)
    - Python (n.b., you will need to reload VSCode after installing this)
-   - Live Share (n.b., you may need to press "Ctrl/Cmd+Shift+P" and type
+   - Live Share (n.b., you may need to press `Ctrl/Cmd+Shift+P` and type
      "install extensions" again after installing this)
    - Docker
 
@@ -93,14 +93,7 @@ these steps:
 
 #### Python packages
 
-Open a terminal and type the following commands:
-
-```bash
-conda config --append channels conda-forge
-conda config --set channel_priority strict
-conda create -n qlsc612 -y python=3.9 flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn bokeh
-conda activate qlsc612
-```
+{% include setup_python_package.html %}
 
 ### Docker
 

@@ -44,16 +44,16 @@ operating systems (Windows, Mac OS, and Linux).
 
 ### Some quick general notes on instructions
 
-- There is no difference between `Enter` and `Return` in these instructions, so
-  just press whatever the equivalent on your keyboard is whenever one is stated
-- If you already have some of these things installed on your computer already
-  that should (theoretically) be okay.
-  - However, for example, having multiple different Python installations on your
-    computer can lead to incredibly frustrating issues that are very difficult
-    to debug. As such, if you have already installed Python via some other
-    application (not Miniconda/Anaconda), we strongly encourage you to uninstall
-    it before following the instructions below. You _must_ have Python installed
-    via Miniconda for this course.
+- There is no difference between `Enter` and `Return` in these instructions,
+  so just press whatever the equivalent on your keyboard is whenever one is stated.
+
+- If you already have some of these things installed on your computer already that should (theoretically) be okay.
+
+- However, for example, having multiple different Python installations
+  on your computer can lead to incredibly frustrating issues that are very difficult to debug.
+  As such, if you have already installed Python via some other application (not Miniconda/Anaconda),
+  we strongly encourage you to uninstall it before following the instructions below.
+  You _must_ have Python installed via Miniconda for this course.
 
 ### OS-specific installation instructions
 
@@ -62,8 +62,8 @@ instructions therein. Please direct any questions to the `#help-installation`
 channel in the QLS612 Slack.
 
 - [Linux]({{ site.url }}/setup/linux.html)
-- [Mac]({{ site.url }}/setup//mac.html)
-- [Windows]({{ site.url }}/setup//windows.html)
+- [Mac]({{ site.url }}/setup/mac.html)
+- [Windows]({{ site.url }}/setup/windows.html)
 
 ### GitHub account
 

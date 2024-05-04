@@ -80,14 +80,7 @@ install it follow the instructions on-screen to do so.
 
 #### Python packages
 
-Open a terminal and type the following commands:
-
-```bash
-conda config --append channels conda-forge
-conda config --set channel_priority strict
-conda create -n qlsc612 -y python=3.9 flake8 ipython jupyter jupyterlab matplotlib nibabel nilearn numpy pandas scipy seaborn bokeh statsmodels
-conda activate qlsc612
-```
+{% include setup_python_package.html %}
 
 ### Docker
 

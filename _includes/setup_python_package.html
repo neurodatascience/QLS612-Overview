@@ -1,0 +1,18 @@
+<p> Open a terminal and type the following commands (press <code>Enter</code> after each): </p>
+
+<p>
+<pre>
+conda config --append channels conda-forge
+conda config --set channel_priority strict
+conda create -n qlsc612 -y python=3.12 flake8 jupyterlab nilearn matplotlib seaborn bokeh
+conda activate qlsc612
+</pre>
+</p>
+
+<p>
+This installation step (<code>conda create</code>) will take a couple minutes.
+The above commands create a new conda Python environment named <b>qlsc612</b>
+with all the necessary packages installed for this course.
+The last line, <code>conda activate qlsc612</code>,
+will activate this Python environment (the default environment is <code>base</code>).
+</p>
