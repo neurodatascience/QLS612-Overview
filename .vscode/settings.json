@@ -1,4 +1,7 @@
 {
   "editor.formatOnSave": false,
-  "circleci.persistedProjectSelection": []
+  "circleci.persistedProjectSelection": [
+    "gh/Remi-Gau/QLS612-Overview",
+    "gh/neurodatascience/QLS612-Overview"
+  ]
 }
