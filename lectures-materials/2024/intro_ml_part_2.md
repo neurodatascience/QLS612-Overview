@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Introduction to Machine Learning: part 2"
-description: 🤖🤖 Model selection & validation 📖📖
+description: 🤖🤖 Model validation & Unsupervised learning 📖📖
 ---
 
 **Instructor:** [Nikhil Bhagwat](https://nikhil153.github.io/) & [Mohammad Torabi](https://github.com/mtorabi59)
