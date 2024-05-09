@@ -51,13 +51,9 @@ these steps:
    appears (there should be four entries; simply select the one that reads
    "Extensions: Install extensions").
 1. A new panel should appear on the left-hand side of the screen with a search
-   bar. Search for each of the following extensions and press `Install` for the
-   first entry that appears. (The author listed for all of these extensions
-   should be "Microsoft".)
-   - Python (n.b., you will need to reload VSCode after installing this)
-   - Live Share (n.b., you may need to press `Ctrl/Cmd+Shift+P` and type
-     "install extensions" again after installing this)
-   - Docker
+   bar. Search for each of the following extensions and press `Install` for the first entry that appears.
+
+{% include vs-code-extensions.html %}
 
 ### Python
 
@@ -84,7 +80,7 @@ these steps:
    - If you do not see a path like this then please try typing `conda init`,
      closing your terminal, and repeating this step. If your issue is still not
      resolved skip the following step and contact an instructor on the
-     #help-installation channel of the BHS Slack.
+     `#help-installation` channel of the Slack workspace.
 1. Type the following to remove the installation script that was downloaded:
 
    ```bash
@@ -93,7 +89,7 @@ these steps:
 
 #### Python packages
 
-{% include setup_python_package.html %}
+{% include setup-python-package.html %}
 
 ### Docker
 

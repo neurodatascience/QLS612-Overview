@@ -16,10 +16,6 @@ At the end of the lecture, participants will be able to:
 -   Understand why NumPy enables efficient computation and what are NumPy arrays.
 -   Manipulate arrays of numbers with NumPy
 
-## Questions you will be able to answer after taking this module
-
-<!-- TODO -->
-
 ## Material
 
 -   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/05_numpy_scipy)
@@ -28,6 +24,15 @@ At the end of the lecture, participants will be able to:
 ## Resources
 
 -   [NumPy User Guide](https://numpy.org/doc/stable/user/basics.html)
+
+-   [NumPy for MATLAB users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
+
+-   [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy)
+    by Jay Alammar, **up to "Transposing and Reshaping**.
+
+-   [Scipy introduction](https://docs.scipy.org/doc/scipy/tutorial/general.html)
+
+-   [Scipy IO tutorial](https://docs.scipy.org/doc/scipy/tutorial/io.html)
 
 ## Pre-recorded lecture video
 

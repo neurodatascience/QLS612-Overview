@@ -31,6 +31,7 @@ description:
 1.  [👀 Introduction to data visualization in Python 🐍]({{ site.url }}/lectures-materials/2024/data_visualization_in_python.html)
 1.  [🐋 Containers 🐋]({{ site.url }}/lectures-materials/2024/containers.html)
 1.  [Large language models]({{ site.url }}/lectures-materials/2024/llm.html)
+1.  [Extras]({{ site.url }}/lectures-materials/2024/extras.html)
 
 <!-- 🔶 To be announced 🔶 -->
 

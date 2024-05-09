@@ -73,6 +73,10 @@ to fearlessly tackle the next CSV file you encounter in the wild.
 
 </div>
 
+## Extras
+
+-  [plotting with Pandas](https://pandas.pydata.org/docs/user_guide/visualization.html)
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

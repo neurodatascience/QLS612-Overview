@@ -60,6 +60,10 @@ You will learn how to:
   <a href="https://www.explainxkcd.com/wiki/index.php/149">explanation</a>
 </div>
 
+-   [bash cheatsheet](https://devhints.io/bash)
+-   [explainshell](https://explainshell.com/): write down a command-line to see the help text that matches each argument
+-   [list of resources for learning bash](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/11-programming/#shell-programming)
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>
