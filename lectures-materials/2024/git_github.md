@@ -77,6 +77,10 @@ In this lecture, students will learn:
   <a href="https://www.explainxkcd.com/wiki/index.php/1597">explanation</a>
 </div>
 
+-   [Oh shit git!](https://ohshitgit.com/)
+-   [Interactive tutorial to learn Git](https://learngitbranching.js.org/)
+-   [List of resources to learn Git](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/12-version-control/)
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

@@ -30,7 +30,7 @@ At the end of the lecture, participants will be able to:
 -   [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy)
     by Jay Alammar, **up to "Transposing and Reshaping**.
 
--   [Scipy introduction](https://docs.scipy.org/doc/scipy/tutorial/general.html)
+-   [Scipy introduction](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 
 -   [Scipy IO tutorial](https://docs.scipy.org/doc/scipy/tutorial/io.html)
 

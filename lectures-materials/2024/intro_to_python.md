@@ -130,7 +130,7 @@ Topics include:
 
 -   [Python bytes](https://pythonbytes.fm/) for quick regular updates in what's new in the world of Python
 -   [Talk Python to me](https://talkpython.fm/)
--   Real Python with many [courses]((https://realpython.com/) ) and a [podcast](https://realpython.com/podcasts/rpp/)
+-   Real Python with many [courses](https://realpython.com/) and a [podcast](https://realpython.com/podcasts/rpp/)
 
 ---
 
