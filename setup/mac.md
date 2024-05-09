@@ -94,19 +94,23 @@ these steps:
 ### Docker
 
 1. Go to
-   [this page](https://hub.docker.com/editions/community/docker-ce-desktop-mac/)
-   and press “Get Docker”.
-1. Open the “Docker.dmg” file that is downloaded and drag and drop the icon to
-   the Applications folder
-1. Open the Docker application and enter your password. An icon will appear in
-   the status bar in the top-left of the screen. Wait until it reads “Docker
-   Desktop is now up and running!”
-1. Open a new terminal and type `docker run hello-world`. A brief introductory
-   message should be printed to the screen.
+   [this page](https://docs.docker.com/desktop/install/mac-install/)
+   and press the button `Docker Deskptop for...` corresponding to the chip of your machine (see the image below).
 
-(The above step-by-step Docker instructions are distilled from
-[here](https://docs.docker.com/docker-for-mac/install/). If you have questions
-during the installation procedure please check that link for potential answers!)
+   [![](../assets/images/docker_mac.png)](https://docs.docker.com/desktop/install/mac-install/)
+
+1. Open the `Docker.dmg` file that is downloaded and drag and drop the icon to the Applications folder.
+
+1. Open the Docker application and enter your password.
+   An icon will appear in the status bar in the top-left of the screen.
+   Wait until it reads `Docker Desktop is now up and running!`
+
+1. Open a new terminal and type `docker run hello-world`.
+   A brief introductory message should be printed to the screen.
+
+The above step-by-step Docker instructions are distilled from
+[here](https://docs.docker.com/docker-for-mac/install/).
+If you have questions during the installation procedure please check that link for potential answers!
 
 ---
 
