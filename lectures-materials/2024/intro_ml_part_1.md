@@ -80,6 +80,8 @@ you should make sure that you are already familiar with the following concepts
   <a href="https://www.explainxkcd.com/wiki/index.php/1838">explanation</a>
 </div>
 
+-   [Scikit-learn MOOC](https://inria.github.io/scikit-learn-mooc/ )
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

@@ -68,6 +68,8 @@ description: 👀🐍
     <a href="https://www.explainxkcd.com/wiki/index.php/688">explanation</a>
 </div>
 
+
+-   [Listing of data visualizations](https://datavizcatalogue.com/)
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>
