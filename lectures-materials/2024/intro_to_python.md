@@ -103,6 +103,35 @@ Topics include:
   <a href="https://www.explainxkcd.com/wiki/index.php/1987">explanation</a>
 </div>
 
+-   [List of resources to learn Python](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/11-programming/#python)
+
+-   [Glossary of common python terms](https://www.pythonmorsels.com/terms/)
+
+-   [The good research handbook](https://goodresearch.dev/index.html) is for grad students,
+    postdocs and PIs who do a lot of programming as part of their research.
+    It will teach you, in a practical manner, how to organize your code so that it is easy to understand and works reliably.
+
+-   [Sourcery.ai for live code reviews to improve your Python code](https://sourcery.ai/)
+
+-   [A very brief intro to Python for MATLAB users](https://volttron.readthedocs.io/en/main/developing-volttron/python-for-matlab-users.html)
+
+-   [An unbiased evaluation of Python environment management and packaging tools](https://alpopkes.com/posts/python/packaging_tools/)
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
+  <div style="width: 80%">
+    <a href="https://alpopkes.com/posts/python/packaging_tools/">
+      <img src="https://alpopkes.com/posts/python/figures/venn_diagram.png"
+           alt="python_environment">
+    </a>
+  </div>
+</div>
+
+### Podcasts
+
+-   [Python bytes](https://pythonbytes.fm/) for quick regular updates in what's new in the world of Python
+-   [Talk Python to me](https://talkpython.fm/)
+-   Real Python with many [courses]((https://realpython.com/) ) and a [podcast](https://realpython.com/podcasts/rpp/)
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

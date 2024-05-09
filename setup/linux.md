@@ -32,19 +32,14 @@ install it follow the instructions on-screen to do so.
 #### VSCode extensions
 
 1. Open the Visual Studio Code application.
-1. Press `Ctrl+Shift+P` in the new window that opens and type "Extensions:
-   Install extensions" into the search bar that appears at the top of the
-   screen. Select the appropriate entry from the dropdown menu that appears
-   (there should be four entries; simply select the one that reads "Extensions:
-   Install extensions").
-1. A new panel should appear on the left-hand side of the screen with a search
-   bar. Search for each of the following extensions and press `Install` for the
-   first entry that appears. (The author listed for all of these extensions
-   should be "Microsoft".)
-   - Python (n.b., you will need to reload VSCode after installing this)
-   - Live Share (n.b., you may need to press "Ctrl/Cmd+Shift+P" and type
-     "install extensions" again after installing this)
-   - Docker
+1. Press `Ctrl+Shift+P` in the new window that opens and type `"Extensions: Install extensions"`
+   into the search bar that appears at the top of the screen.
+   Select the appropriate entry from the dropdown menu that appears
+   (there should be four entries; simply select the one that reads `Extensions: Install extensions`).
+1. A new panel should appear on the left-hand side of the screen with a search bar.
+   Search for each of the following extensions and press `Install` for the first entry that appears.
+
+{% include vs-code-extensions.html %}
 
 ### Python
 
@@ -71,7 +66,7 @@ install it follow the instructions on-screen to do so.
    - If you do not see a path like this then please try typing `conda init`,
      closing your terminal, and repeating this step. If your issue is still not
      resolved skip the following step and contact an instructor on the
-     #help-installation channel of the BHS Slack.
+     `#help-installation` channel of the Slack workspace.
 1. Type the following to remove the installation script that was downloaded:
 
    ```bash
@@ -80,7 +75,7 @@ install it follow the instructions on-screen to do so.
 
 #### Python packages
 
-{% include setup_python_package.html %}
+{% include setup-python-package.html %}
 
 ### Docker
 
