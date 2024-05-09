@@ -32,8 +32,8 @@ description:
 |                        | 15:15-17:00 | Exercises, project <br>                                                                                                                                                |
 |                        |             |                                                                                                                                                                        |
 | **Friday May 17th**    | 09:00-10:30 | **Module 10** <br> [👀 Introduction to data visualization in Python 🐍]({{ site.url }}/lectures-materials/2024/data_visualization_in_python.html) <br> Kendra          |
-|                        | 10:45-11:00 | Exercises, project <br>                                                                                                                                                |
-|                        | 11:00-12:30 | **Module 11** <br> [🐋 Containers 🐋]({{ site.url }}/lectures-materials/2024/containers.html) <br> Seb                                                                 |
+|                        | 10:45-12:15 | **Module 11** <br> [🐋 Containers 🐋]({{ site.url }}/lectures-materials/2024/containers.html) <br> Seb                                                                 |
+|                        | 12:15-12:30 | Exercises, project <br>                                                                                                                                                |
 |                        | 13:30-15:00 | **Module 12** <br> ❓ Ask Me Anything or [Large language models]({{ site.url }}/lectures-materials/2024/llm.html) ❓ <br> Brent                                        |
 |                        | 15:15-15:30 | Exercises, project <br>                                                                                                                                                |
 |                        | 15:45-17:00 | Quiz 2 <br>                                                                                                                                                            |
