@@ -4,7 +4,7 @@ title: 🐍 Python toolbox for data analysis 🐍
 description: "Scientific Python: NumPy and Scipy"
 ---
 
-**Instructor:** Tristan
+**Instructor:** [Ines](https://ca.linkedin.com/in/in%C3%A9s-gp)
 
 ## Outline
 
@@ -33,6 +33,11 @@ At the end of the lecture, participants will be able to:
 -   [Scipy introduction](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 
 -   [Scipy IO tutorial](https://docs.scipy.org/doc/scipy/tutorial/io.html)
+
+### More resources on Python code optimization
+
+-   [Python map() function with EXAMPLES](https://www.guru99.com/python-map-function.html)
+-   [Computation on NumPy Arrays: Universal Functions](https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html)
 
 ## Pre-recorded lecture video
 

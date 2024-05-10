@@ -19,7 +19,7 @@ description:
 |                        | 15:15-16:45 | Exercises <br>                                                                                                                                                         |
 |                        | 17:00-18:00 | Quiz 1 + feedback <br>                                                                                                                                                 |
 |                        |             |                                                                                                                                                                        |
-| **Wednesday May 15th** | 09:00-10:15 | **Module 5** <br> [🐍 Python toolbox for data analysis 🐍]({{ site.url }}/lectures-materials/2024/python_toolbox_for_data_analysis.html) <br> Tristan                  |
+| **Wednesday May 15th** | 09:00-10:15 | **Module 5** <br> [🐍 Python toolbox for data analysis 🐍]({{ site.url }}/lectures-materials/2024/python_toolbox_for_data_analysis.html) <br> Ines                     |
 |                        | 10:15-10:45 | Exercises <br>                                                                                                                                                         |
 |                        | 11:00-12:30 | **Module 6** <br> [🐼 Data wrangling with Pandas 🐼]({{ site.url }}/lectures-materials/2024/data_wrangling_with_pandas.html) <br> Jacob                                |
 |                        | 13:30-14:00 | Exercises, project <br>                                                                                                                                                |
