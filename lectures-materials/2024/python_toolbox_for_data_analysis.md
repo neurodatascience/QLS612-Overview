@@ -23,6 +23,10 @@ At the end of the lecture, participants will be able to:
 
 ## Resources
 
+-   [Numpy cheatsheet](https://assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+
+-   [Scipy cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf)
+
 -   [NumPy User Guide](https://numpy.org/doc/stable/user/basics.html)
 
 -   [NumPy for MATLAB users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
@@ -39,7 +43,7 @@ At the end of the lecture, participants will be able to:
 -   [Python map() function with EXAMPLES](https://www.guru99.com/python-map-function.html)
 -   [Computation on NumPy Arrays: Universal Functions](https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html)
 
-## Pre-recorded lecture video
+<!-- ## Pre-recorded lecture video -->
 
 <!--
 <div style="display: flex; justify-content: center; margin: 10px">

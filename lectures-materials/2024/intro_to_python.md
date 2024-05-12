@@ -78,6 +78,8 @@ Topics include:
 
 -   [Think Python 2e textbook](https://greenteapress.com/wp/think-python-2e/)
 
+-   [conda cheatsheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
+
 ## Pre-recorded lecture video
 
 <div style="display: flex; justify-content: center; margin: 10px">

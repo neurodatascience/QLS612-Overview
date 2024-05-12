@@ -39,6 +39,16 @@ description:
 |                        | 15:45-17:00 | Quiz 2 <br>                                                                                                                                                            |
 |                        | 17:00-19:00 | 🥳 🍸 Celebrations 🍸 🥳 <br>                                                                                                                                          |
 
+
+<iframe
+    src="https://calendar.google.com/calendar/embed?src=c63bd6a6c4ec599d41e55b01c451a88c55b308974f401908205dec1408768aae%40group.calendar.google.com&ctz=America%2FToronto"
+    style="border: 0"
+    width="800"
+    height="600"
+    frameborder="0"
+    scrolling="no">
+</iframe>
+
 ---
 
 <a href="{{ site.url }}"><button>BACK</button></a>
