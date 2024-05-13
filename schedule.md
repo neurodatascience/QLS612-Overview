@@ -17,7 +17,7 @@ description:
 |                        | 10:45-12:30 | Exercises <br>                                                                                                                                                         |
 |                        | 13:30-15:00 | **Module 4** <br> [🐍 Python and virtual environments 🐍]({{ site.url }}/lectures-materials/2024/intro_to_python.html) <br> Michelle                                   |
 |                        | 15:15-16:45 | Exercises <br>                                                                                                                                                         |
-|                        | 17:00-18:00 | Quiz 1 + feedback <br>                                                                                                                                                 |
+|                        | 16:45-17:45 | Quiz 1 + feedback <br>                                                                                                                                                 |
 |                        |             |                                                                                                                                                                        |
 | **Wednesday May 15th** | 09:00-10:15 | **Module 5** <br> [🐍 Python toolbox for data analysis 🐍]({{ site.url }}/lectures-materials/2024/python_toolbox_for_data_analysis.html) <br> Ines                     |
 |                        | 10:15-10:45 | Exercises <br>                                                                                                                                                         |
