@@ -27,41 +27,17 @@ description: 👀🐍
 
 ## Resources
 
--   [Matplotlib cheatsheet]https://matplotlib.org/cheatsheets/)
+-   [Matplotlib cheatsheet](https://matplotlib.org/cheatsheets/)
 
 ## Pre-recorded lecture video
 
 ### Part 1
 
-<div style="display: flex; justify-content: center; margin: 10px">
-
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/dqf5gmY7vE0?si=abtvx9YQdx1LA4Sd"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-
-</div>
+{% include youtube.html youtube_id ="dqf5gmY7vE0?si=abtvx9YQdx1LA4Sd" %}
 
 ### Part 2
 
-<div style="display: flex; justify-content: center; margin: 10px">
-
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/DrOICNoOfEA?si=1csrjBNnE6Xl_hz7"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-
-</div>
+{% include youtube.html youtube_id ="DrOICNoOfEA?si=1csrjBNnE6Xl_hz7"%}
 
 ## Extras
 

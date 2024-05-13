@@ -54,19 +54,7 @@ In this lecture, students will learn:
 
 ## Pre-recorded lecture video
 
-<div style="display: flex; justify-content: center; margin: 10px">
-
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/b0ETTTKfu2Y?si=Sjt7ROW_jxAP5BGO"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-
-</div>
+{% include youtube.html youtube_id ="b0ETTTKfu2Y?si=Sjt7ROW_jxAP5BGO" %}
 
 ## Extras
 

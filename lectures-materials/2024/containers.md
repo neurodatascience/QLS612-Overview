@@ -50,21 +50,7 @@ description: 🐋
 
 ## Pre-recorded lecture video
 
-[YouTube Link](https://www.youtube.com/watch?v=KolUIDOynls)
-
-<div style="display: flex; justify-content: center; margin: 10px">
-
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/KolUIDOynls?si=Yf5eFi3OQo243fw-"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-
-</div>
+{% include youtube.html youtube_id ="KolUIDOynls?si=Yf5eFi3OQo243fw-"%}
 
 ## Extras
 
