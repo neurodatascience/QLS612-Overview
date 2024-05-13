@@ -47,6 +47,30 @@ You will learn how to:
 -   [explainshell](https://explainshell.com/): write down a command-line to see the help text that matches each argument
 -   [list of resources for learning bash](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/11-programming/#shell-programming)
 
+### "Easy" way to make your terminal "prettier"
+
+If you feel you do not want to spend time working in the terminal because "it looks ugly",
+(the Mac's terminal being one the worst offenders), here are a few tips.
+
+-   check how to change the look and feel of it by editing the preferences
+
+    See for example for Macs terminal's below.
+
+    {% include youtube.html youtube_id ="xyCtdGqdQ5U?si=H1L8ZdUZVZFCEabc" %}
+
+More "advanced" solutions usually include installing tools
+that will help you personalize your terminal experience.
+
+-   [starship](https://starship.rs/) will work with most shells and operating systems
+    and offers plenty of options in terms of looks and prompt configuration.
+
+-   [oh-my-zsh](https://ohmyz.sh/) specializes with the zsh (the default shell on most Mac),
+    and offers many [themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) for your prompt
+    but also many [plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins-Overview) with many aliases to help you be more productive.
+
+-   [oh-my-posh](https://ohmyposh.dev/) will work with most shells and operating systems
+    and offers a [wide range of themes for your prompt](https://ohmyposh.dev/docs/themes).
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>
