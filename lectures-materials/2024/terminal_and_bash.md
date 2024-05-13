@@ -56,7 +56,7 @@ If you feel you do not want to spend time working in the terminal because "it lo
 
     See for example for Macs terminal's below.
 
-    {% include youtube.html youtube_id ="xyCtdGqdQ5U?si=H1L8ZdUZVZFCEabc" %}
+{% include youtube.html youtube_id ="xyCtdGqdQ5U?si=H1L8ZdUZVZFCEabc" %}
 
 More "advanced" solutions usually include installing tools
 that will help you personalize your terminal experience.
