@@ -1,8 +1,7 @@
 {
   "ignorePatterns": [
-    {
-      "pattern": "^mailto.*"
-    }
+    {"pattern": "^mailto.*"},
+    {"pattern": "^ https://ca.linkedin.com/in/in%C3%A9s-gp$"}
   ],
   "timeout": "20s",
   "retryOn429": true
