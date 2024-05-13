@@ -51,6 +51,8 @@ Specifically, you will:
     -   [confidence intervals](https://rpsychologist.com/d3/ci/)
     -   [dsitributions of p-values](https://rpsychologist.com/d3/pdist/)
 
+{% include youtube.html youtube_id ="66oNv_DJuPc?si=iMQS87ZNJyte8jqI" %}
+
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>
