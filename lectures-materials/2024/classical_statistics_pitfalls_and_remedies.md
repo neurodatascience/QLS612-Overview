@@ -50,12 +50,7 @@ lecture, you will
 
 ## Extras
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
-  <a href="https://xkcd.com/552/">
-    <img src="https://imgs.xkcd.com/comics/correlation.png" alt="xkcd-correlation">
-  </a>
-  <a href="https://www.explainxkcd.com/wiki/index.php/552">explanation</a>
-</div>
+{% include xkcd.html xkcd_nb="552" img="correlation"%}
 
 ---
 

@@ -50,12 +50,7 @@ Specifically, you will:
 
 ## Extras
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
-  <a href="https://xkcd.com/882/">
-    <img src="https://imgs.xkcd.com/comics/significant.png" alt="xkcd-significant">
-  </a>
-  <a href="https://www.explainxkcd.com/wiki/index.php/882">explanation</a>
-</div>
+{% include xkcd.html xkcd_nb="882" img="significant" %}
 
 -   [ReproNim Statistics Module](https://www.repronim.org/module-stats/)
 -   Shiny apps

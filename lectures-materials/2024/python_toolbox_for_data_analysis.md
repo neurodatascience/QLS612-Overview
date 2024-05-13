@@ -43,24 +43,6 @@ At the end of the lecture, participants will be able to:
 -   [Python map() function with EXAMPLES](https://www.guru99.com/python-map-function.html)
 -   [Computation on NumPy Arrays: Universal Functions](https://jakevdp.github.io/PythonDataScienceHandbook/02.03-computation-on-arrays-ufuncs.html)
 
-<!-- ## Pre-recorded lecture video -->
-
-<!--
-<div style="display: flex; justify-content: center; margin: 10px">
-
-  <iframe
-    width="560"
-    height="315"
-    src="TODO"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-
-</div>
--->
-
 ---
 
 <a href="{{ site.url }}/lectures-materials/latest.html"><button>BACK</button></a>

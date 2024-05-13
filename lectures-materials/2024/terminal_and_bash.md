@@ -53,12 +53,7 @@ You will learn how to:
 
 ## Extras
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
-  <a href="https://xkcd.com/149/">
-    <img src="https://imgs.xkcd.com/comics/sandwich.png" alt="xkcd-sandwich">
-  </a>
-  <a href="https://www.explainxkcd.com/wiki/index.php/149">explanation</a>
-</div>
+{% include xkcd.html xkcd_nb="149" img="sandwich" %}
 
 -   [bash cheatsheet](https://devhints.io/bash)
 -   [explainshell](https://explainshell.com/): write down a command-line to see the help text that matches each argument

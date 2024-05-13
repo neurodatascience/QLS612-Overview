@@ -37,12 +37,7 @@ description: Large language models
 
 ## Extras
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
-  <a href="https://xkcd.com/2169/">
-    <img src="https://imgs.xkcd.com/comics/predictive_models.png" alt="xkcd-predictive_models">
-  </a>
-  <a href="https://www.explainxkcd.com/wiki/index.php/2169">explanation</a>
-</div>
+{% include xkcd.html xkcd_nb="2169" img="predictive_models" %}
 
 ---
 

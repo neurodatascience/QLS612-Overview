@@ -68,12 +68,7 @@ description: 🐋
 
 ## Extras
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
-  <a href="https://xkcd.com/1988/">
-    <img src="https://imgs.xkcd.com/comics/containers.png" alt="xkcd-containers">
-  </a>
-  <a href="https://www.explainxkcd.com/wiki/index.php/1988">explanation</a>
-</div>
+{% include xkcd.html xkcd_nb="1988" img="containers" %}
 
 ---
 

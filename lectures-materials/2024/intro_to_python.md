@@ -98,12 +98,7 @@ Topics include:
 
 ## Extras
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
-  <a href="https://xkcd.com/1987/">
-    <img src="https://imgs.xkcd.com/comics/python_environment.png" alt="xkcd-python_environment">
-  </a>
-  <a href="https://www.explainxkcd.com/wiki/index.php/1987">explanation</a>
-</div>
+{% include xkcd.html xkcd_nb="1987" img="python_environment" %}
 
 -   [List of resources to learn Python](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/11-programming/#python)
 

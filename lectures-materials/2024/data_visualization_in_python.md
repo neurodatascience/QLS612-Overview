@@ -65,12 +65,7 @@ description: 👀🐍
 
 ## Extras
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
-  <a href="https://xkcd.com/688/">
-    <img src="https://imgs.xkcd.com/comics/self_description.png" alt="xkcd-self_description">
-  </a>
-    <a href="https://www.explainxkcd.com/wiki/index.php/688">explanation</a>
-</div>
+{% include xkcd.html xkcd_nb="688" img="self_description" %}
 
 -   [Listing of data visualizations](https://datavizcatalogue.com/)
 

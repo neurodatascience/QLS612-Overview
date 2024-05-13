@@ -70,12 +70,7 @@ In this lecture, students will learn:
 
 ## Extras
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 10px">
-  <a href="https://xkcd.com/1597/">
-    <img src="https://imgs.xkcd.com/comics/git.png" alt="xkcd-git">
-  </a>
-  <a href="https://www.explainxkcd.com/wiki/index.php/1597">explanation</a>
-</div>
+{% include xkcd.html xkcd_nb="1597" img="git" %}
 
 -   [Oh shit git!](https://ohshitgit.com/)
 -   [Interactive tutorial to learn Git](https://learngitbranching.js.org/)
