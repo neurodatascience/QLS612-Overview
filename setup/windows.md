@@ -78,6 +78,8 @@ You already have it, now that you’ve installed the WSL2!
 
 You already have it, now that you’ve installed the WSL2!
 
+{% include extra-git-setup.html %}
+
 ### VSCode (on your Windows)
 
 1. Go to [this page](https://code.visualstudio.com/) and click the download

@@ -17,8 +17,8 @@ Further, knowing these tools can help prepare students for careers in academia a
 In this lecture, students will learn:
 
 -   What is version control and why has it become so important in science and industry;
--   How to track and share their own work using Git and GitHub; and
--   How to collaborate and contribute to open projects using Git and GitHub.
+-   How to track and share their own work using git and GitHub; and
+-   How to collaborate and contribute to open projects using git and GitHub.
 
 ## Questions you will be able to answer after taking this module
 

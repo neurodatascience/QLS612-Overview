@@ -20,9 +20,9 @@ terminal.
 
 ### Git
 
-You may already have it! Try opening a terminal and typing `git --version`. If
-you do not see something like “git version X.XX.X” printed out, then follow
-these steps:
+You may already have it!
+Try opening a terminal and typing `git --version`.
+If you do **not** see something like “git version X.XX.X” printed out, then follow these steps:
 
 1. Follow
    [this link](https://sourceforge.net/projects/git-osx-installer/files/git-2.23.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect)
@@ -32,26 +32,27 @@ these steps:
    inside the dmg that is opened.
 1. Follow the on-screen instructions to install the package.
 
+{% include extra-git-setup.html %}
+
 ### VSCode
 
-1. Go to [this page](https://code.visualstudio.com/) and click the download
-   button.
-1. Unzip the downloaded file (e.g., `VSCode-darwin-stable.zip`) and moving the
-   resulting `Visual Studio Code` file to your Applications directory.
+1. Go to [this page](https://code.visualstudio.com/) and click the download button.
+1. Unzip the downloaded file (for example, `VSCode-darwin-stable.zip`)
+   and moving the resulting `Visual Studio Code` file to your Applications directory.
 
 #### VSCode extensions
 
 1. Open the Visual Studio Code application
-1. Type `Cmd+Shift+P` and then enter "Shell command: Install 'code' command in
-   PATH" into the search bar that appears at the top of the screen. Select the
-   highlighted entry. A notification box should appear in the bottom-right
-   corner indicating that the command was installed successfully.
-1. Type `Cmd+Shift+P` again and then enter "Extensions: Install extensions" into
-   the search bar. Select the appropriate entry from the dropdown menu that
-   appears (there should be four entries; simply select the one that reads
-   "Extensions: Install extensions").
-1. A new panel should appear on the left-hand side of the screen with a search
-   bar. Search for each of the following extensions and press `Install` for the first entry that appears.
+1. Type `Cmd+Shift+P` to open the "command palette" at the top of the screen and then enter
+   `Shell command: Install 'code' command in PATH`.
+   Select the highlighted entry.
+   A notification box should appear in the bottom-right corner indicating that the command was installed successfully.
+1. Type `Cmd+Shift+P` again and then enter `Extensions: Install extensions`
+   into the command palette.
+   Select the appropriate entry from the dropdown menu that appears
+   (there should be four entries; simply select the one that reads `Extensions: Install extensions`).
+1. A new panel should appear on the left-hand side of the screen with a search bar.
+   Search for each of the following extensions and press `Install` for the first entry that appears.
 
 {% include vs-code-extensions.html %}
 
@@ -65,22 +66,22 @@ these steps:
    bash Miniconda3-latest-MacOSX-x86_64.sh
    ```
 
-1. A license agreement will be displayed and the bottom of the terminal will
-   read `--More--`. Press `Enter` or the space bar until you are prompted with
-   "Do you accept the license terms? [yes|no]." Type `yes` and then press
-   `Enter`
+1. A license agreement will be displayed and the bottom of the terminal will read `--More--`.
+   Press `Enter` or the space bar until you are prompted with
+   "Do you accept the license terms? [yes|no]."
+   Type `yes` and then press `Enter`
 1. The installation script will inform you that it is going to install into a
-   default directory (e.g., `/home/$USER/miniconda3`). Leave this default and
-   press `Enter`.
-1. When you are asked "Do you wish the installer to initialize Miniconda3 by
-   running conda init? [yes|no]," type `yes` and press `Enter`. Exit the
-   terminal once the installation has finished.
-1. Re-open a terminal. Type `which python` into the terminal and it should
-   return a path (e.g., `/home/$USER/miniconda3/bin/python`).
+   default directory (e.g., `/home/$USER/miniconda3`).
+   Leave this default and press `Enter`.
+1. When you are asked "Do you wish the installer to initialize Miniconda3 by running conda init? [yes|no],"
+   type `yes` and press `Enter`.
+   Exit the terminal once the installation has finished.
+1. Re-open a terminal.
+   Type `which python` into the terminal and it should return a path (e.g., `/home/$USER/miniconda3/bin/python`).
    - If you do not see a path like this then please try typing `conda init`,
-     closing your terminal, and repeating this step. If your issue is still not
-     resolved skip the following step and contact an instructor on the
-     `#help-installation` channel of the Slack workspace.
+     closing your terminal, and repeating this step.
+     If your issue is still not resolved skip the following step
+     and contact an instructor on the `#help-installation` channel of the Slack workspace.
 1. Type the following to remove the installation script that was downloaded:
 
    ```bash
