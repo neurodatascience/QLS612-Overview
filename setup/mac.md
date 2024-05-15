@@ -47,12 +47,9 @@ If you do **not** see something like “git version X.XX.X” printed out, then 
    `Shell command: Install 'code' command in PATH`.
    Select the highlighted entry.
    A notification box should appear in the bottom-right corner indicating that the command was installed successfully.
-1. Type `Cmd+Shift+P` again and then enter `Extensions: Install extensions`
-   into the command palette.
-   Select the appropriate entry from the dropdown menu that appears
-   (there should be four entries; simply select the one that reads `Extensions: Install extensions`).
-1. A new panel should appear on the left-hand side of the screen with a search bar.
-   Search for each of the following extensions and press `Install` for the first entry that appears.
+1. Open the Extension side panel by pressing `Cmd+Shift+X`.
+   In the search bar at the top of this panel
+   search for each of the following extensions and press `Install` for the first entry that appears.
 
 {% include vs-code-extensions.html %}
 

@@ -35,12 +35,9 @@ If you are prompted to install it follow the instructions on-screen to do so.
 #### VSCode extensions
 
 1. Open the Visual Studio Code application.
-1. Press `Ctrl+Shift+P` to open the "command palette" and type `Extensions: Install extensions`
-   into the search bar that appears at the top of the screen.
-   Select the appropriate entry from the dropdown menu that appears
-   (there should be four entries; simply select the one that reads `Extensions: Install extensions`).
-1. A new panel should appear on the left-hand side of the screen with a search bar.
-   Search for each of the following extensions and press `Install` for the first entry that appears.
+1. Open the Extension side panel by pressing `Ctrl+Shift+X`.
+   In the search bar at the top of this panel
+   search for each of the following extensions and press `Install` for the first entry that appears.
 
 {% include vs-code-extensions.html %}
 
