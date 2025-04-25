@@ -27,9 +27,6 @@ to use computational tools, statistical and machine learning techniques,
 and collaborative, open science methodologies to generate results
 that are statistically robust and computationally reproducible.
 
-The course also serves as the first week of the [Montreal BrainHack School](https://school.brainhackmtl.org/)
-organized across Université de Montréal, McGill, Concordia and Polytechnique.
-
 The course builds on the [ReproNim](https://www.repronim.org/) materials for reproducible neuroimaging research.
 
 ## Objective, scope, and intended audience
@@ -55,14 +52,13 @@ skills (such as minimal experience in a scripting language).
 
 ## Course modules
 
--   [Link to lectures materials]({{ site.url }}/lectures-materials/latest.html)
--   [2023 lectures materials]({{ site.url }}/lectures-materials/2023.html)
+[Link to lectures materials]({{ site.url }}/lectures-materials/latest.html)
 
 ### pre-recorded videos
 
 Video content of this course is available on Youtube
 [from previous editions](https://www.youtube.com/@qls612-bhs9/videos)
-of the course.
+of the course. The content might vary slightly from this year's content. 
 
 ## Approach to teaching
 

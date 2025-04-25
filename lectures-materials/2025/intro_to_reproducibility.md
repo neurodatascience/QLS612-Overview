@@ -24,17 +24,13 @@ Specifically, you will:
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/01_intro_to_reproducibility)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/01_intro_to_reproducibility/lecture)
+-   [code]()
+-   [slides]()
 
 ## Resources
 
 -   Canonical paper:
     [Ten common statistical mistakes to watch out for when writing or reviewing a manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785265)
-
-## Pre-recorded lecture video
-
-{% include youtube.html youtube_id ="US80s7W4s6o?si=VMGZ6XKtPZYZRcqR" %}
 
 ## Extras
 

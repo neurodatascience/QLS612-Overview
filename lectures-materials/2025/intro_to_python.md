@@ -71,18 +71,14 @@ Topics include:
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/04_intro_to_python)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/04_intro_to_python/lecture)
+-   [code]()
+-   [slides]()
 
 ## Resources
 
 -   [Think Python 2e textbook](https://greenteapress.com/wp/think-python-2e/)
 
 -   [conda cheatsheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
-
-## Pre-recorded lecture video
-
-{% include youtube.html youtube_id ="ml6VkmtLXpA?si=ZLLN7jP6om9qMVXL" %}
 
 ## Extras
 

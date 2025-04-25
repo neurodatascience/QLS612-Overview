@@ -4,7 +4,7 @@ title: "Introduction to Machine Learning: part 2"
 description: 🤖🤖 Model validation & Unsupervised learning 📖📖
 ---
 
-**Instructor:** [Nikhil Bhagwat](https://nikhil153.github.io/) & [Mohammad Torabi](https://github.com/mtorabi59)
+**Instructor:** [Michelle Wang](https://github.com/michellewang) & [Mohammad Torabi](https://github.com/mtorabi59)
 
 ## Outline
 
@@ -31,18 +31,14 @@ In this module, you will:
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/09_machine_learning_2)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/09_machine_learning_2/lecture)
+-   [code]()
+-   [slides]()
 
 ## Resources
 
 -   [Scikit-learn guide on feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
 -   [Scikit-learn guide on cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html)
 -   [Scikit-learn guide on model evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
-
-## Pre-recorded lecture video
-
-{% include youtube.html youtube_id ="t8D9qwTqEbc?si=NkEGvaJI0qjzCH2s" %}
 
 ---
 

@@ -4,7 +4,7 @@ title: Introduction to Machine Learning part 1
 description: 🤖 Supervised Learning 📖
 ---
 
-**Instructor:** [Nikhil Bhagwat](https://nikhil153.github.io/) & [Mohammad Torabi](https://github.com/mtorabi59)
+**Instructor:** [Michelle Wang](https://github.com/michellewang) & [Mohammad Torabi](https://github.com/mtorabi59)
 
 ## Outline
 
@@ -34,8 +34,8 @@ description: 🤖 Supervised Learning 📖
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/08_machine_learning_1)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/08_machine_learning_1/lecture)
+-   [code]()
+-   [slides]()
 
 ## Resources
 
@@ -54,10 +54,6 @@ you should make sure that you are already familiar with the following concepts
 -   Basics of linear regression
     -   Do you know what a mean-square error is?
     -   How to fit linear regression or GLMs?
-
-## Pre-recorded lecture video
-
-{% include youtube.html youtube_id ="vsp7c-f3cvg?si=Nv8rJ9wJL3XZHMdb" %}
 
 ## Extras
 

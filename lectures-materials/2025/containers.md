@@ -4,7 +4,7 @@ title: 🐋 Containers 🐋
 description: 🐋
 ---
 
-**Instructor:** [Sebastian Urchs](https://www.surchs.com/)
+**Instructor:** [Alyssa Dai]()
 
 ## Outline
 
@@ -43,14 +43,10 @@ description: 🐋
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/11_containers)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/11_containers/lecture)
+-   [code]()
+-   [slides]()
 
 ## Resources
-
-## Pre-recorded lecture video
-
-{% include youtube.html youtube_id ="KolUIDOynls?si=Yf5eFi3OQo243fw-"%}
 
 ## Extras
 

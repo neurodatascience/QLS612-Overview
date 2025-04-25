@@ -25,16 +25,12 @@ lecture, you will
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/07_statistics)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/07_statistics/lecture)
+-   [code]()
+-   [slides]()
 
 ## Resources
 
 -   [Think Stats](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
-
-## Pre-recorded lecture video
-
-{% include youtube.html youtube_id ="lRLtWjkBOzQ?si=hUcuvxEDSqylwOmSO"%}
 
 ## Extras
 

@@ -49,17 +49,13 @@ to fearlessly tackle the next CSV file you encounter in the wild.
 
 ## Material
 
-- [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/06_data_wrangling_with_pandas)
-- [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/06_data_wrangling_with_pandas/lecture)
+- [code]()
+- [slides]()
 
 ## Resources
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 - [Neurohackademy lecture on Pandas](https://neurohackademy.org/course/complex-data-structures/)
-
-## Pre-recorded lecture video
-
-{% include youtube.html youtube_id ="S8bYQ7YmrOQ?si=PhHNsU9qtdThpQIk" %}
 
 ## Extras
 

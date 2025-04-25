@@ -22,22 +22,12 @@ description: 👀🐍
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/10_intro_to_data_visualization)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/10_intro_to_data_visualization/lecture)
+-   [code]()
+-   [slides]()
 
 ## Resources
 
 -   [Matplotlib cheatsheet](https://matplotlib.org/cheatsheets/)
-
-## Pre-recorded lecture video
-
-### Part 1
-
-{% include youtube.html youtube_id ="dqf5gmY7vE0?si=abtvx9YQdx1LA4Sd" %}
-
-### Part 2
-
-{% include youtube.html youtube_id ="DrOICNoOfEA?si=1csrjBNnE6Xl_hz7"%}
 
 ## Extras
 

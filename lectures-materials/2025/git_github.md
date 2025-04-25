@@ -44,17 +44,13 @@ In this lecture, students will learn:
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/03_git_github)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/03_git_github/lecture)
+-   [code]()
+-   [slides]()
 
 ## Resources
 
 -   [Pro Git book by S. Chacon and B. Straub](https://git-scm.com/book/en/v2)
 -   [The Carpentries course "Version Control with Git"](https://swcarpentry.github.io/git-novice/)
-
-## Pre-recorded lecture video
-
-{% include youtube.html youtube_id ="b0ETTTKfu2Y?si=Sjt7ROW_jxAP5BGO" %}
 
 ## Extras
 

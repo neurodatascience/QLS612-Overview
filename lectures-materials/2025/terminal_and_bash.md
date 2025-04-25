@@ -4,7 +4,7 @@ title: Introduction to the Terminal and Bash
 description: Introduction to the Terminal and Bash
 ---
 
-**Instructor:** [Brent McPherson](https://github.com/bcmcpher), [Alyssa Dai](https://github.com/alyssadai)
+**Instructor:** [Brent McPherson](https://github.com/bcmcpher) & [Alyssa Dai](https://github.com/alyssadai)
 
 ## Outline
 
@@ -32,12 +32,8 @@ You will learn how to:
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/02_terminal_and_bash)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/02_terminal_and_bash/lecture)
-
-## Pre-recorded lecture video
-
-{% include youtube.html youtube_id ="Sd10Wo5LQls?si=PE9HfQqy77dd3Ouh" %}
+-   [code]()
+-   [slides]()
 
 ## Extras
 

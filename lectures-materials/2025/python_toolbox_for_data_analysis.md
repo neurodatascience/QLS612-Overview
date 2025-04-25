@@ -18,8 +18,8 @@ At the end of the lecture, participants will be able to:
 
 ## Material
 
--   [code](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/05_numpy_scipy)
--   [slides](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2024/05_numpy_scipy/lecture)
+-   [code]()
+-   [slides]()
 
 ## Resources
 

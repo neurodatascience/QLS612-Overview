@@ -7,6 +7,7 @@ description: For important things we could not cover during the course
 ## Writing clean code
 
 -   [The art of reasable code - BOOK](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293)
+- [The Good Research Code Handbook](https://goodresearch.dev/index.html)
 
 ## Data management
 
