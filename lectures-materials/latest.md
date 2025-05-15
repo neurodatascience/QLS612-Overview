@@ -27,7 +27,7 @@ description:
 1.  [🐼 Data wrangling with pandas 🐼]({{ site.url }}/lectures-materials/2025/data_wrangling_with_pandas.html)
 1.  [👀 Introduction to data visualization in Python 🐍]({{ site.url }}/lectures-materials/2025/data_visualization_in_python.html)
 1.  [🤖 Machine Learning 1: Supervised Learning 📖]({{ site.url }}/lectures-materials/2025/intro_ml_part_1.html)
-1.  [🤖🤖 Machine Learning 2: Model validation & Unsupervised learning 📖📖]({{ site.url }}/lectures-materials/2025/intro_ml_part_2.html)
+1.  [🤖🤖 Machine Learning 2: Unsupervised learning 📖📖]({{ site.url }}/lectures-materials/2025/intro_ml_part_2.html)
 1.  [💥 Classical statistics pitfalls and remedies 💊]({{ site.url }}/lectures-materials/2025/classical_statistics_pitfalls_and_remedies.html)
 1.  [🐋 Containers 🐋]({{ site.url }}/lectures-materials/2025/containers.html)
 1.  [Large language models]({{ site.url }}/lectures-materials/2025/llm.html)
