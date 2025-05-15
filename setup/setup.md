@@ -20,13 +20,16 @@ described below):
    will not be sufficient for this course.
 
 If you foresee any of these being a problem, please reach out to one of the
-instructors (or use the `#help-installation` channel in the QLS612 Slack) for
-what steps you can take to ensure you are ready for the course start.
+instructors (or use the `#help-installation` channel in the QLS612 Slack) **before the start of the course** for
+steps you can take to ensure you are ready for the lectures.
 
 ## Required software
 
-To get the most out of our course, we ask that you arrive with the following
-software **already installed** (or to the best of your ability):
+To get the most out of our course, please arrive with the
+software listed below **already installed** (or to the best of your ability). 
+The rest of this page provides installation procedures for each
+of the above programs, including specific instructions for each of the three major
+operating systems (Windows, Mac OS, and Linux).
 
 - A command-line shell: Bash
 - A version control system: Git
@@ -37,10 +40,6 @@ software **already installed** (or to the best of your ability):
 - Slack
 - Zoom
 - A modern browser
-
-The rest of this page provides more detail on installation procedures for each
-of the above programs, with separate instructions for each of the three major
-operating systems (Windows, Mac OS, and Linux).
 
 ### Some quick general notes on instructions
 
@@ -55,21 +54,11 @@ operating systems (Windows, Mac OS, and Linux).
   we strongly encourage you to uninstall it before following the instructions below.
   You _must_ have Python installed via Miniconda for this course.
 
-### OS-specific installation instructions
-
-Select the link that corresponds to your operating system and follow the
-instructions therein. Please direct any questions to the `#help-installation`
-channel in the QLS612 Slack.
-
-- [Linux]({{ site.url }}/setup/linux.html)
-- [Mac]({{ site.url }}/setup/mac.html)
-- [Windows]({{ site.url }}/setup/windows.html)
-
 ### GitHub account
 
 Go to [https://github.com/join/](https://github.com/join/) and follow the
 on-screen instructions to create an account.
-It is a good idea to associate this
+We recommend associating this
 with your university e-mail (if you have one) as this will entitle you to sign
 up for the [GitHub Student Developer Pack](https://education.github.com/pack)
 which comes with some nice free bonuses.
@@ -87,6 +76,16 @@ Go to [https://zoom.us/download](https://zoom.us/download) and download and inst
 ### Modern web browser
 
 Install Firefox, Chrome, or Safari.
+
+### OS-specific installation instructions
+
+Select the link that corresponds to your operating system and follow the
+instructions provided. Please direct any questions to the `#help-installation`
+channel in the QLS612 Slack.
+
+- [Linux]({{ site.url }}/setup/linux.html)
+- [Mac]({{ site.url }}/setup/mac.html)
+- [Windows]({{ site.url }}/setup/windows.html)
 
 ---
 
