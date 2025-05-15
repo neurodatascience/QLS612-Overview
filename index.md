@@ -58,7 +58,7 @@ skills (such as minimal experience in a scripting language).
 
 Video content of this course is available on Youtube
 [from previous editions](https://www.youtube.com/@qls612-bhs9/videos)
-of the course. The content might vary slightly from this year's content. 
+of the course. The content might vary slightly from this year's content.
 
 ## Approach to teaching
 
