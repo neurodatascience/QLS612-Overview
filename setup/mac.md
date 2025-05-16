@@ -30,6 +30,9 @@ Install the [Homebrew](https://brew.sh/) package manager: open a terminal window
 
 You may already have it!
 Try opening a terminal and typing `git --version`.
+
+If this prints something like `git version X.XX.X`, git is already installed! If so, skip to the next section on "Git configuration".
+
 If `git` is not installed, then you might get a pop-up window prompting you to install the Xcode Command Line Tools, which we will **not** do: click "Cancel". We will install `git` with Homebrew instead.
 
 In the terminal, run:
@@ -38,7 +41,7 @@ In the terminal, run:
 brew install git
 ```
 
-(If you installed `git` through the Xcode Command Line Tools, that is fine, so you don't need to worry.)
+(If you already installed `git` through the Xcode Command Line Tools, that is fine, so you don't need to worry.)
 
 Verify the installation by running `git --version`: this time you should see something like `git version X.XX.X`.
 
