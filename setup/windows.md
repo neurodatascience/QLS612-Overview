@@ -7,11 +7,11 @@ description: Instructions for setting up on Windows
 ### WSL2 (Windows Subsystem for Linux version 2)
 
 WSL (Windows Subsystem for Linux) allows you to use Linux on top of Windows
-natively, WSL2 is the most recent version of WSL and it is more stable.
-If you already have WSL(1), it is easy to convert to WSL2
-(see [Instructions to convert WSL(1) to WSL2](https://ericsysmin.com/2019/07/13/converting-wsl-1-operating-systems-to-wsl-2-on-windows/)),
-if your Windows 10 is patched with 1909 or older,
-see [Install WSL2 on Windows 10 1909 or older](https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/).
+natively. 
+WSL2 is the latest version of WSL and is more stable with improved performance and compatibility.
+If you already have WSL(1), it is easy to convert to WSL2 (see [Instructions to convert WSL(1) to WSL2](https://learn.microsoft.com/en-us/windows/wsl/install#upgrade-version-from-wsl-1-to-wsl-2)). 
+If your Windows 10 is version 1909 or older,
+see the "Install WSL2 on Windows 10 (older versions)" section on this [page](https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/).
 
 #### Install WSL2 on Windows 10 or 11
 
@@ -23,18 +23,17 @@ see [Install WSL2 on Windows 10 1909 or older](https://pureinfotech.com/install-
    ```powershell
    wsl --install
    ```
-
 3. Restart your computer to finish the WSL installation and continue with the Linux distro setup.
 4. Open **Start (Win key)** and search for **Command Prompt** in your
    applications, right click and select `Run as administrator`.
    Select `Yes` on the prompt that appears asking if you want to allow the app to make changes to your device.
 5. At this point, if you are on a newer version of Windows 10 or Windows 11,
    the command from Step 2 should have installed, in addition to WSL,
-   the latest LTS version of Ubuntu (22.04 LTS at time of writing) as the default distribution.
+   the latest LTS version of Ubuntu (24.04 LTS at time of writing) as the default distribution.
    If this is the case, an Ubuntu terminal will open to resume automatic setup,
    and afterwards will ask you set up a username and password.
-   If this applies to you, skip to Step 9.
-   Otherwise, continue with Step 6.
+   **If this applies to you, skip to Step 9.
+   Otherwise, continue with Step 6.**
 6. In the **Command Prompt**, type the following command to view a list of
    available WSL distros you can install and press Enter:
 
@@ -42,7 +41,7 @@ see [Install WSL2 on Windows 10 1909 or older](https://pureinfotech.com/install-
    wsl --list --online
    ```
 
-7. Type the following command to install a specific distro (Ubuntu-18.04
+7. Type the following command to install a specific distro (Ubuntu-22.04
    recommended) in WSL and press `Enter` (it will start the distro if it has
    already been installed):
 
@@ -51,21 +50,21 @@ see [Install WSL2 on Windows 10 1909 or older](https://pureinfotech.com/install-
    ```
 
 8. Restart your computer, open **Start (Win key)** and search for **Ubuntu**,
-   and click on **Ubuntu \<VERSION-NUMBER\> on Windows (App)**. You should have
-   the **WSL2 Ubuntu 18.04** terminal open. Now, you are ready to rock!
+   and click on the app called **Ubuntu** or **Ubuntu \<VERSION-NUMBER\>**. You should now have
+   the **WSL2 Ubuntu 22.04** terminal open. Now, you are ready to rock!
 9. You will be prompted to `Enter new UNIX username` (this will create a local user account for the **Ubuntu WSL instance**
-   and you will be automatically logged in to Ubuntu `<VERSION-NUMBER>`as this user).
+   and you will be automatically logged in to your Ubuntu distro as this user).
    You can use any combination of alphanumeric characters for your username,
    but a good choice is `<first_initial><last_name>` (e.g., `jsmith` for John Smith).
    You will then be prompted to enter a new password
-   (choose something easy to remember as you will find yourself using it frequently).
+   (choose something easy to remember as you will use it frequently for this course).
 
 From this point on, whenever the instructions specify to **"open/type a command
-in a terminal"**, please assume you are supposed to open/type the command in the
-Ubuntu application (open **Start (Win key)** and search for **Ubuntu**, and
-click **Ubuntu \<VERSION-NUMBER\> on Windows (App)**).
+in a terminal"**, please open/type the command in the
+Ubuntu application (open **Start (Win key)**, search for **Ubuntu**, and
+click **Ubuntu** or **Ubuntu \<VERSION-NUMBER\>**).
 
-References:
+Need more help?
 
 - [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
 - [https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-wsl](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-wsl)
@@ -85,23 +84,23 @@ You already have it, now that you’ve installed the WSL2!
 1. Go to [this page](https://code.visualstudio.com/) and click the download
    button, then run the `.exe` file.
 2. Leave all the defaults during the installation with the following exception:
-   - Please make sure the box labeled "Register Code as an editor for supported
+   - Make sure the box labeled "Register Code as an editor for supported
      file types" is selected
 
 #### VSCode extensions
 
-These extensions will allow you to work with the WSL2 Ubuntu with GUI.
+These extensions will allow you to work with WSL2 Ubuntu more seamlessly in VSCode.
 
 1. Open Visual Studio Code, click on the **Extensions** icon in the left sidebar
-   (or press `Ctrl+Shift+X`), and search for and install the `WSL` extension
+   (or press `Ctrl+Shift+X`), and search for and install the **WSL** extension
    (usually, VSCode can automatically detect your WSL Ubuntu installation and remind you to install related extensions).
 1. In a **terminal** (Ubuntu), type `code .` and press `Enter`.
    You should see a  message reading `Installing VS Code Server` and then a new VSCode window
-   (entitled: `Get Started - <USERNAME> [WSL: Ubuntu <VERSION-NUMBER>]` - Visual Studio Code) will open up.
-   An indicator reading `WSL` should be visible in the bottom left corner of the window.
-1. In the WSL VSCode window, open the Extensions panel (or `Ctrl+Shift+X`).
-   In the search bar, search for each of the following extensions and click `Install`
-   (or `Install in WSL: Ubuntu`, depending on whether you have the extension installed locally) for the first entry that appears.
+   (might be called `Get Started - <USERNAME> [WSL: Ubuntu <VERSION-NUMBER>] Visual Studio Code`) will open up.
+   It should say `WSL` in the bottom left corner of the window.
+1. In the **WSL VSCode window**, open the **Extensions** panel again (or `Ctrl+Shift+X`).
+   Search for each of the following extensions and click `Install`
+   (or `Install in WSL: Ubuntu`, depending on whether you already have the extension installed locally) for the first entry that appears.
    If no `Install` button is available and the extension is not grayed out,
    it means it is already installed.
 
@@ -114,9 +113,9 @@ Verify that the extensions you have just installed exist in the list under `WSL:
 
 #### WSL2 Ubuntu terminal in VSCode
 
-You can open a terminal in your WSL VSCode window (if you do not already have
-one at the bottom of the window) by navigating to **Terminal > New Terminal** in
-the top menu bar (or, `` Ctrl+Shift+` ``). This terminal in a WSL VSCode window
+You can open the terminal in your **WSL VSCode window** (if you do not already have
+one at the bottom of the window) by navigating to **View > Terminal** in
+the top menu bar (or, `` Ctrl+` ``). This terminal in a WSL VSCode window
 is equivalent to the WSL2 Ubuntu terminal we get from opening the Ubuntu app
 itself (i.e., like we did from the **Start (Win key)** menu), but with the
 advantage of having all the graphical features of VSCode at your disposal.
@@ -176,29 +175,29 @@ Notebook in your WSL2 Ubuntu distribution.
    click it and select the one reading something like _qlsc612
    (Python 3.x.y) miniconda3/envs/qlsc612/bin/python_.
    The button should be updated to read _qlsc612 (Python 3.x.y)_.
-   This is the python environment we have just created for this course,
+   This is the Python environment we have just created for this course,
    make sure it is the one you are using for later modules.
 
 ### Docker Desktop for Windows
 
-You are supposed to install Docker Desktop after you have successfully installed WSL2.
+You should install Docker Desktop after you have successfully installed WSL2.
 
 1. Go to [this page](https://docs.docker.com/desktop/install/windows-install/)
    and click "Docker Desktop for Windows", then run the downloaded installer.
 2. When prompted, ensure the "Use WSL 2 instead of Hyper-V option" on the
-   Configuration page is selected or not depending on your choice of backend.
+   Configuration page is selected.
 3. Follow the instructions on the installation wizard to authorize the installer
    and proceed with the install.
 4. When the installation is successful, click "Close" to complete the
-   installation process. (If your admin account is different to your user
-   account, you must add the user to the docker-users group. Run **Computer
+   installation process. (If the admin account on your computer is different to your user account, you must add the user to the docker-users group. Run **Computer
    Management** as an administrator and navigate to Local Users and Groups >
    Groups > docker-users. Right-click to add the user to the group. Log out and
    log back in for the changes to take effect.)
 5. Whenever you need to run Docker, open **Start (Win key)**, search for
    **Docker Desktop** in your applications, and left click to run the app.
-6. You can always use Docker command-line tools in **Command Prompt** or
-   **PowerShell** (as well as from your WSL2 Ubuntu terminal).
+6. For this course, you should run Docker commands from your **WSL2 Ubuntu
+   terminal**. 
+   However, in general you can also use Docker command-line tools in **Command Prompt** or **PowerShell**.
 
 The above step-by-step instructions are distilled from
 [here](https://docs.docker.com/desktop/install/windows-install/).
