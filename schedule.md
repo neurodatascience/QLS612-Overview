@@ -32,7 +32,7 @@ description:
 |                        | 15:15-17:00 | Exercises, project <br>                                                                                                                                                |
 |                        |             |                                                                                                                                                                        |
 | **Friday May 30th**    | 09:00-10:00 | **Module 10** <br> [💥 Classical statistics pitfalls and remedies 💊]({{ site.url }}/lectures-materials/2025/classical_statistics_pitfalls_and_remedies.html) <br> JB          |
-|                        | 10:15-11:45 | **Module 11** <br> [🐋 Containers 🐋]({{ site.url }}/lectures-materials/2025/containers.html) <br> Seb                                                                 |
+|                        | 10:15-11:45 | **Module 11** <br> [🐋 Containers 🐋]({{ site.url }}/lectures-materials/2025/containers.html) <br> Alyssa                                                                 |
 |                        | 11:45-12:30 | Exercises, project <br>                                                                                                                                                |
 |                        | 13:30-15:00 | **Module 12** <br> ❓ Ask Me Anything or [Large language models]({{ site.url }}/lectures-materials/2025/llm.html) ❓ <br> Brent                                        |
 |                        | 15:15-15:30 | Exercises, project <br>                                                                                                                                                |
