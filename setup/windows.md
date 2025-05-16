@@ -79,6 +79,12 @@ You already have it, now that you’ve installed the WSL2!
 
 {% include extra-git-setup.html %}
 
+#### Creating an SSH key for GitHub
+
+When following the GitHub docs below, make sure to select the **Linux** instructions.
+
+{% include gh-ssh-key-setup.html %}
+
 ### VSCode (on your Windows)
 
 1. Go to [this page](https://code.visualstudio.com/) and click the download

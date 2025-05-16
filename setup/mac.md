@@ -34,6 +34,12 @@ If you do **not** see something like “git version X.XX.X” printed out, then 
 
 {% include extra-git-setup.html %}
 
+#### Creating an SSH key for GitHub
+
+When following the GitHub docs below, make sure to select the **Mac** instructions.
+
+{% include gh-ssh-key-setup.html %}
+
 ### VSCode
 
 1. Go to [this page](https://code.visualstudio.com/) and click the download button.
@@ -93,7 +99,7 @@ If you do **not** see something like “git version X.XX.X” printed out, then 
 
 1. Go to
    [this page](https://docs.docker.com/desktop/install/mac-install/)
-   and press the button `Docker Deskptop for...` corresponding to the chip of your machine (see the image below).
+   and press the button `Docker Desktop for...` corresponding to the chip of your machine (see the image below).
 
    [![](../assets/images/docker_mac.png)](https://docs.docker.com/desktop/install/mac-install/)
 
