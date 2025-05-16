@@ -26,7 +26,7 @@ steps you can take to ensure you are ready for the lectures.
 ## Required software
 
 To get the most out of our course, please arrive with the
-software listed below **already installed** (or to the best of your ability). 
+software listed below **already installed** (or to the best of your ability).
 The rest of this page provides installation procedures for each
 of the above programs, including specific instructions for each of the three major
 operating systems (Windows, Mac OS, and Linux).

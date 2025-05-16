@@ -7,9 +7,9 @@ description: Instructions for setting up on Windows
 ### WSL2 (Windows Subsystem for Linux version 2)
 
 WSL (Windows Subsystem for Linux) allows you to use Linux on top of Windows
-natively. 
+natively.
 WSL2 is the latest version of WSL and is more stable with improved performance and compatibility.
-If you already have WSL(1), it is easy to convert to WSL2 (see [Instructions to convert WSL(1) to WSL2](https://learn.microsoft.com/en-us/windows/wsl/install#upgrade-version-from-wsl-1-to-wsl-2)). 
+If you already have WSL(1), it is easy to convert to WSL2 (see [Instructions to convert WSL(1) to WSL2](https://learn.microsoft.com/en-us/windows/wsl/install#upgrade-version-from-wsl-1-to-wsl-2)).
 If your Windows 10 is version 1909 or older,
 see the "Install WSL2 on Windows 10 (older versions)" section on this [page](https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/).
 
@@ -202,7 +202,7 @@ You should install Docker Desktop after you have successfully installed WSL2.
 5. Whenever you need to run Docker, open **Start (Win key)**, search for
    **Docker Desktop** in your applications, and left click to run the app.
 6. For this course, you should run Docker commands from your **WSL2 Ubuntu
-   terminal**. 
+   terminal**.
    However, in general you can also use Docker command-line tools in **Command Prompt** or **PowerShell**.
 
 The above step-by-step instructions are distilled from
