@@ -1,0 +1,32 @@
+<p>
+    To authenticate to GitHub from the command line, you will use an SSH key pair, which is more secure than using your GitHub account password directly.
+</p>
+<ol>
+    <li>
+      In a terminal, <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys">check if you have existing SSH keys in the ~/.ssh directory</a>.
+      A public/private key pair typically has the filename format <code>id_ALGORITHM</code> and <code>id_ALGORITHM.pub</code>.
+      If you have existing key files, use a custom name for your SSH key pair in step 2.
+    </li>
+    <li>
+      <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">Generate a new SSH key and add it to the ssh-agent</a>.
+      <ul>
+        <li>Ensure to use the default file location for saving the key, unless you already have existing keys - in this case, replace just the <code>id_ALGORITHM</code> (e.g., <code>id_ed25519</code>) part of the file location with an informative keyname like <code>id_ed25519_github</code></li>
+        <li>Choose a passphrase you can remember easily, as you will need to use it for certain Git commands</li>
+      </ul>
+    </li>
+    <li>
+      Confirm your key pair was created by running the command:
+      <pre><code>ls -la ~/.ssh</code></pre>
+      You should see two files with your key name, one with <code>.pub</code> (the <b>public</b> key) and one without (the <b>private</b> key - do not share or copy this file!).
+    </li>
+    <li>
+      <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account">Add the SSH key to your GitHub account</a>.
+      <ul>
+        <li>Be careful when copying/pasting the public key to not accidentally add spaces or newlines</li>
+        <li>Choose Authentication Key for the key type</li>
+      </ul>
+    </li>
+</ol>
+<p>
+    In this course, when using a Git command that prompts you for your passphrase, enter the passphrase you set for your private key in step 2.
+</p>

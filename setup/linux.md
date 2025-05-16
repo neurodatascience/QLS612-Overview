@@ -25,6 +25,12 @@ If you are prompted to install it follow the instructions on-screen to do so.
 
 {% include extra-git-setup.html %}
 
+#### Creating an SSH key for GitHub
+
+When following the GitHub docs below, make sure to select the **Linux** instructions.
+
+{% include gh-ssh-key-setup.html %}
+
 ### VSCode
 
 1. Go to [this page](https://code.visualstudio.com/) and click the download

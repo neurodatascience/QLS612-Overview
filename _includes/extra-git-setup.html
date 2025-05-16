@@ -2,11 +2,13 @@
 <h4>Git configuration</h4>
 
 <p>
-    In case you have never used Git on your computer, you may have to configure it.
+    If you have never used Git on your computer, you may have to configure it.
+    The following instructions assume you have already created a GitHub account.
 </p>
 
 <p>
-    Type the following commands, and make sure to use the name and email associated with your GitHub account.
+    Type the following commands in a terminal. Make sure to use the email associated with your GitHub account.
+    The <code>user.name</code> can be any name you want to appear as the author of your commits, but we recommend using the name associated with your GitHub profile.
 </p>
 <p>
 <pre>
@@ -18,50 +20,3 @@ git config --global core.autocrlf true
 <p>
     <b>Tip:</b> You can review your configuration at any time with: <code>git config --list</code>
 </p>
-
-<h4>Create a personal access token (PAT) for GitHub</h4>
-
-<p>
-    To authenticate to GitHub from the command line, you will use a PAT instead of your GitHub account password.
-    In this course, when using a git command that prompts you for your password, you will enter this token.
-</p>
-<p>
-    Log in to your GitHub account, and follow
-    <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token">
-    these instructions to create a fine-grained PAT</a>.
-</p>
-<p>
-    Use an informative name for the token, such as <b>QLSC612_PAT</b>.
-    <ul>
-        <li>Under <code>Expiration</code>, select 7 days</li>
-        <li>Under <code>Resource owner</code>, select your username</li>
-        <li>Under <code>Repository access</code>, select All repositories</li>
-        <li>Under <code>Permissions</code>, navigate to Contents and change the access level to Read and write</li>
-    </ul>
-</p>
-<p>
-    Then, click <code>Generate token</code>, and copy and store the resulting token value in a secure location.
-</p>
-<aside>
-    <p><b>DISCLAIMER</b></p>
-    <p>
-        PATs are like passwords, and it is not best practice to save them in plain text on your computer!!
-        As an exception for this course, you are using a very short-term PAT with limited permissions
-        so that you can push to GitHub repositories from the command line without downloading additional tools.
-    </p>
-</aside>
-<p>
-    To use git/GitHub for your own purposes after this course,
-    you can use the GitHub CLI or Git Credential manager instead of creating a PAT.
-</p>
-<p>
-    For more info, see:
-    <ul>
-        <li><a href="
-            https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#keeping-your-personal-access-tokens-secure">
-            Keeping your personal access tokens secure</a></li>
-        <li><a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github#authenticating-with-the-command-line">
-            Authenticating with the command line</a></li>
-    </ul>
-</p>
-</div>
