@@ -26,9 +26,9 @@ description:
 |                        | 14:00-15:30 | **Module 7** <br> [👀 Introduction to data visualization in Python 🐍]({{ site.url }}/lectures-materials/2025/data_visualization_in_python.html) <br> Kendra   |
 |                        | 15:15-17:00 | Exercises, project <br>                                                                                                                                                |
 |                        |             |                                                                                                                                                                        |
-| **Thursday May 29th**  | 09:00-10:30 | **Module 8** <br> [Machine Learning 1 <br> 🤖 Supervised Learning 📖]({{ site.url }}/lectures-materials/2025/intro_ml_part_1.html) <br> Nikhil & Mohammad              |
+| **Thursday May 29th**  | 09:00-10:30 | **Module 8** <br> [Machine Learning 1 <br> 🤖 Supervised Learning 📖]({{ site.url }}/lectures-materials/2025/intro_ml_part_1.html) <br> Michelle & Mohammad              |
 |                        | 10:45-12:30 | Exercises, project <br>                                                                                                                                                |
-|                        | 13:30-15:00 | **Module 9** <br> [Machine Learning 2 <br> 🤖🤖 Model selection & validation 📖📖]({{ site.url }}/lectures-materials/2025/intro_ml_part_2.html) <br> Nikhil & Mohammad |
+|                        | 13:30-15:00 | **Module 9** <br> [Machine Learning 2 <br> 🤖🤖 Model selection & validation 📖📖]({{ site.url }}/lectures-materials/2025/intro_ml_part_2.html) <br> Michelle & Mohammad |
 |                        | 15:15-17:00 | Exercises, project <br>                                                                                                                                                |
 |                        |             |                                                                                                                                                                        |
 | **Friday May 30th**    | 09:00-10:00 | **Module 10** <br> [💥 Classical statistics pitfalls and remedies 💊]({{ site.url }}/lectures-materials/2025/classical_statistics_pitfalls_and_remedies.html) <br> JB          |

@@ -26,6 +26,25 @@
         <li>Choose Authentication Key for the key type</li>
       </ul>
     </li>
+    <li>
+      Locally specify the SSH key to use when connecting to GitHub, so that the right "identity" is always used for local Git operations (useful when you have multiple keys).
+      <ol>
+        <li>
+          Run the following command (replace <code>id_ed25519</code> with your <strong>private</strong> key's filename if you used a custom key name):
+          <pre><code>printf 'Host github.com\n  User git\n  IdentityFile ~/.ssh/id_ed25519\n  IdentitiesOnly yes\n' &gt;&gt; ~/.ssh/config</code></pre>
+        </li>
+        <li>
+          Then, check that the config was added:
+          <pre><code>cat ~/.ssh/config</code></pre>
+          You should see something like:
+          <pre><code>Host github.com
+  User git
+  IdentityFile ~/.ssh/id_ed25519
+  IdentitiesOnly yes
+          </code></pre>
+        </li>
+      </ol>
+    </li>
 </ol>
 <p>
     In this course, when using a Git command that prompts you for your passphrase, enter the passphrase you set for your private key in step 2.
