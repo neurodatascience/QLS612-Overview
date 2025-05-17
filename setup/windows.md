@@ -199,9 +199,9 @@ You should install Docker Desktop after you have successfully installed WSL2.
    Management** as an administrator and navigate to Local Users and Groups >
    Groups > docker-users. Right-click to add the user to the group. Log out and
    log back in for the changes to take effect.)
-5. Open **Start (Win key)**, search for **Docker Desktop** in your applications, and click to run the app. 
+5. Open **Start (Win key)**, search for **Docker Desktop** in your applications, and click to run the app.
    Once Docker Desktop has loaded, in a **WSL2 Ubuntu terminal** (in VSCode or your Ubuntu app),
-   type `docker run hello-world`. 
+   type `docker run hello-world`.
    A brief introductory message should be printed to the screen.
 
 #### Reminders:
