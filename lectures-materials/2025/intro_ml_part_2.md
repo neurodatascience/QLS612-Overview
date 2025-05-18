@@ -27,8 +27,10 @@ In this module, you will:
 
 ## Material
 
--   [code]()
--   [slides](https://docs.google.com/presentation/d/1OJIOjwdWXc9_5dq14IFX3v84URSTce5mNlBqcKe0XbI/edit#slide=id.g335eb85a4ef_0_1502)
+<object data="{{ site.url }}/assets/material/09_machine-learning-2_MT_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
+
+[Link to exercises](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2025/09_machine-learning-2/09_machine-learning-2_exercises_MT_2025)
 
 ## Resources
 

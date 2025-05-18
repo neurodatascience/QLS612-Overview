@@ -24,8 +24,7 @@ Specifically, you will:
 
 ## Material
 
--   [code]()
--   [slides]()
+*in preparation*
 
 ## Resources
 

@@ -24,8 +24,8 @@ In this course, you will:
 
 ## Material
 
--   [code]()
--   [slides]()
+<object data="{{ site.url }}/assets/material/11_containers_AD_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
 
 ## Resources
 

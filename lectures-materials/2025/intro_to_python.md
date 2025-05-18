@@ -71,13 +71,13 @@ Topics include:
 
 ## Material
 
--   [code]()
--   [slides]()
+<object data="{{ site.url }}/assets/material/04_intro-python_MW_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
 
 ## Resources
 
+- [Beginner's Python Cheat Sheet](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2025/04_intro-python/beginners_python_cheat_sheet_pcc_all.pdf)
 -   [Think Python 2e textbook](https://greenteapress.com/wp/think-python-2e/)
-
 -   [conda cheatsheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 
 ## Extras

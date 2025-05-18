@@ -34,8 +34,8 @@ description: 🤖 Supervised Learning 📖
 
 ## Material
 
--   [code]()
--   [slides]()
+<object data="{{ site.url }}/assets/material/08_machine-learning-1_MW_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
 
 ## Resources
 

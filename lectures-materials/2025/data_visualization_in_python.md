@@ -22,9 +22,7 @@ description: 👀🐍
 
 ## Material
 
--   [code]()
--   [slides]()
-
+*in preparation*
 ## Resources
 
 -   [Matplotlib cheatsheet](https://matplotlib.org/cheatsheets/)

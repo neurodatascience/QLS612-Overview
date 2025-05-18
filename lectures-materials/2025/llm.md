@@ -12,8 +12,7 @@ description: Large language models
 
 ## Material
 
--   [code]()
--   [slides]()
+*in preparation*
 
 ## Resources
 

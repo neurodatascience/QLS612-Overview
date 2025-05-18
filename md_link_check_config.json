@@ -4,5 +4,6 @@
     {"pattern": "^https://ca.linkedin.com/in/"}
   ],
   "timeout": "20s",
-  "retryOn429": true
+  "retryOn429": true,
+  "retryCount": 3
 }

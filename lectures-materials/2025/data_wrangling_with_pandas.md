@@ -49,8 +49,7 @@ to fearlessly tackle the next CSV file you encounter in the wild.
 
 ## Material
 
-- [code]()
-- [slides]()
+[Link to material](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2025/06_pandas)
 
 ## Resources
 

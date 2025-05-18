@@ -32,8 +32,7 @@ You will learn how to:
 
 ## Material
 
--   [code]()
--   [slides]()
+*in preparation*
 
 ## Extras
 
