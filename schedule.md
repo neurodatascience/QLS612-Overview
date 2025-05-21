@@ -24,7 +24,7 @@ description:
 |                        | 11:00-12:30 | **Module 6** <br> [🐼 Data wrangling with Pandas 🐼]({{ site.url }}/lectures-materials/2025/data_wrangling_with_pandas.html) <br> Jacob                                |
 |                        | 13:30-14:00 | Exercises, project <br>                                                                                                                                                |
 |                        | 14:00-15:30 | **Module 7** <br> [👀 Introduction to data visualization in Python 🐍]({{ site.url }}/lectures-materials/2025/data_visualization_in_python.html) <br> Kendra   |
-|                        | 15:15-17:00 | Exercises, project <br>                                                                                                                                                |
+|                        | 15:30-17:00 | Exercises, project <br>                                                                                                                                                |
 |                        |             |                                                                                                                                                                        |
 | **Thursday May 29th**  | 09:00-10:30 | **Module 8** <br> [Machine Learning 1 <br> 🤖 Supervised Learning 📖]({{ site.url }}/lectures-materials/2025/intro_ml_part_1.html) <br> Michelle & Mohammad              |
 |                        | 10:45-12:30 | Exercises, project <br>                                                                                                                                                |
