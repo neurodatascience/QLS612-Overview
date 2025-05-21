@@ -32,7 +32,10 @@ You will learn how to:
 
 ## Material
 
-*in preparation*
+<object data="{{ site.url }}/assets/material/02_terminal-bash_BMcP_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
+
+[Exercises](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2025/02_terminal-bash/introduction-to-shell-in-class-exercises_2025.ipynb)
 
 ## Extras
 
