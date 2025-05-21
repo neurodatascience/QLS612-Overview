@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Introduction to the Terminal and Bash
-description: Introduction to the Terminal and Bash
+title: 🐧 Introduction to the Terminal and Bash 🐧
+description: 🐧
 ---
 
 **Instructor:** [Brent McPherson](https://github.com/bcmcpher) & [Alyssa Dai](https://github.com/alyssadai)
@@ -35,7 +35,7 @@ You will learn how to:
 <object data="{{ site.url }}/assets/material/02_terminal-bash_BMcP_2025.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
-[Exercises](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2025/02_terminal-bash/introduction-to-shell-in-class-exercises_2025.ipynb)
+[Exercises](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2025/02_terminal-bash/introduction-to-bash-in-class-exercises.ipynb)
 
 ## Extras
 

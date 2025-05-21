@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Large language models
-description: Large language models
+title: 🤖 Large language models 💬
+description: 🤖💬
 ---
 
 **Instructor:** [Brent McPherson](https://github.com/bcmcpher)

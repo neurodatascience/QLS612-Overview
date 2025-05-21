@@ -10,7 +10,7 @@ description:
 | ---------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Monday May 26th**    | 09:00-10:30 | **Module 1** <br> [Introduction to reproducibility]({{ site.url }}/lectures-materials/2025/intro_to_reproducibility.html) <br> JB                                      |
 |                        | 10:45-12:30 | 🚑 💻 Installation clinic 💻 🚑 <br> Alyssa                                                                                                                            |
-|                        | 13:30-15:00 | **Module 2** <br> [💻 Introduction to the Terminal and Bash 💻]({{ site.url }}/lectures-materials/2025/terminal_and_bash.html) <br> Alyssa & Brent                     |
+|                        | 13:30-15:00 | **Module 2** <br> [🐧 Introduction to the Terminal and Bash 🐧]({{ site.url }}/lectures-materials/2025/terminal_and_bash.html) <br> Alyssa & Brent                     |
 |                        | 15:15-17:00 | Exercises <br>                                                                                                                                                         |
 |                        |             |                                                                                                                                                                        |
 | **Tuesday May 27th**   | 09:00-10:30 | **Module 3** <br> [🌳 Introduction to Git and GitHub 🌳]({{ site.url }}/lectures-materials/2025/git_github.html) <br> Kendra                                           |
@@ -34,7 +34,7 @@ description:
 | **Friday May 30th**    | 09:00-10:00 | **Module 10** <br> [💥 Classical statistics pitfalls and remedies 💊]({{ site.url }}/lectures-materials/2025/classical_statistics_pitfalls_and_remedies.html) <br> JB          |
 |                        | 10:15-11:45 | **Module 11** <br> [🐋 Containers 🐋]({{ site.url }}/lectures-materials/2025/containers.html) <br> Alyssa                                                                 |
 |                        | 11:45-12:30 | Exercises, project <br>                                                                                                                                                |
-|                        | 13:30-15:00 | **Module 12** <br> ❓ Ask Me Anything or [Large language models]({{ site.url }}/lectures-materials/2025/llm.html) ❓ <br> Brent                                        |
+|                        | 13:30-15:00 | **Module 12** <br> 🤖 Ask Me Anything or [Large language models]({{ site.url }}/lectures-materials/2025/llm.html) 💬 <br> Brent                                        |
 |                        | 15:15-15:30 | Exercises, project <br>                                                                                                                                                |
 |                        | 15:45-17:00 | Quiz 2 <br>                                                                                                                                                            |
 |                        | 17:00-19:00 | 🥳 🍸 Celebrations 🍸 🥳 <br>                                                                                                                                          |
