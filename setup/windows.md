@@ -16,7 +16,7 @@ see the "Install WSL2 on Windows 10 (older versions)" section on this [page](htt
 #### Install WSL2 on Windows 10 or 11
 
 1. Open **Start (Win key)** and search for **Command Prompt** (type directly) in your applications,
-   right click and select `Run as administrator`.
+   right-click and select `Run as administrator`.
    Select `Yes` on the prompt that appears asking if you want to allow the app to make changes to your device.
 2. Type the following into the **Command Prompt**, then press `Enter`:
 
@@ -25,7 +25,7 @@ see the "Install WSL2 on Windows 10 (older versions)" section on this [page](htt
    ```
 3. Restart your computer to finish the WSL installation and continue with the Linux distro setup.
 4. Open **Start (Win key)** and search for **Command Prompt** in your
-   applications, right click and select `Run as administrator`.
+   applications, right-click and select `Run as administrator`.
    Select `Yes` on the prompt that appears asking if you want to allow the app to make changes to your device.
 5. At this point, if you are on a newer version of Windows 10 or Windows 11,
    the command from Step 2 should have installed, in addition to WSL,
@@ -173,13 +173,13 @@ Notebook in your WSL2 Ubuntu distribution.
 
 #### Reminders:
 
-1. You may need to reactivate the `qlsc612` environment each time you start the
+- You may need to reactivate the `qlsc612` environment each time you start the
    WSL2 (e.g., in VSCode) with `conda activate qlsc612`.
-2. When running a Jupyter notebook in VSCode (remote access to your WSL2 Ubuntu)
+- When running a Jupyter notebook in VSCode (remote access to your WSL2 Ubuntu)
    you will also need to specify the Python environment (kernel).
    There will be a `Select Kernel` button in the top right corner of the Jupyter notebook,
    click it and select the one reading something like _qlsc612
-   (Python 3.x.y) miniconda3/envs/qlsc612/bin/python_.
+   (Python 3.x.y) ~/miniconda3/envs/qlsc612/bin/python_.
    The button should be updated to read _qlsc612 (Python 3.x.y)_.
    This is the Python environment we have just created for this course,
    make sure it is the one you are using for later modules.
@@ -199,14 +199,18 @@ You should install Docker Desktop after you have successfully installed WSL2.
    Management** as an administrator and navigate to Local Users and Groups >
    Groups > docker-users. Right-click to add the user to the group. Log out and
    log back in for the changes to take effect.)
-5. Whenever you need to run Docker, open **Start (Win key)**, search for
-   **Docker Desktop** in your applications, and left click to run the app.
-6. For this course, you should run Docker commands from your **WSL2 Ubuntu
-   terminal**.
-   However, in general you can also use Docker command-line tools in **Command Prompt** or **PowerShell**.
+5. Open **Start (Win key)**, search for **Docker Desktop** in your applications, and click to run the app.
+   Once Docker Desktop has loaded, in a **WSL2 Ubuntu terminal** (in VSCode or your Ubuntu app),
+   type `docker run hello-world`.
+   A brief introductory message should be printed to the screen.
+
+#### Reminders:
+- Whenever you need to use Docker, first make sure that Docker Desktop is running (open **Start (Win key)** and search for the **Docker Desktop** app)
+- For this course, you should run Docker commands from a **WSL2 Ubuntu terminal**.
+   However, in general you can also use Docker command-line tools in Command Prompt or PowerShell.
 
 The above step-by-step instructions are distilled from
-[here](https://docs.docker.com/desktop/install/windows-install/).
+[here](https://docs.docker.com/desktop/setup/install/windows-install/).
 
 ---
 

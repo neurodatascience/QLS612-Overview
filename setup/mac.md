@@ -13,24 +13,37 @@ necessary, follow these steps:
 1. Open a terminal and type `echo $SHELL`. If it reads `/bin/bash` then you are
    all set!
 
-Note: If you are using Mac Catalina (10.15.X) then it is possible your default
+Note: If you are using Mac Catalina (10.15.X) or later, then it is possible your default
 shell is NOT CORRECT. To set the default to bash, type `chsh -s /bin/bash` in
 the terminal, enter your password when prompted, and then close + re-open the
 terminal.
+
+### Homebrew
+
+Install the [Homebrew](https://brew.sh/) package manager: open a terminal window, type this command, then press `Enter`:
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 ### Git
 
 You may already have it!
 Try opening a terminal and typing `git --version`.
-If you do **not** see something like “git version X.XX.X” printed out, then follow these steps:
 
-1. Follow
-   [this link](https://sourceforge.net/projects/git-osx-installer/files/git-2.23.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect)
-   to automatically download an installer.
-1. Double click the downloaded file (`git-2.23.0-intel-universal-mavericks.dmg`)
-   and then double click the `git-2.23.0-intel-universal-mavericks.pkg` icon
-   inside the dmg that is opened.
-1. Follow the on-screen instructions to install the package.
+If this prints something like `git version X.XX.X`, git is already installed! If so, skip to the next section on "Git configuration".
+
+If `git` is not installed, then you might get a pop-up window prompting you to install the Xcode Command Line Tools, which we will **not** do: click "Cancel". We will install `git` with Homebrew instead.
+
+In the terminal, run:
+
+```bash
+brew install git
+```
+
+(If you already installed `git` through the Xcode Command Line Tools, that is fine, so you don't need to worry.)
+
+Verify the installation by running `git --version`: this time you should see something like `git version X.XX.X`.
 
 {% include extra-git-setup.html %}
 
@@ -43,8 +56,7 @@ When following the GitHub docs below, make sure to select the **Mac** instructio
 ### VSCode
 
 1. Go to [this page](https://code.visualstudio.com/) and click the download button.
-1. Unzip the downloaded file (for example, `VSCode-darwin-stable.zip`)
-   and moving the resulting `Visual Studio Code` file to your Applications directory.
+1. Unzip the downloaded file (for example, `VSCode-darwin-universal.zip`) and move the resulting `Visual Studio Code` file to your Applications directory.
 
 #### VSCode extensions
 
@@ -61,30 +73,31 @@ When following the GitHub docs below, make sure to select the **Mac** instructio
 
 ### Python
 
-1. Open a new terminal and type the following lines (separately) into the
-   terminal, pressing `Enter` after each one:
+1. Open a new terminal and type the following command, then press `Enter`.
+   - If you are on an Apple Silicon Mac (upper left corner Apple menu  -> `About This Mac` says something like "Chip: Apple M1" (or M2, etc.)):
+      ```bash
+      curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh
+      ```
+   - Otherwise:
+      ```bash
+      curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+      ```
 
+1. Run the installation script:
    ```bash
-   curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
    bash Miniconda3-latest-MacOSX-x86_64.sh
    ```
-
-1. A license agreement will be displayed and the bottom of the terminal will read `--More--`.
-   Press `Enter` or the space bar until you are prompted with
-   "Do you accept the license terms? [yes|no]."
+   - A license agreement will be displayed and the bottom of the terminal will read `--More--`.
+   Press `Enter` or the space bar until you are prompted with "Do you accept the license terms? [yes|no]."
    Type `yes` and then press `Enter`
-1. The installation script will inform you that it is going to install into a
-   default directory (e.g., `/home/$USER/miniconda3`).
+   - The installation script will inform you that it is going to install into a default directory (e.g., `/Users/$USER/miniconda3`).
    Leave this default and press `Enter`.
-1. When you are asked "Do you wish the installer to initialize Miniconda3 by running conda init? [yes|no],"
-   type `yes` and press `Enter`.
-   Exit the terminal once the installation has finished.
+   - When you are asked "Do you wish the installer to initialize Miniconda3 by running conda init? [yes|no]," type `yes` and press `Enter`.
+   - Exit the terminal once the installation has finished.
 1. Re-open a terminal.
-   Type `which python` into the terminal and it should return a path (e.g., `/home/$USER/miniconda3/bin/python`).
-   - If you do not see a path like this then please try typing `conda init`,
-     closing your terminal, and repeating this step.
-     If your issue is still not resolved skip the following step
-     and contact an instructor on the `#help-installation` channel of the Slack workspace.
+   Type `which python` into the terminal and it should return a path (e.g., `/Users/$USER/miniconda3/bin/python`).
+   - If you do not see a path like this then please try typing `conda init`, closing your terminal, and repeating this step.
+     If your issue is still not resolved. skip the following step and contact an instructor on the #help-installation channel of the QLS612-BHS Slack.
 1. Type the following to remove the installation script that was downloaded:
 
    ```bash
@@ -98,10 +111,10 @@ When following the GitHub docs below, make sure to select the **Mac** instructio
 ### Docker
 
 1. Go to
-   [this page](https://docs.docker.com/desktop/install/mac-install/)
+   [this page](https://docs.docker.com/desktop/setup/install/mac-install/)
    and press the button `Docker Desktop for...` corresponding to the chip of your machine (see the image below).
 
-   [![](../assets/images/docker_mac.png)](https://docs.docker.com/desktop/install/mac-install/)
+   [![](../assets/images/docker_mac.png)](https://docs.docker.com/desktop/setup/install/mac-install/)
 
 1. Open the `Docker.dmg` file that is downloaded and drag and drop the icon to the Applications folder.
 
@@ -113,7 +126,7 @@ When following the GitHub docs below, make sure to select the **Mac** instructio
    A brief introductory message should be printed to the screen.
 
 The above step-by-step Docker instructions are distilled from
-[here](https://docs.docker.com/docker-for-mac/install/).
+[here](https://docs.docker.com/desktop/setup/install/mac-install/).
 If you have questions during the installation procedure please check that link for potential answers!
 
 ---
