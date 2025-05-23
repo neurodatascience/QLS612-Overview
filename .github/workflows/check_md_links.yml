@@ -1,5 +1,5 @@
 ---
-name: Check Markdown links
+name: Linkspector
 
 on:
     push:
@@ -8,13 +8,15 @@ on:
         branches: [main]
 
 jobs:
-    markdown-link-check:
-        runs-on: ubuntu-latest
-        steps:
-        -   uses: actions/checkout@master
-        -   uses: gaurav-nelson/github-action-markdown-link-check@v1
-            with:
-                use-quiet-mode: yes
-                use-verbose-mode: yes
-                config-file: md_link_check_config.json
-                folder-path: ./
+  check-links:
+    name: runner / linkspector
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run linkspector
+        uses: umbrelladocs/action-linkspector@v1
+        with:
+          github_token: ${{ secrets.github_token }}
+          reporter: github-pr-review
+          fail_level: any
+          
