@@ -1,5 +1,7 @@
 ---
 name: Linkspector
+permissions:
+    contents: read
 
 on:
     push:
