@@ -22,7 +22,11 @@ description: 👀🐍
 
 ## Material
 
-*in preparation*
+<object data="{{ site.url }}/assets/material/07_intro-to-data-visualization_part-1_KO_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
+
+<object data="{{ site.url }}/assets/material/07_intro-to-data-visualization_part-2_KO_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
 ## Resources
 
 -   [Matplotlib cheatsheet](https://matplotlib.org/cheatsheets/)
