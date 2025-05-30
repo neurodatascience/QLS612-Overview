@@ -24,8 +24,7 @@ Specifically, you will:
 
 ## Material
 
-<object data="{{ site.url }}/assets/material/01_intro-reproducibility_JB_2025.pdf " width="1000" height="1000" type='application/pdf'>
-</object>
+[Link to material](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2025/01_intro-to-reproducibility/nds-intro-reproductibility-2025.pdf)
 
 ## Resources
 
