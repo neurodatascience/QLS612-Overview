@@ -25,7 +25,8 @@ lecture, you will
 
 ## Material
 
-*in preparation*
+<object data="{{ site.url }}/assets/material/10_classical-statistics-issues_JB_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
 
 ## Resources
 
