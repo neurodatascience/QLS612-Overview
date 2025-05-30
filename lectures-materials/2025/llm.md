@@ -12,7 +12,8 @@ description: 🤖💬
 
 ## Material
 
-*in preparation*
+<object data="{{ site.url }}/assets/material/12_intro-to-llms_BMcP_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
 
 ## Resources
 
