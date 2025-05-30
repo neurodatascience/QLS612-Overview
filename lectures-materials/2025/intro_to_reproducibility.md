@@ -24,7 +24,8 @@ Specifically, you will:
 
 ## Material
 
-*in preparation*
+<object data="{{ site.url }}/assets/material/01_intro-reproducibility_JB_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
 
 ## Resources
 
