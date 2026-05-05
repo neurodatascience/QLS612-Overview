@@ -71,6 +71,8 @@ When following the GitHub docs below, make sure to select the **Mac** instructio
 
 {% include vs-code-extensions.html %}
 
+{% include copilot-setup.html %}
+
 ### Python
 
 1. Open a new terminal and type the following command, then press `Enter`.

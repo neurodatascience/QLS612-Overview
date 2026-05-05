@@ -47,6 +47,8 @@ When following the GitHub docs below, make sure to select the **Linux** instruct
 
 {% include vs-code-extensions.html %}
 
+{% include copilot-setup.html %}
+
 ### Python
 
 1. Open a new terminal and type the following lines (separately) into the
