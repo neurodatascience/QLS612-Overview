@@ -5,13 +5,13 @@
     <li>
       In a terminal, <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys">check if you have existing SSH keys in the ~/.ssh directory</a>.
       A public/private key pair typically has the filename format <code>id_ALGORITHM</code> and <code>id_ALGORITHM.pub</code>.
-      If you have existing key files, use a custom name for your SSH key pair in step 2.
+      If you have existing key files, use a different, custom name for your SSH key pair in step 2.
     </li>
     <li>
       <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">Generate a new SSH key and add it to the ssh-agent</a>.
       <ul>
-        <li>Ensure to use the default file location for saving the key, unless you already have existing keys - in this case, replace just the <code>id_ALGORITHM</code> (e.g., <code>id_ed25519</code>) part of the file location with an informative keyname like <code>id_ed25519_github</code></li>
-        <li>Choose a passphrase you can remember easily, as you will need to use it for certain Git commands</li>
+        <li>Use the default file location for saving the key, unless you already have existing keys - in this case, replace just the <code>id_ALGORITHM</code> (e.g., <code>id_ed25519</code>) part of the file location with an informative keyname like <code>id_ed25519_github</code></li>
+        <li><strong>Store your passphrase in a secure location</strong>, as you will need to use it for certain Git commands</li>
       </ul>
     </li>
     <li>
@@ -30,7 +30,7 @@
       Locally specify the SSH key to use when connecting to GitHub, so that the right "identity" is always used for local Git operations (useful when you have multiple keys).
       <ol>
         <li>
-          Run the following command (replace <code>id_ed25519</code> with your <strong>private</strong> key's filename if you used a custom key name):
+          Run the following command (if you used a custom key name, replace <code>id_ed25519</code> with your <strong>private</strong> key's filename):
           <pre><code>printf 'Host github.com\n  User git\n  IdentityFile ~/.ssh/id_ed25519\n  IdentitiesOnly yes\n' &gt;&gt; ~/.ssh/config</code></pre>
         </li>
         <li>
@@ -40,8 +40,7 @@
           <pre><code>Host github.com
   User git
   IdentityFile ~/.ssh/id_ed25519
-  IdentitiesOnly yes
-          </code></pre>
+  IdentitiesOnly yes</code></pre>
         </li>
       </ol>
     </li>
