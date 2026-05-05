@@ -3,21 +3,30 @@
 
 <p>
     If you have never used Git on your computer, you may have to configure it.
-    The following instructions assume you have already created a GitHub account.
+    The following instructions assume you have already created a GitHub account following the main <a href="setup.html">Setup</a> page.
 </p>
 
 <p>
-    Type the following commands in a terminal. Make sure to use the email associated with your GitHub account.
-    The <code>user.name</code> can be any name you want to appear as the author of your commits, but we recommend using the name associated with your GitHub profile.
+    Type the following commands in a terminal. 
 </p>
+
+
+<p>Notes:</p>
+<ul>
+    <li>For <code>user.email</code>, use the email associated with your GitHub account.</li>
+    <li><code>user.name</code> can be any name you want to use to author your commits, but we recommend using the display name on your GitHub profile.</li>
+</ul>
+
 <p>
 <pre>
-git config --global user.name "Jane Doe"
-git config --global user.email "janedoe@example.com"
-git config --global core.autocrlf true
+git config --global user.name "Jane Doe"  # Set the author name for your commits
+git config --global user.email "janedoe@example.com"  # Set the email linked to your commits
+git config --global core.autocrlf true  # Auto-handle line endings correctly across different OSes
+git config --global init.defaultBranch main  # Make new repos use "main" as the default branch name
+git config --global pull.rebase false  # Make "git pull" combine changes using merge by default
 </pre>
 </p>
 <p>
-    <b>Tip:</b> You can review your configuration at any time with: <code>git config --list</code>
+    <b>Tip:</b> You can check your Git configuration at any time with: <code>git config --list</code>
 </p>
 </div>
