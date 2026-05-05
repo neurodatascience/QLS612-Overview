@@ -25,8 +25,8 @@ steps you can take to ensure you are ready for the lectures.
 
 ## Required software
 
-To get the most out of our course, please arrive with the
-software listed below **already installed** (or to the best of your ability).
+To get the most out of our course, **please arrive with the
+software listed below already installed** (or to the best of your ability).
 The rest of this page provides installation procedures for each
 of the above programs, including specific instructions for each of the three major
 operating systems (Windows, Mac OS, and Linux).
@@ -38,7 +38,6 @@ operating systems (Windows, Mac OS, and Linux).
 - A virtualization system: Docker
 - A GitHub account
 - Slack
-- Zoom
 - A modern browser
 
 ### Some quick general notes on instructions
@@ -56,12 +55,12 @@ operating systems (Windows, Mac OS, and Linux).
 
 ### GitHub account
 
-Go to [https://github.com/join/](https://github.com/join/) and follow the
-on-screen instructions to create an account.
-We recommend associating this
-with your university e-mail (if you have one) as this will entitle you to sign
-up for the [GitHub Student Developer Pack](https://education.github.com/pack)
-which comes with some nice free bonuses.
+1. Follow the instructions at [https://github.com/join/](https://github.com/join/) to create an account. 
+We recommend using your university e-mail for the account if you have one (you can always change it later or add a secondary e-mail).
+
+2. We strongly recommend also signing up for [GitHub Education Student](https://github.com/education/students),
+which provides free access to perks and tools including the [GitHub Student Developer Pack](https://education.github.com/pack). 
+The application process is very quick, and verification typically takes no more than a couple days at most.
 
 ### Slack
 
@@ -69,18 +68,15 @@ Go to [https://slack.com/downloads/](https://slack.com/downloads/) and download 
 
 <a href="https://qls612-bhs.slack.com"><button>Join the QLS 612 workspace !</button></a>
 
-### Zoom
-
-Go to [https://zoom.us/download](https://zoom.us/download) and download and install the Zoom client.
-
 ### Modern web browser
 
 Install Firefox, Chrome, or Safari.
 
 ### OS-specific installation instructions
 
-Select the link that corresponds to your operating system and follow the
-instructions provided. Please direct any questions to the `#help-installation`
+Once you have completed the above general setup, select the link that corresponds to your operating system and follow the
+instructions provided. 
+Please direct any questions to the `#help-installation`
 channel in the QLS612 Slack.
 
 - [Linux]({{ site.url }}/setup/linux.html)
