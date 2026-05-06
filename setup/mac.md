@@ -56,7 +56,7 @@ Verify the installation by running `git --version`: this time you should see som
 
 {% include extra-git-setup.html %}
 
-#### Creating an SSH key for GitHub
+#### Create an SSH key for GitHub
 
 When following the GitHub docs in the steps below, make sure to select the **Mac** instructions at the top of the page.
 
@@ -74,6 +74,8 @@ When following the GitHub docs in the steps below, make sure to select the **Mac
 
 2. To confirm that everything worked, open a terminal and type `code .` (include the period). 
 This should open the current directory in a VSCode window.
+
+{% include vs-code-workspace-trust-popup.html %}
 
 #### VSCode extensions
 
@@ -143,6 +145,17 @@ This should open the current directory in a VSCode window.
 The above step-by-step Docker instructions are distilled from
 [here](https://docs.docker.com/desktop/setup/install/mac-install/).
 If you have questions during the installation procedure please check that link for potential answers!
+
+### Install the `tree` command
+
+`tree` is a helpful command for viewing directory structures, and is strongly recommended.
+
+1. Open a terminal, and check if you have `tree` already installed by running `tree --version`. 
+   - If you see a version number, you're all set!
+   - If you see a message like `tree: command not found`, install it by running:
+      ```bash
+      brew install tree
+      ```
 
 ---
 

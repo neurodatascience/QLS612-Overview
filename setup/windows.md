@@ -80,7 +80,7 @@ You already have it, now that you’ve installed the WSL2!
 
 {% include extra-git-setup.html %}
 
-#### Creating an SSH key for GitHub
+#### Create an SSH key for GitHub
 
 > **Important**: When following the GitHub docs in the steps below, make sure to:
 > - Select the **Linux** instructions at the top of the page
@@ -104,6 +104,9 @@ These extensions will allow you to work with WSL2 Ubuntu more seamlessly in VSCo
 2. In a **terminal** (Ubuntu), type `code .` and press `Enter`.
    You should see a message reading `Installing VS Code Server`, and then a new VSCode window will open up.
    The bottom left corner of the window should read `WSL`.
+
+{% include vs-code-workspace-trust-popup.html %}
+
 3. In the new **WSL VSCode window**, open the **Extensions** panel again (or `Ctrl+Shift+X`).
    Search for each of the following extensions and click `Install`
    (or `Install in WSL: Ubuntu`, if you already have the extension installed locally) for the first entry that appears.
@@ -210,6 +213,19 @@ Only install Docker Desktop after you have successfully installed WSL2.
    However, in general, you can also use Docker command-line tools in Command Prompt or PowerShell.
 
 The above step-by-step instructions are distilled from [https://docs.docker.com/desktop/setup/install/windows-install/](https://docs.docker.com/desktop/setup/install/windows-install/).
+
+### Install the `tree` command
+
+`tree` is a helpful command for viewing directory structures, and is strongly recommended.
+
+1. Open a terminal (Ubuntu), and check if you have `tree` already installed by running `tree --version`. 
+   - If you see a version number, you're all set!
+   - If you see a message like `tree: command not found`, install it by running:
+      ```bash
+      sudo apt-get update && sudo apt-get install -y tree
+      ```
+      You may be prompted to enter your password to proceed. 
+      If so, use the password for the WSL Ubuntu account you created during the WSL2 setup.
 
 ---
 

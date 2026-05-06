@@ -25,7 +25,7 @@ If you are prompted to install it follow the instructions on-screen to do so.
 
 {% include extra-git-setup.html %}
 
-#### Creating an SSH key for GitHub
+#### Create an SSH key for GitHub
 
 When following the GitHub docs in the steps below, make sure to select the **Linux** instructions at the top of the page.
 
@@ -37,6 +37,10 @@ When following the GitHub docs in the steps below, make sure to select the **Lin
    button for either the `.deb` (Ubuntu, Debian) or the `.rpm` (Fedora, CentOS) file.
 2. Double-click the downloaded file to install VSCode
    (you may be prompted to type your administrator password during the install).
+3. To confirm that everything worked, open a terminal and type `code .` (include the period). 
+   This should open the current directory in a VSCode window.
+
+{% include vs-code-workspace-trust-popup.html %}
 
 #### VSCode extensions
 
@@ -63,19 +67,19 @@ When following the GitHub docs in the steps below, make sure to select the **Lin
    Press `Enter` or the space bar until you are prompted with
    `Do you accept the license terms? [yes|no]`.
    Type `yes` and then press `Enter`.
-2. The installation script will inform you that it is going to install into a default directory (e.g., `/home/$USER/miniconda3`).
+3. The installation script will inform you that it is going to install into a default directory (e.g., `/home/$USER/miniconda3`).
    Leave this default and press `Enter`.
-3. When you are asked
+4. When you are asked
    `Do you wish the installer to initialize Miniconda3 by running conda init? [yes|no]`,
    type `yes` and press `Enter`.
    Exit the terminal once the installation has finished.
-1. Re-open a new terminal.
+5. Re-open a new terminal.
    Type `which python` into the terminal and check that it returns a path like `/home/$USER/miniconda3/bin/python`.
    - If you do not see a path like this, try typing `conda init`,
      closing your terminal, and repeating this step.
      If your issue is still not resolved skip the following step
      and contact an instructor on the `#help-installation` channel of the Slack workspace.
-1. Type the following to remove the installation script that was downloaded:
+6. Type the following to remove the installation script that was downloaded:
 
    ```bash
    rm ./Miniconda3-latest-Linux-x86_64.sh
@@ -93,12 +97,23 @@ When following the GitHub docs in the steps below, make sure to select the **Lin
    [Fedora](https://docs.docker.com/engine/install/fedora/),
    [CentOS](https://docs.docker.com/engine/install/centos/)). Make sure to
    follow the "Install using the repository" method!
-1. Once you've installed Docker make sure to follow the
+2. Once you've installed Docker make sure to follow the
    [post-install instructions](https://docs.docker.com/engine/install/linux-postinstall/)
    as well. You only need to do the "Manage Docker as a non-root user" and
    "Configure Docker to start on boot" steps.
-1. Open a new terminal and type `docker run hello-world`. 
+3. Open a new terminal and type `docker run hello-world`. 
    If the installation worked, a brief introductory message should be printed to the screen.
+
+### Install the `tree` command
+
+`tree` is a helpful command for viewing directory structures, and is strongly recommended.
+
+1. Open a terminal, and check if you have `tree` already installed by running `tree --version`. 
+   - If you see a version number, you're all set!
+   - If you see a message like `tree: command not found`, install it by running:
+      ```bash
+      sudo apt-get update && sudo apt-get install -y tree
+      ```
 
 ---
 
