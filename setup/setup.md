@@ -55,11 +55,11 @@ operating systems (Windows, Mac OS, and Linux).
 
 ### GitHub account
 
-1. Follow the instructions at [https://github.com/join/](https://github.com/join/) to create an account. 
+1. Follow the instructions at [https://github.com/join/](https://github.com/join/) to create an account.
 We recommend using your university e-mail for the account if you have one (you can always change it later or add a secondary e-mail).
 
 2. We strongly recommend also signing up for [GitHub Education Student](https://github.com/education/students),
-which provides free access to perks and tools including the [GitHub Student Developer Pack](https://education.github.com/pack). 
+which provides free access to perks and tools including the [GitHub Student Developer Pack](https://education.github.com/pack).
 The application process is very quick, and verification typically takes no more than a couple days at most.
 
 ### Slack
@@ -75,7 +75,7 @@ Install Firefox, Chrome, or Safari.
 ### OS-specific installation instructions
 
 Once you have completed the above general setup, select the link that corresponds to your operating system and follow the
-instructions provided. 
+instructions provided.
 Please direct any questions to the `#help-installation`
 channel in the QLS612 Slack.
 

@@ -62,7 +62,7 @@ see the "Install WSL2 on Windows 10 (older versions)" section on this [page](htt
 From this point on, whenever the instructions specify to **"open/type a command
 in a terminal"**, please do so using the
 Ubuntu application (open **Start (Win key)**, search for **Ubuntu**, and
-click **Ubuntu** or **Ubuntu \<VERSION-NUMBER\>**). 
+click **Ubuntu** or **Ubuntu \<VERSION-NUMBER\>**).
 Do not use Command Prompt or Powershell for the remaining steps unless explicitly stated.
 
 Need more help?
@@ -124,9 +124,9 @@ Verify that the extensions you have just installed appear in the list under `WSL
 
 To open the terminal in your **WSL VSCode window** (if you do not already see
 one at the bottom of the window), navigate to **View > Terminal** in
-the top menu bar (or `` Ctrl+` ``). 
-This terminal in a WSL VSCode window is equivalent to the WSL2 Ubuntu terminal we get from opening the Ubuntu app itself 
-(e.g., from the **Start (Win key)** menu), 
+the top menu bar (or `` Ctrl+` ``).
+This terminal in a WSL VSCode window is equivalent to the WSL2 Ubuntu terminal we get from opening the Ubuntu app itself
+(e.g., from the **Start (Win key)** menu),
 but with the advantage of having all the graphical features of VSCode at your disposal.
 
 Reference: [https://code.visualstudio.com/docs/remote/wsl](https://code.visualstudio.com/docs/remote/wsl)
@@ -156,7 +156,7 @@ terminal directly).
 4. When you are asked `Do you wish the installer to initialize Miniconda3 by
    running conda init? [yes|no]`, type `yes` and press `Enter`.
    Close the terminal once the installation has finished (you can do this by typing `exit`).
-5. Re-open the Ubuntu terminal. 
+5. Re-open the Ubuntu terminal.
    Type `which python` and check that it returns a path like: `/home/$USER/miniconda3/bin/python`.
    - If you do not see a path like this, try `cd miniconda3/bin/`
      then `./conda init`, close and re-open your terminal, then repeat this step.
@@ -180,7 +180,7 @@ You can now use VSCode to edit a Python script or Jupyter Notebook in your WSL2 
 - When running a Jupyter notebook in VSCode (remote access to your WSL2 Ubuntu),
    you will also need to specify the Python environment for the notebook (kernel).
    This will be demonstrated in class, but as a reference:
-      - There will be a `Select Kernel` button in the top right corner of the Jupyter notebook window. 
+      - There will be a `Select Kernel` button in the top right corner of the Jupyter notebook window.
          Click this button and select the option that looks like _qlsc612
          (Python 3.x.y) ~/miniconda3/envs/qlsc612/bin/python_.
       - The button should now be updated to read _qlsc612 (Python 3.x.y)_.
@@ -218,13 +218,13 @@ The above step-by-step instructions are distilled from [https://docs.docker.com/
 
 `tree` is a helpful command for viewing directory structures, and is strongly recommended.
 
-1. Open a terminal (Ubuntu), and check if you have `tree` already installed by running `tree --version`. 
+1. Open a terminal (Ubuntu), and check if you have `tree` already installed by running `tree --version`.
    - If you see a version number, you're all set!
    - If you see a message like `tree: command not found`, install it by running:
       ```bash
       sudo apt-get update && sudo apt-get install -y tree
       ```
-      You may be prompted to enter your password to proceed. 
+      You may be prompted to enter your password to proceed.
       If so, use the password for the WSL Ubuntu account you created during the WSL2 setup.
 
 ---

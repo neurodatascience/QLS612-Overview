@@ -37,7 +37,7 @@ When following the GitHub docs in the steps below, make sure to select the **Lin
    button for either the `.deb` (Ubuntu, Debian) or the `.rpm` (Fedora, CentOS) file.
 2. Double-click the downloaded file to install VSCode
    (you may be prompted to type your administrator password during the install).
-3. To confirm that everything worked, open a terminal and type `code .` (include the period). 
+3. To confirm that everything worked, open a terminal and type `code .` (include the period).
    This should open the current directory in a VSCode window.
 
 {% include vs-code-workspace-trust-popup.html %}
@@ -101,14 +101,14 @@ When following the GitHub docs in the steps below, make sure to select the **Lin
    [post-install instructions](https://docs.docker.com/engine/install/linux-postinstall/)
    as well. You only need to do the "Manage Docker as a non-root user" and
    "Configure Docker to start on boot" steps.
-3. Open a new terminal and type `docker run hello-world`. 
+3. Open a new terminal and type `docker run hello-world`.
    If the installation worked, a brief introductory message should be printed to the screen.
 
 ### Install the `tree` command
 
 `tree` is a helpful command for viewing directory structures, and is strongly recommended.
 
-1. Open a terminal, and check if you have `tree` already installed by running `tree --version`. 
+1. Open a terminal, and check if you have `tree` already installed by running `tree --version`.
    - If you see a version number, you're all set!
    - If you see a message like `tree: command not found`, install it by running:
       ```bash

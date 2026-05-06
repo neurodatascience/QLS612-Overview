@@ -6,13 +6,13 @@ description: Instructions for setting up on Mac
 
 ### Bash shell
 
-On Mac OS, you already have a `bash` shell installed! 
+On Mac OS, you already have a `bash` shell installed!
 However, depending on your OS version, you may have a different _default_ shell (e.g., `zsh`).
 
-To check your default shell, open a terminal and type `echo $SHELL`. 
+To check your default shell, open a terminal and type `echo $SHELL`.
 If the output reads `/bin/bash`, you are all set!
 
-If the output is something else (e.g., `/bin/zsh`), we strongly recommend changing your default shell to `bash` for this course. 
+If the output is something else (e.g., `/bin/zsh`), we strongly recommend changing your default shell to `bash` for this course.
 To do so,
 
 1. Run:
@@ -72,7 +72,7 @@ When following the GitHub docs in the steps below, make sure to select the **Mac
 
    You can skip all other sections on that page.
 
-2. To confirm that everything worked, open a terminal and type `code .` (include the period). 
+2. To confirm that everything worked, open a terminal and type `code .` (include the period).
 This should open the current directory in a VSCode window.
 
 {% include vs-code-workspace-trust-popup.html %}
@@ -150,7 +150,7 @@ If you have questions during the installation procedure please check that link f
 
 `tree` is a helpful command for viewing directory structures, and is strongly recommended.
 
-1. Open a terminal, and check if you have `tree` already installed by running `tree --version`. 
+1. Open a terminal, and check if you have `tree` already installed by running `tree --version`.
    - If you see a version number, you're all set!
    - If you see a message like `tree: command not found`, install it by running:
       ```bash
