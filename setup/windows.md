@@ -154,7 +154,7 @@ terminal directly).
    running conda init? [yes|no]`, type `yes` and press `Enter`.
    Close the terminal once the installation has finished (you can do this by typing `exit`).
 5. Re-open the Ubuntu terminal. 
-   Type `which python` and check that it returns a path that looks like this: `/home/$USER/miniconda3/bin/python`
+   Type `which python` and check that it returns a path like: `/home/$USER/miniconda3/bin/python`.
    - If you do not see a path like this, try `cd miniconda3/bin/`
      then `./conda init`, close and re-open your terminal, then repeat this step.
      If your issue is still not resolved, skip the following step and
