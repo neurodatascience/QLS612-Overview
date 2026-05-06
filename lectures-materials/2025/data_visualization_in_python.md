@@ -4,7 +4,7 @@ title: 👀 Introduction to data visualization in Python 🐍
 description: 👀🐍
 ---
 
-**Instructor:** [Kendra Oudyk](https://github.com/koudyk)
+**Instructor:** [Jacob Sanz-Robinson](https://jacobsanz97.github.io/)
 
 ## Outline
 
@@ -22,16 +22,24 @@ description: 👀🐍
 
 ## Material
 
-*in preparation*
+Material was prepared by [Kendra Oudyk](https://github.com/koudyk)
+
+<object data="{{ site.url }}/assets/material/07_intro-to-data-visualization_part-1_KO_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
+
+<object data="{{ site.url }}/assets/material/07_intro-to-data-visualization_part-2_KO_2025.pdf " width="1000" height="1000" type='application/pdf'>
+</object>
 ## Resources
 
 -   [Matplotlib cheatsheet](https://matplotlib.org/cheatsheets/)
+- [Slides from 2023](https://github.com/neurodatascience/course-materials-2023/tree/d4e4523ee4e42f604c9f709318d918b7880a444b/10-Intro_to_Data_Visualization) which include some notes from the speaker (Kendra)
 
 ## Extras
 
 {% include xkcd.html xkcd_nb="688" img="self_description" %}
 
 -   [Listing of data visualizations](https://datavizcatalogue.com/)
+- [How to pick more beautiful colors for your data visualizations](https://www.datawrapper.de/blog/beautifulcolors)
 
 ---
 

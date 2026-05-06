@@ -2,10 +2,9 @@
 layout: default
 title: 🌳 Introduction to Git and GitHub 🌳
 description: 🌳
-pdf_file: https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2025/03_git-github/03_git-github_KO_2025.pdf
 ---
 
-**Instructor:** [Kendra Oudyk](https://github.com/koudyk)
+**Instructor:** [Julia-Katharina Pfarr](https://github.com/julia-pfarr)
 
 ## Outline
 
@@ -45,7 +44,7 @@ In this lecture, students will learn:
 
 ## Material
 
-<object data="{{ site.url }}/assets/material/03_git-github_KO_2025.pdf " width="1000" height="1000" type='application/pdf'>
+<object data="{{ site.url }}/assets/material/03_git-github_JKP_2025.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
 ## Resources
