@@ -125,6 +125,7 @@ Verify that the extensions you have just installed appear in the list under `WSL
 To open the terminal in your **WSL VSCode window** (if you do not already see
 one at the bottom of the window), navigate to **View > Terminal** in
 the top menu bar (or `` Ctrl+` ``).
+
 This terminal in a WSL VSCode window is equivalent to the WSL2 Ubuntu terminal we get from opening the Ubuntu app itself
 (e.g., from the **Start (Win key)** menu),
 but with the advantage of having all the graphical features of VSCode at your disposal.
