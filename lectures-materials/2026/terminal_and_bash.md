@@ -65,7 +65,7 @@ An example of how to edit the preferences for a Mac terminal to change its look 
   and offers many [themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) for your prompt
   but also many [plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins-Overview) with many aliases to help you be more productive.
 
-  - [oh-my-bash](https://ohmybash.github.io/) is the equivalent for `bash`.
+  - [oh-my-bash](https://ohmybash.nntoan.com/) is the equivalent for `bash`.
 
 - [oh-my-posh](https://ohmyposh.dev/) works with most shells and operating systems
   and offers a [wide range of themes for your prompt](https://ohmyposh.dev/docs/themes).
