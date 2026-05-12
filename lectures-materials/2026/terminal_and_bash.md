@@ -27,7 +27,7 @@ You will learn how to use the command line to:
   `"DATASET_subject..."` to a different directory on your computer?
 
 - Among thousands of files and directories you know know there is a file where the file contents
-  include the phrase `"Backup of my Thesis"`. 
+  include the phrase `"Backup of my Thesis"`.
   How would you find this file?
 
 - What is an environment variable, and how can you change it?
