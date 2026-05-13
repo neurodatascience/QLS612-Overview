@@ -20,7 +20,6 @@ description:
 ---
 
 1.  [Introduction to reproducibility]({{ site.url }}/lectures-materials/2026/intro_to_reproducibility.html)
-1.  [Installation clinic]({{ site.url }}/lectures-materials/2026/intro_to_reproducibility.html)
 1.  [Terminal and bash]({{ site.url }}/lectures-materials/2026/terminal_and_bash.html)
 1.  [🌳 Git and GitHub 🌳]({{ site.url }}/lectures-materials/2026/git_github.html)
 1.  [🐍 Introduction to Python 🐍]({{ site.url }}/lectures-materials/2026/intro_to_python.html)
