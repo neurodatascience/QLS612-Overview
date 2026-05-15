@@ -16,12 +16,12 @@ description:
 | **Friday May 22nd**   | 09:00-10:30 | **Module 3** <br> [🐙 Introduction to Git and GitHub 🌿]({{ site.url }}/lectures-materials/2026/git_github.html) <br> Julia                                           |
 |                        | 10:45-12:30 | ✏️ Exercises <br>                                                                                                                                                         |
 |                        | 13:30-15:00 | **Module 4** <br> [🐍 Python and virtual environments 🐍]({{ site.url }}/lectures-materials/2026/intro_to_python.html) <br> Michelle                                   |
-|                        | 15:15-16:45 | ✏️ Exercises <br>                                                                                                                                                         |
-|                        | 16:45-17:45 | 📝 Quiz 1 + feedback 💬 <br>                                                                                                                                                 |
+|                        | 15:15-16:30 | ✏️ Exercises <br>                                                                                                                                                         |
+|                        | 16:45-17:30 | 📝 Quiz 1 + feedback 💬 <br>                                                                                                                                                 |
 |                        |             |                                                                                                                                                                        |
-| **Monday May 25th** | 09:00-11:00 | **Module 5** <br> [🔢 Numpy & Pandas 🐼]({{ site.url }}/lectures-materials/2026/numpy_pandas.html) <br> Jacob                     |
+| **Monday May 25th** | 09:00-10:50 | **Module 5** <br> [🔢 Numpy & Pandas 🐼]({{ site.url }}/lectures-materials/2026/numpy_pandas.html) <br> Jacob                     |
 |                        | 11:00-11:30 | ✏️ Exercises <br>                                                                                                                                                         |
-|                        | 11:45-12:30 | **Module 6** <br> [🤖 LLMs for Coding 💻]({{ site.url }}/lectures-materials/2026/llm1.html) <br> Brent                                |
+|                        | 11:50-12:30 | **Module 6** <br> [🤖 LLMs for Coding 💻]({{ site.url }}/lectures-materials/2026/llm1.html) <br> Brent                                |
 |                        | 13:30-14:00 | ✏️ Exercises, 🗂️ Project<br>                                                                                                                                                |
 |                        | 14:00-15:30 | **Module 7** <br> [🧠 Advanced LLMs 🤖]({{ site.url }}/lectures-materials/2026/llm2.html) <br> Brent   |
 |                        | 15:45-17:00 | ✏️ Exercises, 🗂️ Project<br>                                                                                                                                                |
