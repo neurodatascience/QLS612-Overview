@@ -32,7 +32,7 @@ description:
 |                        | 15:15-17:00 | ✏️ Exercises <br>                                                                                                                                                |
 |                        |             |                                                                                                                                                                        |
 | **Wednesday May 27th**    | 09:00-10:00 | **Module 10** <br> [💥 Classical statistics pitfalls and remedies 💊]({{ site.url }}/lectures-materials/2026/classical_statistics_pitfalls_and_remedies.html) <br> JB          |
-|                        | 10:15-10:45 | **Module 11: Part 1**  <br> [🐋 Containers 🐋]({{ site.url }}/lectures-materials/2026/containers.html) <br> Seb                                                                 |
+|                        | 10:10-11:40 | **Module 11: Part 1**  <br> [🐋 Containers 🐋]({{ site.url }}/lectures-materials/2026/containers.html) <br> Seb                                                                 |
 |                        | 11:45-12:30 | ✏️ Exercises <br> Seb                                                                 |
 |                        | 13:30-15:00 | **Module 12** <br> [📊 Introduction to data visualization in Python 📈]({{ site.url }}/lectures-materials/2026/data_visualization_in_python.html) <br> Johanna                                        |
 |                        | 15:15-15:30 | ✏️ Exercises <br>                                                                                                                                                |
