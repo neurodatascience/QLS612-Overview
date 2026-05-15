@@ -9,7 +9,7 @@ description: 🐍
 ## Outline
 
 This lecture is designed to get students up and running with Python.
-It is expected that Python 3 (preferably 3.8 or later) is installed,
+It is expected that Python 3.12 is installed,
 and that the students have some basic previous experience in a scripting language.
 
 It will guide students through the fundamental syntax, concepts,
@@ -76,7 +76,7 @@ Topics include:
 
 ## Resources
 
-<!-- - [Beginner's Python Cheat Sheet](https://github.com/neurodatascience/QLS-course-materials/blob/main/Lectures/2026/04_intro-python/beginners_python_cheat_sheet_pcc_all.pdf) -->
+- [Beginner's Python Cheat Sheet](https://github.com/neurodatascience/QLS-course-materials/blob/a00a745b927909b8a76639de0320cc9c0ac64a34/Lectures/2026/04_intro_to_python/cheatsheets/beginners_python_cheat_sheet_pcc_all.pdf)
 -   [Think Python 2e textbook](https://greenteapress.com/wp/think-python-2e/)
 -   [conda cheatsheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 
