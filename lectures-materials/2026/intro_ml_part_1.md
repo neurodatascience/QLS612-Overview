@@ -34,7 +34,7 @@ description: 🤖 Supervised Learning 📖
 
 ## Material
 
-<object data="{{ site.url }}/assets/material/08_machine-learning-1_MW_2026.pdf " width="1000" height="1000" type='application/pdf'>
+<object data="{{ site.url }}/assets/material/08_ML-in-neuroimaging-1_NB_2026.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
 ## Resources

@@ -4,7 +4,7 @@ title: 👀 Introduction to data visualization in Python 🐍
 description: 👀🐍
 ---
 
-**Instructor:** [Jacob Sanz-Robinson](https://jacobsanz97.github.io/)
+**Instructor:** [Dr. Johanna Bayer](https://github.com/likeajumprope)
 
 ## Outline
 
@@ -24,10 +24,10 @@ description: 👀🐍
 
 Material was prepared by [Kendra Oudyk](https://github.com/koudyk)
 
-<object data="{{ site.url }}/assets/material/07_intro-to-data-visualization_part-1_KO_2026.pdf " width="1000" height="1000" type='application/pdf'>
+<object data="{{ site.url }}/assets/material/12_data_viz_lecture_slides_pt1_JMMB_2026.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
-<object data="{{ site.url }}/assets/material/07_intro-to-data-visualization_part-2_KO_2026.pdf " width="1000" height="1000" type='application/pdf'>
+<object data="{{ site.url }}/assets/material/12_data_viz_lecture_slides_pt2_JMMB_2026.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 ## Resources
 

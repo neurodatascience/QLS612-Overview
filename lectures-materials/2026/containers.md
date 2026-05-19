@@ -24,7 +24,7 @@ In this course, you will:
 
 ## Material
 
-<object data="{{ site.url }}/assets/material/11_containers_AD_2026.pdf " width="1000" height="1000" type='application/pdf'>
+<object data="{{ site.url }}/assets/material/11_2026_QLSC612_containerization.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
 ## Resources

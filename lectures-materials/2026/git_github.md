@@ -44,7 +44,7 @@ In this lecture, students will learn:
 
 ## Material
 
-<object data="{{ site.url }}/assets/material/03_git-github_JKP_2026.pdf " width="1000" height="1000" type='application/pdf'>
+<object data="{{ site.url }}/assets/material/03_Git-GitHub_QLS612_2026.pdf " width="1000" height="1000" type='application/pdf'>
 </object>
 
 ## Resources
