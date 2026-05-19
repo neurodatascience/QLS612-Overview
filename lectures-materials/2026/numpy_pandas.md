@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🐍 Python toolbox for data analysis 🐍
+title: 🐍 Numpy and Pandas 🐍
 description: "Scientific Python: NumPy and Scipy"
 ---
 
@@ -18,7 +18,7 @@ At the end of the lecture, participants will be able to:
 
 ## Material
 
-<!--[Link to material](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2026/05_numpy-scipy) -->
+[Link to material](https://github.com/neurodatascience/QLS-course-materials/tree/main/Lectures/2026/05_numpy_pandas)
 
 ## Resources
 
