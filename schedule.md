@@ -8,8 +8,8 @@ description:
 
 | Date                   | Time        | Event                                                                                                                                                                  |
 | ---------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Thursday May 21th**    | 09:00-10:30 | **Module 1** <br> [🔬 Introduction to scientific reproducibility 🔁]({{ site.url }}/lectures-materials/2026/intro_to_reproducibility.html) <br> JB                                      |
-|                        | 10:45-12:30 | 🚑 💻 Installation clinic 💻 🚑 <br> Alyssa                                                                                                                            |
+| **Thursday May 21th**  | 09:00-10:30 | **Module 1** <br>  🚑 💻 Installation clinic 💻 🚑 <br> Alyssa                    |
+|                        | 10:45-12:30 |[🔬 Introduction to scientific reproducibility 🔁]({{ site.url }}/lectures-materials/2026/intro_to_reproducibility.html) <br> JB.                                  |
 |                        | 13:30-15:00 | **Module 2** <br> [🐧 Introduction to the Terminal and Bash 🐧]({{ site.url }}/lectures-materials/2026/terminal_and_bash.html) <br> Alyssa                      |
 |                        | 15:15-17:00 | ✏️ Exercises <br>                                                                                                                                                         |
 |                        |             |                                                                                                                                                                        |
