@@ -24,7 +24,7 @@ Specifically, you will:
 
 ## Material
 
-[Link to material](https://github.com/neurodatascience/QLS612-Overview/assets/material/01_nds-intro-reproductibility-2025.pdf)
+[Link to material](https://github.com/neurodatascience/QLS612-Overview/blob/main/assets/material/01_nds-intro-reproductibility-2025.pdf)
 
 ## Resources
 
