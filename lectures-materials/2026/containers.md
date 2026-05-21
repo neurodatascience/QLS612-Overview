@@ -4,7 +4,8 @@ title: 🐋 Containers 🐋
 description: 🐋
 ---
 
-**Instructor:** [Alyssa Dai](https://github.com/alyssadai)
+**Instructor:** [Sebastian Urchs](https://github.com/surchs)
+**TA:** [Alyssa Dai](https://github.com/alyssadai)
 
 ## Outline
 
